@@ -30,11 +30,11 @@
     "difficulty": "easy",
     "stem": "Kelso Metals shares were purchased at USD 64 and sold one year later at USD 70. The holder also received a cash dividend of USD 2.56. Using \\(HPR=(P_1-P_0+D)/P_0\\), the holding-period return is closest to:",
     "choices": [
-      "13.38%",
       "9.38%",
-      "12.23%"
+      "12.23%",
+      "13.38%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "The holding-period return puts the price change and the dividend over the purchase price: \\[HPR=\\frac{70-64+2.56}{64}\\]. That ratio is 13.38%. Leaving out the dividend understates the result, and dividing by the sale price uses the wrong base.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -52,11 +52,11 @@
     "difficulty": "medium",
     "stem": "Northline Foods returned 12% in the first year and −5% in the second year. No cash was added or removed between the years. Using \\(TWR=(1+r_1)(1+r_2)-1\\), the two-year time-weighted return is closest to:",
     "choices": [
-      "6.40%",
       "3.50%",
+      "6.40%",
       "17.60%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Time-weighted return chains the growth factors and does not average the percentages: \\[(1.12)(0.95)-1=0.064\\]. The linked return is 6.40%. An arithmetic average ignores compounding, and flipping the sign of the second year invents a gain that did not occur.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -74,11 +74,11 @@
     "difficulty": "medium",
     "stem": "A Lumen Rail holding produced a 28% return over a full three-year span. Using \\(r=(1+HPR)^{1/T}-1\\), the annualized return is closest to:",
     "choices": [
+      "8.58%",
       "9.33%",
-      "28.00%",
-      "8.58%"
+      "28.00%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Annualizing converts the three-year growth factor into a one-year rate: \\[(1.28)^{1/3}-1\\]. The annualized return is 8.58%. Dividing 28% by three ignores compounding, and reporting 28% leaves the result in holding-period form.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -96,9 +96,9 @@
     "difficulty": "easy",
     "stem": "Bramble Utilities issued a note with a stated annual rate of 8% compounded quarterly. Using \\(EAR=(1+r_s/m)^{m}-1\\), the effective annual rate is closest to:",
     "choices": [
-      "8.30%",
+      "8.00%",
       "8.24%",
-      "8.00%"
+      "8.30%"
     ],
     "correctIndex": 1,
     "explanation": "Quarterly compounding uses a 2% periodic rate four times: \\[(1+0.08/4)^{4}-1\\]. The effective annual rate is 8.24%. The stated 8% ignores compounding within the year, and monthly compounding is a different frequency from the one in the note.",
@@ -162,11 +162,11 @@
     "difficulty": "hard",
     "stem": "An investor contributes USD 80,000 at inception to a Piper Street account, has a net cash outflow of USD 16,000 at the end of year 1 (a USD 20,000 added contribution minus a USD 4,000 distribution taken in cash), and withdraws USD 118,000 when the account closes at the end of year 2. Using the internal rate of return on those investor cash flows, \\(NPV(r)=0\\), the money-weighted return is closest to:",
     "choices": [
-      "22.92%",
       "11.86%",
+      "22.92%",
       "27.50%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Money-weighted return is the IRR of the investor’s cash flows, with contributions negative and the final withdrawal positive: \\[-80000,\\ -16000,\\ +118000\\]. The IRR is 11.86%. Profit over the first deposit, or profit over the sum of deposits without a time weight, ignores when the cash moved.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -184,12 +184,12 @@
     "difficulty": "hard",
     "stem": "An account starts at USD 100, earns 50% in year 1, and then receives a USD 150 deposit. In year 2 the account loses 20% and finishes at USD 240, which is withdrawn. Relative to the two-year time-weighted return, the money-weighted return is:",
     "choices": [
-      "Lower, because the larger sum of money was invested during the losing year.",
-      "Higher, because the extra deposit lifted the ending balance above the opening deposit.",
-      "The same, because both measures simply chain the 50% gain and the 20% loss."
+      "Higher",
+      "The same",
+      "Lower, as described"
     ],
-    "correctIndex": 0,
-    "explanation": "Time-weighted return chains subperiod growth and ignores the deposit size: \\[(1.50)(0.80)-1=0.20\\]. Money-weighted return is the IRR of −100, −150, and +240, which is negative. Lower, because the larger sum of money was invested during the losing year.",
+    "correctIndex": 2,
+    "explanation": "Time-weighted return chains subperiod growth and ignores the deposit size: \\[(1.50)(0.80)-1=0.20\\]. Money-weighted return is the IRR of −100, −150, and +240, which is negative. Lower, because the larger sum of money was invested during the losing year.\n\nBest answer: Lower, as described",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
       "youtubeUrl": "https://www.youtube.com/watch?v=QIl6JH_PuW8",
@@ -206,11 +206,11 @@
     "difficulty": "medium",
     "stem": "Orchard Paper was bought at USD 25 and sold two years later at USD 31.36. It paid no dividend. Using \\(HPR=(P_T-P_0)/P_0\\), the two-year holding-period return, not the annualized rate, is closest to:",
     "choices": [
-      "25.44%",
       "12.00%",
-      "20.28%"
+      "20.28%",
+      "25.44%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A holding-period return over the whole horizon is the total price change over the starting price: \\[\\frac{31.36-25}{25}\\]. That two-year return is 25.44%. Annualizing it, or dividing by the ending price, answers a different question.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -228,11 +228,11 @@
     "difficulty": "easy",
     "stem": "Sable Logistics recorded successive annual returns of 4%, 3%, and −2%. Using \\((1+r_1)(1+r_2)(1+r_3)-1\\), the linked three-year return is closest to:",
     "choices": [
-      "7.12%",
       "4.98%",
-      "5.00%"
+      "5.00%",
+      "7.12%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Link the three growth factors: \\[(1.04)(1.03)(0.98)-1\\]. The three-year return is 4.98%. Adding the percentages skips compounding, and stopping after two years drops the loss.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -250,11 +250,11 @@
     "difficulty": "medium",
     "stem": "A one-year government bill yield contains a real risk-free rate and expected inflation. A longer government bond from the same issuer yields more. The market treats both instruments as free of credit risk and equally liquid. The extra yield on the longer bond is best described as:",
     "choices": [
+      "A maturity premium for interest-rate risk over the longer horizon.",
       "A liquidity premium that belongs on the bill rather than on the bond.",
-      "A credit premium for the chance the issuer misses a contractual payment.",
-      "A maturity premium for interest-rate risk over the longer horizon."
+      "A credit premium for the chance the issuer misses a contractual payment."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The additive build-up is \\(r=r_{real}+\\pi^e+MP+LP+CP\\). With credit and liquidity the same on both instruments, the gap that remains is the maturity premium. A maturity premium for interest-rate risk over the longer horizon.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -272,11 +272,11 @@
     "difficulty": "medium",
     "stem": "Marlowe Cement borrows at a stated annual rate of 9% with monthly compounding. Using \\(EAR=(1+0.09/12)^{12}-1\\), the effective annual rate is closest to:",
     "choices": [
-      "9.38%",
       "9.00%",
+      "9.38%",
       "9.75%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Twelve monthly factors of 0.75% compound to the effective annual rate: \\[(1+0.09/12)^{12}-1\\]. The result is 9.38%. The stated 9% is not the effective rate, and adding one monthly slice to 9% double-counts the quote.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -294,11 +294,11 @@
     "difficulty": "hard",
     "stem": "Rowan Dairy’s annual returns were 10%, −10%, and 10%. Using \\(G=(1+r_1)(1+r_2)(1+r_3)^{1/3}-1\\), the geometric mean annual return is closest to:",
     "choices": [
-      "8.90%",
       "2.88%",
-      "3.33%"
+      "3.33%",
+      "8.90%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The geometric mean annualizes the linked growth: \\[[(1.10)(0.90)(1.10)]^{1/3}-1\\]. It equals 2.88%. The arithmetic mean is larger here, and the three-year linked return has not been reduced to a one-year rate.",
     "hardTopicHelp": {
       "blurb": "Split a quoted rate into a real risk-free piece, expected inflation, and premiums for maturity, liquidity, and credit. Holding-period return puts the price change and any cash distribution over the starting price. Time-weighted return links subperiod growth and ignores how much money was invested; money-weighted return is an IRR and does care about cash-flow timing.",
@@ -316,11 +316,11 @@
     "difficulty": "easy",
     "stem": "Finch Analytics will receive a single contract payment of USD 10,000 in four years. The discount rate is 7% a year. Using \\(PV=FV/(1+r)^n\\), the present value is closest to:",
     "choices": [
-      "USD 8,162.98",
       "USD 7,628.95",
+      "USD 8,162.98",
       "USD 13,107.96"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Discount the payment across four annual periods: \\[PV=\\frac{10000}{(1.07)^4}\\]. The present value is USD 7,628.95. Compounding the payment forward, or stopping the discount one year early, does not price the cash flow on the stated date.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -338,11 +338,11 @@
     "difficulty": "easy",
     "stem": "Hearth Hotels places USD 5,000 on deposit today for six years at 5% compounded annually. Using \\(FV=PV(1+r)^n\\), the future value is closest to:",
     "choices": [
-      "USD 6,700.48",
+      "USD 3,731.08",
       "USD 6,500.00",
-      "USD 3,731.08"
+      "USD 6,700.48"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Compound the deposit for six years: \\[FV=5000(1.05)^6\\]. The future value is USD 6,700.48. Simple interest of 5% times six years skips compounding, and discounting the deposit answers the reverse question.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -361,8 +361,8 @@
     "stem": "Ibis Apparel must make five year-end lease payments of USD 8,000. The discount rate is 6%. Using the ordinary-annuity factor \\(PV=C\\frac{1-(1+r)^{-n}}{r}\\), the present value is closest to:",
     "choices": [
       "USD 33,698.91",
-      "USD 40,000.00",
-      "USD 35,720.84"
+      "USD 35,720.84",
+      "USD 40,000.00"
     ],
     "correctIndex": 0,
     "explanation": "An ordinary annuity discounts each year-end payment: \\[8000\\cdot\\frac{1-(1.06)^{-5}}{0.06}\\]. The present value is USD 33,698.91. Multiplying 8,000 by five ignores discounting, and grossing up by one extra period prices an annuity due.",
@@ -383,10 +383,10 @@
     "stem": "Vesper Clinics just paid a dividend of USD 2.40. Dividends are expected to grow at 4% forever, and shareholders require 9%. Using \\(P_0=D_1/(r-g)\\), the justified price is closest to:",
     "choices": [
       "USD 27.73",
-      "USD 49.92",
-      "USD 48.00"
+      "USD 48.00",
+      "USD 49.92"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Next year’s dividend is \\(2.40\\times 1.04=2.496\\), and the growing perpetuity is \\[P_0=\\frac{2.496}{0.09-0.04}\\]. The price is USD 49.92. Dividing the dividend just paid by the spread skips a year of growth, and dividing by 9% alone drops the growth adjustment.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -404,11 +404,11 @@
     "difficulty": "easy",
     "stem": "Redkite Mining preferred stock pays a level dividend of USD 6.00, with the next dividend due in one year. Investors require 8%. Using \\(P_0=C/r\\), the price is closest to:",
     "choices": [
-      "USD 120.00",
+      "USD 75.00",
       "USD 81.00",
-      "USD 75.00"
+      "USD 120.00"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A level perpetuity is the cash flow divided by the discount rate: \\[P_0=\\frac{6}{0.08}\\]. The price is USD 75.00. Using a 5% denominator, or grossing the dividend up as if it grew, changes the security that was priced.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -427,10 +427,10 @@
     "stem": "Nimbus Components is expected to pay USD 1.20 in one year and USD 1.50 in two years. After year 2, dividends grow at 3% forever. The required return is 9%. Using \\(P_0=\\sum D_t/(1+r)^t\\), with the terminal value inside the year-2 cash flow, the present value is closest to:",
     "choices": [
       "USD 22.25",
-      "USD 28.45",
-      "USD 24.04"
+      "USD 24.04",
+      "USD 28.45"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The terminal price at t = 2 is \\(1.50(1.03)/(0.09-0.03)\\), and today’s value discounts the first dividend plus that terminal package: \\[P_0=\\frac{1.20}{1.09}+\\frac{1.50+P_2}{(1.09)^2}\\]. The price is USD 24.04. Adding the undiscounted cash flows, or pushing the terminal price one year too far, misstates the timing.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -448,11 +448,11 @@
     "difficulty": "medium",
     "stem": "A Plover Bank bond has a face value of USD 1,000, a 5% annual coupon, and three years to maturity. The yield is 6% with annual payments. Using \\(P=\\sum C/(1+y)^t+Face/(1+y)^n\\), the price is closest to:",
     "choices": [
-      "USD 1,027.23",
       "USD 973.27",
-      "USD 1,000.00"
+      "USD 1,000.00",
+      "USD 1,027.23"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Each coupon and the principal are discounted at 6%: \\[P=\\sum_{t=1}^{3}\\frac{50}{(1.06)^t}+\\frac{1000}{(1.06)^3}\\]. The price is USD 973.27. Par would require the coupon to equal the yield, and swapping the 5% coupon with the 6% yield prices a premium bond instead.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -471,10 +471,10 @@
     "stem": "The one-year spot rate is 3.00% and the two-year spot rate is 4.50%, both effective annual rates. Using \\((1+z_2)^2=(1+z_1)(1+f)\\), the one-year forward rate one year from now is closest to:",
     "choices": [
       "3.75%",
-      "6.02%",
-      "4.50%"
+      "4.50%",
+      "6.02%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "The forward is the break-even rate that equates the two-year spot investment with a one-year rollover: \\[(1.045)^2/(1.03)-1\\]. It is 6.02%. The two-year spot itself, and a simple average of the two spots, are not that break-even rate.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -515,8 +515,8 @@
     "stem": "A Harbor Glass contract pays USD 200 in one year, USD 300 in two years, and USD 500 in three years. The discount rate is 8%. Using \\(PV=\\sum CF_t/(1+r)^t\\), the value today is closest to:",
     "choices": [
       "USD 839.30",
-      "USD 1,000.00",
-      "USD 906.45"
+      "USD 906.45",
+      "USD 1,000.00"
     ],
     "correctIndex": 0,
     "explanation": "Discount each cash flow by its own exponent: \\[\\frac{200}{1.08}+\\frac{300}{(1.08)^2}+\\frac{500}{(1.08)^3}\\]. The present value is USD 839.30. The undiscounted sum ignores time, and treating the first USD 200 as cash today shifts every exponent.",
@@ -537,10 +537,10 @@
     "stem": "Willow Clinics will make eight lease payments of USD 1,200, with the first payment due immediately. The discount rate is 5%. Using an annuity due, \\(PV_{due}=PV_{ordinary}(1+r)\\), the present value is closest to:",
     "choices": [
       "USD 7,755.86",
-      "USD 9,600.00",
-      "USD 8,143.65"
+      "USD 8,143.65",
+      "USD 9,600.00"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The ordinary-annuity value of eight payments is grossed up by one period because the first payment is immediate: \\[PV_{due}=1200\\cdot\\frac{1-(1.05)^{-8}}{0.05}\\cdot 1.05\\]. The present value is USD 8,143.65. The ordinary annuity assumes a one-year delay, and 1,200 times eight is an undiscounted total.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -559,10 +559,10 @@
     "stem": "Rowan Dairy sets aside USD 1,200 at the end of each year for eight years. The account earns 5% a year. Using \\(FV=C\\frac{(1+r)^n-1}{r}\\), the future value on the date of the last payment is closest to:",
     "choices": [
       "USD 7,755.86",
-      "USD 11,458.93",
-      "USD 9,600.00"
+      "USD 9,600.00",
+      "USD 11,458.93"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Compound each end-of-year deposit to the horizon: \\[FV=1200\\cdot\\frac{(1.05)^8-1}{0.05}\\]. The future value is USD 11,458.93. Eight times 1,200 ignores interest, and the ordinary-annuity present value is the reverse of this accumulation.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -580,9 +580,9 @@
     "difficulty": "easy",
     "stem": "Quill Software just paid a dividend of USD 1.80. The dividend is expected to grow at 4% a year, and the required return is 11%. Using \\(D_1=D_0(1+g)\\), next year’s dividend is closest to:",
     "choices": [
-      "USD 26.74",
+      "USD 1.80",
       "USD 1.87",
-      "USD 1.80"
+      "USD 26.74"
     ],
     "correctIndex": 1,
     "explanation": "One year of growth applied to the dividend just paid is \\[D_1=1.80\\times 1.04\\]. Next year’s dividend is USD 1.87. The dividend just paid is \\(D_0\\), and dividing \\(D_1\\) by \\(r-g\\) produces a price rather than the dividend.",
@@ -602,11 +602,11 @@
     "difficulty": "medium",
     "stem": "A family wants USD 20,000 available in ten years for a Hearth Hotels training program. The discount rate is 6% compounded annually. Using \\(PV=FV/(1+r)^n\\), the single deposit required today is closest to:",
     "choices": [
-      "USD 35,816.95",
       "USD 11,167.90",
-      "USD 12,500.00"
+      "USD 12,500.00",
+      "USD 35,816.95"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The deposit is the present value of the savings target: \\[PV=\\frac{20000}{(1.06)^{10}}\\]. It is USD 11,167.90. Dividing by one plus 6% times ten uses simple interest, and compounding 20,000 forward tells you what a deposit of that size would become.",
     "hardTopicHelp": {
       "blurb": "Price is the present value of the cash flows you expect to receive. A level perpetuity is the cash flow divided by the discount rate. A growing perpetuity (the Gordon case) divides next period’s cash flow by discount rate minus growth, and only when growth is lower. Additivity is why a bond is the sum of its discounted coupons and why implied forwards have to agree with the spot curve.",
@@ -624,11 +624,11 @@
     "difficulty": "easy",
     "stem": "Five annual returns for Marlowe Cement were 8%, 2%, 11%, −4%, and 5%. Using \\(\\bar{x}=\\sum x_i/n\\), the arithmetic mean return is closest to:",
     "choices": [
-      "5.00%",
       "4.40%",
+      "5.00%",
       "8.00%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Add the five returns and divide by five: \\[(0.08+0.02+0.11-0.04+0.05)/5\\]. The mean is 4.40%. The middle sorted value is the median, and dropping the negative and the small positive observation changes the sample.",
     "hardTopicHelp": {
       "blurb": "The mean chases outliers; the median does not. Variance and standard deviation describe spread, and the coefficient of variation is spread per unit of mean. Mean above median usually means right skew. Excess kurtosis above zero means heavier tails than a normal curve. Correlation near zero means little linear association, not “no relationship of any kind.”",
@@ -646,11 +646,11 @@
     "difficulty": "medium",
     "stem": "For those same five Marlowe Cement returns (8%, 2%, 11%, −4%, and 5%), the sample variance uses the \\(n-1\\) divisor. The sample variance is closest to:",
     "choices": [
-      "0.00333",
       "0.00266",
+      "0.00333",
       "0.01332"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Sample variance averages the squared gaps from the mean with the sample divisor: \\[s^2=\\frac{\\sum (x_i-\\bar{x})^2}{n-1}\\]. The value is 0.00333. Dividing by n instead of n − 1 is the population variance of these five numbers, and the undivided sum of squares is larger than the variance.",
     "hardTopicHelp": {
       "blurb": "The mean chases outliers; the median does not. Variance and standard deviation describe spread, and the coefficient of variation is spread per unit of mean. Mean above median usually means right skew. Excess kurtosis above zero means heavier tails than a normal curve. Correlation near zero means little linear association, not “no relationship of any kind.”",
@@ -669,10 +669,10 @@
     "stem": "Using the sample variance of the five Marlowe Cement returns, the sample standard deviation is \\(s=\\sqrt{s^2}\\). That standard deviation is closest to:",
     "choices": [
       "0.33%",
-      "5.77%",
-      "5.16%"
+      "5.16%",
+      "5.77%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "The standard deviation is the square root of the sample variance \\(0.00333\\): \\[s=\\sqrt{\\frac{\\sum (x_i-\\bar{x})^2}{4}}\\]. It equals 5.77%. Reporting the variance itself, or the square root of the population variance, is a different scale.",
     "hardTopicHelp": {
       "blurb": "The mean chases outliers; the median does not. Variance and standard deviation describe spread, and the coefficient of variation is spread per unit of mean. Mean above median usually means right skew. Excess kurtosis above zero means heavier tails than a normal curve. Correlation near zero means little linear association, not “no relationship of any kind.”",
@@ -691,10 +691,10 @@
     "stem": "The Marlowe Cement sample has a mean return of 4.40% and a sample standard deviation of about 5.77%. Using \\(CV=s/\\bar{x}\\), the coefficient of variation is closest to:",
     "choices": [
       "0.08",
-      "1.31",
-      "0.76"
+      "0.76",
+      "1.31"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Coefficient of variation is spread per unit of mean: \\[CV=\\frac{0.0577}{0.044}\\]. For the Marlowe sample it is 1.31. Inverting the ratio, or dividing the variance by the mean, does not express standard deviation per unit of return.",
     "hardTopicHelp": {
       "blurb": "The mean chases outliers; the median does not. Variance and standard deviation describe spread, and the coefficient of variation is spread per unit of mean. Mean above median usually means right skew. Excess kurtosis above zero means heavier tails than a normal curve. Correlation near zero means little linear association, not “no relationship of any kind.”",
@@ -712,9 +712,9 @@
     "difficulty": "easy",
     "stem": "Sorted, the five Marlowe Cement returns are −4%, 2%, 5%, 8%, and 11%. Their arithmetic mean is 4.40% and their median is 5%. The shape of this sample is best described as:",
     "choices": [
-      "Right-skewed, because the largest observation is farther above zero than the smallest is below zero.",
-      "Symmetric, because a sample with five observations cannot have skewness.",
-      "The sample is left-skewed, because the mean sits below the median."
+      "Symmetric",
+      "Right-skewed",
+      "The sample is left-skewed"
     ],
     "correctIndex": 2,
     "explanation": "Skewness compares the mean with the median. Here \\(\\bar{x}<\\text{median}\\), which is the left-skew pattern: a low observation pulls the mean down. The sample is left-skewed, because the mean sits below the median.",
@@ -756,9 +756,9 @@
     "difficulty": "easy",
     "stem": "The correlation between weekly returns on Harbor Glass and Kelso Metals is −0.82. The linear association between the two series is best described as:",
     "choices": [
-      "Positive, because only the absolute value of a correlation is interpreted.",
-      "Strong and negative: the two return series tend to move in opposite directions.",
-      "Weak, because a negative sign means the association is close to zero."
+      "Weak",
+      "Strong and negative",
+      "Positive, in this case"
     ],
     "correctIndex": 1,
     "explanation": "Correlation is bounded by \\(-1\\) and \\(1\\). A value of −0.82 is far from zero and negative, so the series tend to move apart. Strong and negative: the two return series tend to move in opposite directions.",
@@ -778,11 +778,11 @@
     "difficulty": "medium",
     "stem": "Northline Foods has a return standard deviation of 20%, and Bramble Utilities has a return standard deviation of 12%. Their return correlation is 0.30. Using \\(Cov=\\rho\\,\\sigma_1\\sigma_2\\), the covariance is closest to:",
     "choices": [
-      "0.3000",
+      "0.0072",
       "0.0240",
-      "0.0072"
+      "0.3000"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Covariance scales the correlation by both standard deviations: \\[Cov=0.30\\times 0.20\\times 0.12\\]. The covariance is 0.0072. The correlation is already a unit-free number, and the product of the two standard deviations omits that correlation.",
     "hardTopicHelp": {
       "blurb": "The mean chases outliers; the median does not. Variance and standard deviation describe spread, and the coefficient of variation is spread per unit of mean. Mean above median usually means right skew. Excess kurtosis above zero means heavier tails than a normal curve. Correlation near zero means little linear association, not “no relationship of any kind.”",
@@ -800,11 +800,11 @@
     "difficulty": "hard",
     "stem": "The Marlowe Cement sample is edited so the −4% return becomes −40%, while 8%, 2%, 11%, and 5% stay in the sample. Using \\(\\bar{x}=\\sum x_i/n\\), the new arithmetic mean is closest to:",
     "choices": [
+      "-2.80%",
       "4.40%",
-      "5.00%",
-      "-2.80%"
+      "5.00%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The edited sum is \\(0.08+0.02+0.11-0.40+0.05=-0.14\\), so \\[\\bar{x}=-0.14/5\\]. The new mean is -2.80%. The median of the edited sample is still 5%, and the original mean no longer describes the edited data. The mean moves with the outlier; the median does not.",
     "hardTopicHelp": {
       "blurb": "The mean chases outliers; the median does not. Variance and standard deviation describe spread, and the coefficient of variation is spread per unit of mean. Mean above median usually means right skew. Excess kurtosis above zero means heavier tails than a normal curve. Correlation near zero means little linear association, not “no relationship of any kind.”",
@@ -822,8 +822,8 @@
     "difficulty": "medium",
     "stem": "An analyst has a sample of return observations and wants the sample variance, not the population variance of those same numbers. The correct divisor on the sum of squared deviations is:",
     "choices": [
-      "Divide the sum of squared deviations from the sample mean by n + 1.",
       "Divide the sum of squared deviations from the sample mean by n.",
+      "Divide the sum of squared deviations from the sample mean by n + 1.",
       "Divide the sum of squared deviations from the sample mean by n − 1."
     ],
     "correctIndex": 2,
@@ -866,9 +866,9 @@
     "difficulty": "hard",
     "stem": "Harbor Glass has a mean return of 8% and a standard deviation of 12%. Bramble Utilities has a mean return of 5% and a standard deviation of 6%. Stand-alone dispersion per unit of mean return is the coefficient of variation. The firm with the higher coefficient of variation is:",
     "choices": [
-      "Harbor Glass, because its standard deviation is larger relative to its mean return.",
-      "Bramble Utilities, because its standard deviation of 6% is the smaller of the two figures.",
-      "Neither firm, because coefficients of variation are equal whenever both means are positive."
+      "Harbor Glass",
+      "Neither firm",
+      "Bramble Utilities"
     ],
     "correctIndex": 0,
     "explanation": "Coefficient of variation is \\(CV=\\sigma/\\bar{x}\\). Harbor Glass has \\(0.12/0.08=1.50\\) and Bramble Utilities has \\(0.06/0.05=1.20\\). Harbor Glass, because its standard deviation is larger relative to its mean return.",
@@ -889,10 +889,10 @@
     "stem": "A one-year scenario set for Lumen Rail assigns a 25% chance to a 12% return, a 50% chance to a 4% return, and a 25% chance to a −6% return. Using \\(E(R)=\\sum p_i R_i\\), the expected return is closest to:",
     "choices": [
       "3.33%",
-      "4.00%",
-      "3.50%"
+      "3.50%",
+      "4.00%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Weight each return by its probability: \\[0.25(0.12)+0.50(0.04)+0.25(-0.06)\\]. The expected return is 3.50%. An equal-weighted average ignores the stated probabilities, and the middle return is only one scenario.",
     "hardTopicHelp": {
       "blurb": "Expected value is the probability-weighted average outcome. Variance uses those same probabilities on squared gaps from the mean. On a tree, multiply along a path and add across paths that cannot happen together. Bayes’ formula revises a prior by how likely the new information was under each state.",
@@ -910,11 +910,11 @@
     "difficulty": "medium",
     "stem": "Using that same Lumen Rail scenario set (25% at 12%, 50% at 4%, 25% at −6%), the standard deviation is \\(\\sigma=\\sqrt{\\sum p_i(R_i-E(R))^2}\\). It is closest to:",
     "choices": [
-      "6.38%",
+      "0.41%",
       "3.50%",
-      "0.41%"
+      "6.38%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "The expected return is 3.50%. Variance is \\[\\sum p_i(R_i-0.035)^2=0.004075\\], and the standard deviation is its square root. That standard deviation is 6.38%. Reporting the variance, or reporting the expected return, uses a different unit.",
     "hardTopicHelp": {
       "blurb": "Expected value is the probability-weighted average outcome. Variance uses those same probabilities on squared gaps from the mean. On a tree, multiply along a path and add across paths that cannot happen together. Bayes’ formula revises a prior by how likely the new information was under each state.",
@@ -932,11 +932,11 @@
     "difficulty": "medium",
     "stem": "Piper Street Capital’s tree says the chance of an expansion is 60%, and the chance a portfolio beats its benchmark given an expansion is 70%. Using \\(P(E\\cap B)=P(E)P(B\\mid E)\\), the joint probability of expansion and a beat is closest to:",
     "choices": [
+      "18.00%",
       "42.00%",
-      "70.00%",
-      "18.00%"
+      "70.00%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Multiply along the branch: \\[0.60\\times 0.70=0.42\\]. The joint probability is 42.00%. The 70% figure is conditional on expansion, and 60% times 30% is the joint probability of expansion and a miss.",
     "hardTopicHelp": {
       "blurb": "Expected value is the probability-weighted average outcome. Variance uses those same probabilities on squared gaps from the mean. On a tree, multiply along a path and add across paths that cannot happen together. Bayes’ formula revises a prior by how likely the new information was under each state.",
@@ -954,11 +954,11 @@
     "difficulty": "medium",
     "stem": "Sable Logistics logged 200 shipping weeks. Storms occurred in 40 of them, and 28 of those storm weeks had a late delivery. The other 160 calm weeks included 16 late deliveries. Using \\(P(L\\mid S)=n(L\\cap S)/n(S)\\), the probability of a late delivery given a storm is closest to:",
     "choices": [
-      "70.00%",
       "14.00%",
-      "22.00%"
+      "22.00%",
+      "70.00%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Condition on the storm weeks only: \\[P(L\\mid S)=28/40\\]. The conditional probability is 70.00%. Dividing 28 by all 200 weeks is a joint share of the sample, and pooling every late week estimates the unconditional late rate.",
     "hardTopicHelp": {
       "blurb": "Expected value is the probability-weighted average outcome. Variance uses those same probabilities on squared gaps from the mean. On a tree, multiply along a path and add across paths that cannot happen together. Bayes’ formula revises a prior by how likely the new information was under each state.",
@@ -976,8 +976,8 @@
     "difficulty": "hard",
     "stem": "For a Kelso Metals loan, the prior probability of default is 2%. A covenant flag appears in 80% of default cases and in 5% of non-default cases. Using \\(P(D\\mid F)=P(D)P(F\\mid D)/P(F)\\), the probability of default given a flag is closest to:",
     "choices": [
-      "2.00%",
       "1.60%",
+      "2.00%",
       "24.62%"
     ],
     "correctIndex": 2,
@@ -1064,11 +1064,11 @@
     "difficulty": "medium",
     "stem": "Vesper Clinics assigns a 55% probability to an USD 8,000,000 payoff and a 45% probability to an USD 1,000,000 payoff. Using \\(E(X)=\\sum p_i X_i\\), the expected payoff is closest to:",
     "choices": [
+      "USD 4,150,000.00",
       "USD 4,500,000.00",
-      "USD 4,850,000.00",
-      "USD 4,150,000.00"
+      "USD 4,850,000.00"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Weight the cash payoffs by the stated probabilities: \\[0.55(8000000)+0.45(1000000)\\]. The expected payoff is USD 4,850,000.00. Swapping the probabilities, or averaging the two payoffs, discards the tree as it was written.",
     "hardTopicHelp": {
       "blurb": "Expected value is the probability-weighted average outcome. Variance uses those same probabilities on squared gaps from the mean. On a tree, multiply along a path and add across paths that cannot happen together. Bayes’ formula revises a prior by how likely the new information was under each state.",
@@ -1086,11 +1086,11 @@
     "difficulty": "hard",
     "stem": "Ibis Apparel uses two suppliers that fail independently. Each supplier has a 20% chance of missing a shipment in a given month. Using \\(P(at\\ least\\ one)=1-P(none)\\), the probability that at least one supplier misses a shipment is closest to:",
     "choices": [
-      "40.00%",
       "4.00%",
-      "36.00%"
+      "36.00%",
+      "40.00%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The complement of two independent successes is \\[1-(0.80)(0.80)=0.36\\]. The probability of at least one miss is 36.00%. Adding the two 20% figures double-counts the month in which both fail, and 4% is the probability that both fail.",
     "hardTopicHelp": {
       "blurb": "Expected value is the probability-weighted average outcome. Variance uses those same probabilities on squared gaps from the mean. On a tree, multiply along a path and add across paths that cannot happen together. Bayes’ formula revises a prior by how likely the new information was under each state.",
@@ -1130,11 +1130,11 @@
     "difficulty": "medium",
     "stem": "A two-asset portfolio puts 60% in an asset with a 20% standard deviation and 40% in an asset with a 12% standard deviation. The correlation is 0.30. Using \\(\\sigma_p^2=w_1^2\\sigma_1^2+w_2^2\\sigma_2^2+2w_1w_2Cov\\), portfolio variance is closest to:",
     "choices": [
+      "0.01670",
       "0.02016",
-      "0.02822",
-      "0.01670"
+      "0.02822"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Variance keeps the squared weights, the squared risks, and twice the weighted covariance: \\[0.60^2(0.20^2)+0.40^2(0.12^2)+2(0.60)(0.40)(0.20)(0.12)(0.30)\\]. The variance is 0.02016. A correlation of zero drops the last term, and a correlation of one is a different portfolio.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1152,11 +1152,11 @@
     "difficulty": "medium",
     "stem": "For that 60/40 portfolio (standard deviations 20% and 12%, correlation 0.30), the portfolio standard deviation is \\(\\sigma_p=\\sqrt{\\sigma_p^2}\\). It is closest to:",
     "choices": [
+      "12.92%",
       "14.20%",
-      "16.80%",
-      "12.92%"
+      "16.80%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Take the square root of the variance computed with correlation 0.30. The standard deviation is 14.20%. \\[\\sigma_p=\\sqrt{0.02016}\\]. Zero correlation produces a smaller figure, and a weighted average of the two standard deviations is the result only when correlation equals one.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1174,11 +1174,11 @@
     "difficulty": "medium",
     "stem": "The same two assets have standard deviations of 20% and 12% and a correlation of 0.30. Their covariance, \\(Cov=\\rho\\sigma_1\\sigma_2\\), is closest to:",
     "choices": [
-      "0.3000",
       "0.0072",
-      "0.0202"
+      "0.0202",
+      "0.3000"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Covariance does not use the portfolio weights: \\[Cov=0.30\\times 0.20\\times 0.12=0.0072\\]. It equals 0.0072. Portfolio variance is the full weighted expression, and 0.30 is the correlation before it is scaled by the two risks.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1196,11 +1196,11 @@
     "difficulty": "easy",
     "stem": "A candidate portfolio has an expected return of 11% and a standard deviation of 16%. The investor’s minimum acceptable return is 3%. Using Roy’s ratio \\(SF=(E(R)-R_L)/\\sigma\\), the safety-first ratio is closest to:",
     "choices": [
-      "3.13",
+      "0.50",
       "0.69",
-      "0.50"
+      "3.13"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Subtract the threshold from the expected return and divide by the standard deviation: \\[(0.11-0.03)/0.16=0.50\\]. The ratio is 0.50. Dividing by variance, or ignoring the threshold, is not Roy’s ratio.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1218,11 +1218,11 @@
     "difficulty": "hard",
     "stem": "Two portfolios are judged only by the chance of falling short of a 2% threshold, and returns are treated as normal. Portfolio A has an expected return of 9% and a standard deviation of 14%. Portfolio B has an expected return of 12% and a standard deviation of 22%. The portfolio with the lower shortfall probability is:",
     "choices": [
-      "The 9% portfolio, because its safety-first ratio is higher than the 12% portfolio’s ratio.",
-      "The 12% portfolio, because a higher expected return always has a lower chance of missing a threshold.",
-      "They are equal, because both expected returns sit above the 2% threshold."
+      "They are equal",
+      "The 9% portfolio",
+      "The 12% portfolio"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Roy’s ratio is \\((E(R)-R_L)/\\sigma\\). Portfolio A scores \\((0.09-0.02)/0.14\\approx 0.50\\) and Portfolio B scores \\((0.12-0.02)/0.22\\approx 0.45\\). Under the normal assumption, the higher ratio is the lower shortfall probability. The 9% portfolio, because its safety-first ratio is higher than the 12% portfolio’s ratio.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1240,11 +1240,11 @@
     "difficulty": "medium",
     "stem": "An equal-weighted pair has standard deviations of 22% and 16% and a correlation of 0.20. Using \\(\\sigma_p=\\sqrt{w_1^2\\sigma_1^2+w_2^2\\sigma_2^2+2w_1w_2\\rho\\sigma_1\\sigma_2}\\), the portfolio standard deviation is closest to:",
     "choices": [
-      "14.84%",
       "13.60%",
+      "14.84%",
       "19.00%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "With equal weights the variance is \\[0.5^2(0.22^2)+0.5^2(0.16^2)+2(0.5)(0.5)(0.22)(0.16)(0.20)\\], and the standard deviation is its square root. The result is 14.84%. A correlation of one would make the standard deviation the weighted average of 22% and 16%. A correlation of zero drops the covariance term and produces a smaller risk.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1284,11 +1284,11 @@
     "difficulty": "easy",
     "stem": "An investor places USD 60,000 in Bramble Utilities, expected return 7%, and USD 40,000 in Kelso Metals, expected return 15%. Using value weights in \\(E(R_p)=\\sum w_i E(R_i)\\), the portfolio expected return is closest to:",
     "choices": [
-      "11.80%",
       "10.20%",
-      "11.00%"
+      "11.00%",
+      "11.80%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The value weights are 0.60 and 0.40: \\[0.60(0.07)+0.40(0.15)\\]. The expected return is 10.20%. An equal-weighted average pretends the positions are the same size, and swapping the returns assigns Kelso’s return to the larger weight.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1307,10 +1307,10 @@
     "stem": "A 60/40 portfolio combines an 18% standard deviation with an 8% standard deviation, and the correlation is exactly 1. Using \\(\\sigma_p=w_1\\sigma_1+w_2\\sigma_2\\) for this perfect-correlation case, the portfolio standard deviation is closest to:",
     "choices": [
       "1.96%",
-      "14.00%",
-      "11.26%"
+      "11.26%",
+      "14.00%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "When correlation is one, portfolio standard deviation collapses to the weighted average of the standard deviations: \\[0.60(0.18)+0.40(0.08)\\]. It equals 14.00%. A correlation of zero drops the covariance term and produces a smaller risk. Squaring the 14% result produces a variance, not a standard deviation.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1328,11 +1328,11 @@
     "difficulty": "hard",
     "stem": "A portfolio has an expected return of 10% and a standard deviation of 15%. The investor sets the shortfall threshold at 4%. Using \\(SF=(E(R)-R_L)/\\sigma\\), the safety-first ratio is closest to:",
     "choices": [
-      "2.67",
       "0.40",
-      "0.67"
+      "0.67",
+      "2.67"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The threshold enters the numerator: \\[(0.10-0.04)/0.15\\]. The safety-first ratio is 0.40. Dividing by variance inflates the ratio, and a threshold of zero answers a different investor constraint.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1350,11 +1350,11 @@
     "difficulty": "easy",
     "stem": "Two assets in a long-only portfolio have a negative return correlation. Relative to a case with the same weights and standard deviations but a zero correlation, this portfolio’s variance is:",
     "choices": [
-      "Portfolio variance is below the weighted sum of the variances, because the covariance term is negative.",
-      "Equal to the weighted average of the two variances, because weights that sum to one remove covariance.",
-      "Higher than the zero-correlation case, because a negative correlation is a penalty in the variance formula."
+      "Higher than the zero-correlation case",
+      "Portfolio variance is below the weighted sum of the variances",
+      "Equal to the weighted average of the two variances, as described"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "The two-asset variance is \\(w_1^2\\sigma_1^2+w_2^2\\sigma_2^2+2w_1w_2\\rho\\sigma_1\\sigma_2\\). A negative correlation makes the last term negative. Portfolio variance is below the weighted sum of the variances, because the covariance term is negative.",
     "hardTopicHelp": {
       "blurb": "Portfolio expected return is a weighted average. Portfolio variance is not, unless correlation is 1. The covariance terms are the diversification. Roy’s safety-first ratio is (expected return − threshold) / standard deviation; under a normal assumption, the higher ratio is the lower chance of falling short.",
@@ -1373,10 +1373,10 @@
     "stem": "An analyst models the continuously compounded return on Quill Software as a normal random variable and builds the price from today’s price times the exponential of that return. The price distribution is best described as:",
     "choices": [
       "Uniform between today’s price and a cap the analyst chooses.",
-      "Normal, so the price has the same chance of being negative as of being a large positive number.",
-      "The price is lognormal and stays positive if the continuously compounded return is normal."
+      "The price is lognormal and stays positive if the continuously compounded return is normal.",
+      "Normal, so the price has the same chance of being negative as of being a large positive number."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "If the continuous return \\(r\\) is normal, then \\(P_T=P_0 e^{r}\\) is lognormal. The price is lognormal and stays positive if the continuously compounded return is normal.",
     "hardTopicHelp": {
       "blurb": "If the continuously compounded return is normal, the price stays positive and is lognormal. Monte Carlo draws paths from a model you specify. Bootstrap draws from the data you already have. Use the first when you trust the distribution; use the second when the sample is the distribution.",
@@ -1396,7 +1396,7 @@
     "choices": [
       "A hypothesis test, because each path is a p-value for the mean.",
       "Monte Carlo draws paths from a distribution the analyst specifies in advance.",
-      "A bootstrap, because any computer draw is a resample of last year’s returns."
+      "A bootstrap, because any computer draw is a resample of last year’s returns, as described."
     ],
     "correctIndex": 1,
     "explanation": "Monte Carlo simulation generates \\(P_{t+1}=P_t e^{\\mu+\\sigma Z}\\) from a chosen model, where \\(Z\\) is a random draw. Monte Carlo draws paths from a distribution the analyst specifies in advance.",
@@ -1416,12 +1416,12 @@
     "difficulty": "medium",
     "stem": "Instead of naming a distribution, an analyst of Northline Foods repeatedly samples, with replacement, from the firm’s actual monthly returns and compounds the draws into a one-year path. This procedure is best described as:",
     "choices": [
-      "Bootstrap draws are taken from the observed sample, with replacement.",
+      "A closed-form lognormal price, because resampling creates a continuous distribution.",
       "A Monte Carlo study that still requires the analyst to state a volatility parameter.",
-      "A closed-form lognormal price, because resampling creates a continuous distribution."
+      "Bootstrap draws are taken from the observed sample, with replacement, for this position."
     ],
-    "correctIndex": 0,
-    "explanation": "The bootstrap uses the empirical distribution: each draw is one of the observed returns. Bootstrap draws are taken from the observed sample, with replacement. No separate \\(\\sigma\\) is supplied by the analyst.",
+    "correctIndex": 2,
+    "explanation": "The bootstrap uses the empirical distribution: each draw is one of the observed returns. Bootstrap draws are taken from the observed sample, with replacement. No separate \\(\\sigma\\) is supplied by the analyst.\n\nBest answer: Bootstrap draws are taken from the observed sample, with replacement, for this position.",
     "hardTopicHelp": {
       "blurb": "If the continuously compounded return is normal, the price stays positive and is lognormal. Monte Carlo draws paths from a model you specify. Bootstrap draws from the data you already have. Use the first when you trust the distribution; use the second when the sample is the distribution.",
       "youtubeUrl": "https://www.youtube.com/watch?v=QIl6JH_PuW8",
@@ -1438,11 +1438,11 @@
     "difficulty": "easy",
     "stem": "A risk report models the price of Kelso Metals stock in one month as a normal random variable centered on today’s price. A reviewer objects to that choice for a limited-liability stock. The objection is:",
     "choices": [
-      "A normal price cannot be simulated, because normal draws are undefined below the mean.",
-      "A normal price is required, because limited liability forces the mean and the median to match.",
-      "A normal model for the price itself can produce negative prices, which a lognormal price model does not."
+      "A normal price is required",
+      "A normal model for the price itself can produce negative prices",
+      "A normal price cannot be simulated, on the facts given in the question"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A normal variable ranges over the whole real line, so \\(P\\) can be negative. Exponentiating a normal return, \\(P_0 e^{r}\\), keeps the price positive. A normal model for the price itself can produce negative prices, which a lognormal price model does not.",
     "hardTopicHelp": {
       "blurb": "If the continuously compounded return is normal, the price stays positive and is lognormal. Monte Carlo draws paths from a model you specify. Bootstrap draws from the data you already have. Use the first when you trust the distribution; use the second when the sample is the distribution.",
@@ -1460,12 +1460,12 @@
     "difficulty": "hard",
     "stem": "The historical sample used for a Lumen Rail bootstrap contains no monthly loss worse than 18%. A parametric Monte Carlo model uses a normal continuous return with a volatility estimated from that same sample. On the chance of a simulated monthly loss worse than 18%:",
     "choices": [
-      "Both methods are incapable of producing a loss worse than 18%, because both are tied to the sample.",
       "The bootstrap is more likely to show a worse loss, because it repeats the worst month every path.",
-      "A bootstrap path cannot show a crash worse than the worst return already in the sample, while a parametric Monte Carlo draw can."
+      "Both methods are incapable of producing a loss worse than 18%, because both are tied to the sample.",
+      "A bootstrap path cannot show a crash worse than the worst return already in the sample, as described"
     ],
     "correctIndex": 2,
-    "explanation": "Bootstrap support stops at the sample extremes. A normal draw for the continuous return can fall past \\(-18\\%\\) even when no observation did. A bootstrap path cannot show a crash worse than the worst return already in the sample, while a parametric Monte Carlo draw can.",
+    "explanation": "Bootstrap support stops at the sample extremes. A normal draw for the continuous return can fall past \\(-18\\%\\) even when no observation did. A bootstrap path cannot show a crash worse than the worst return already in the sample, while a parametric Monte Carlo draw can.\n\nBest answer: A bootstrap path cannot show a crash worse than the worst return already in the sample, as described",
     "hardTopicHelp": {
       "blurb": "If the continuously compounded return is normal, the price stays positive and is lognormal. Monte Carlo draws paths from a model you specify. Bootstrap draws from the data you already have. Use the first when you trust the distribution; use the second when the sample is the distribution.",
       "youtubeUrl": "https://www.youtube.com/watch?v=QIl6JH_PuW8",
@@ -1482,8 +1482,8 @@
     "difficulty": "medium",
     "stem": "A Monte Carlo engine for Bramble Utilities is rerun with ten times as many paths. The volatility input is still the figure from a calm three-year window that the reviewer thinks is too low. The larger run:",
     "choices": [
-      "Converts the study into a bootstrap, because a large number of draws recreates the historical sample.",
       "Removes the low-volatility problem, because simulation error and model error are the same object.",
+      "Converts the study into a bootstrap, because a large number of draws recreates the historical sample.",
       "More trials shrink simulation error around the assumed model; they do not repair a wrong volatility assumption."
     ],
     "correctIndex": 2,
@@ -1526,11 +1526,11 @@
     "difficulty": "medium",
     "stem": "The Ibis Apparel sample grows from 36 monthly returns to 144, and the sample standard deviation stays at 18%. Using \\(s_{\\bar{x}}=s/\\sqrt{n}\\), the new standard error of the mean is closest to:",
     "choices": [
+      "0.13%",
       "1.50%",
-      "3.00%",
-      "0.13%"
+      "3.00%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Quadrupling a sample multiplies the standard error by one half when the standard deviation is unchanged: \\[0.18/\\sqrt{144}=0.015\\]. The new standard error is 1.50%. The old standard error no longer applies, and dividing 18% by 144 is far too small.",
     "hardTopicHelp": {
       "blurb": "Simple random sampling gives every member an equal chance. Stratified sampling forces each group to appear. Convenience samples are fast and biased. The central limit theorem says the sample mean tightens around the population mean as n grows, with standard error equal to s divided by the square root of n.",
@@ -1548,11 +1548,11 @@
     "difficulty": "medium",
     "stem": "A sample mean return is 5% and the standard error of that mean is 3%. An approximate 95% interval uses 1.96 standard errors. Using \\(\\bar{x}+1.96\\,s_{\\bar{x}}\\), the upper end of the interval is closest to:",
     "choices": [
+      "8.00%",
       "9.95%",
-      "10.88%",
-      "8.00%"
+      "10.88%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "The upper endpoint adds 1.96 standard errors to the point estimate: \\[0.05+1.96(0.03)\\]. It is 10.88%. Adding one standard error is a narrower band, and 1.65 standard errors is closer to a 90% convention than to 95%.",
     "hardTopicHelp": {
       "blurb": "Simple random sampling gives every member an equal chance. Stratified sampling forces each group to appear. Convenience samples are fast and biased. The central limit theorem says the sample mean tightens around the population mean as n grows, with standard error equal to s divided by the square root of n.",
@@ -1570,11 +1570,11 @@
     "difficulty": "easy",
     "stem": "A researcher wants every industry in a broad equity universe to appear in a return study, including industries that are a small slice of the market. Simple random sampling might miss one of those industries. The design that directly prevents that miss is:",
     "choices": [
-      "Convenience sampling, because the easiest names to price are spread evenly across industries.",
-      "Using only the single largest stock, because one name represents every industry it competes with.",
-      "Stratified sampling, because it forces each industry into the sample in a planned proportion."
+      "Stratified sampling",
+      "Convenience sampling",
+      "Using only the single largest stock"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Stratified sampling draws inside groups so that each group’s weight in the sample is chosen, often to match \\(n_k/n\\) to a population share. Stratified sampling, because it forces each industry into the sample in a planned proportion.",
     "hardTopicHelp": {
       "blurb": "Simple random sampling gives every member an equal chance. Stratified sampling forces each group to appear. Convenience samples are fast and biased. The central limit theorem says the sample mean tightens around the population mean as n grows, with standard error equal to s divided by the square root of n.",
@@ -1592,8 +1592,8 @@
     "difficulty": "medium",
     "stem": "Piper Street Capital estimates how satisfied its clients are by surveying only the clients who called the desk last month. As a description of the whole client list, this design is:",
     "choices": [
-      "A stratified sample, because callers naturally sort themselves by mandate size.",
       "A simple random sample, because every caller had some chance of being a client.",
+      "A stratified sample, because callers naturally sort themselves by mandate size.",
       "A convenience sample of only those clients, biased toward accounts that contact the firm."
     ],
     "correctIndex": 2,
@@ -1614,11 +1614,11 @@
     "difficulty": "hard",
     "stem": "Weekly returns on a single freight contract are skewed. An analyst still wants a statement about the average weekly return and plans to use a large number of independent weeks. The central limit theorem says:",
     "choices": [
-      "The sampling distribution of the mean gets closer to normal as the number of independent observations grows.",
+      "The standard error rises as the square root of n, so a larger sample makes the mean less precise.",
       "The sample mean stays skewed for any sample size, so a normal interval for the mean is never usable.",
-      "The standard error rises as the square root of n, so a larger sample makes the mean less precise."
+      "The sampling distribution of the mean gets closer to normal as the number of independent observations grows."
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "With independent observations and a finite variance, the distribution of \\(\\bar{x}\\) tightens around \\(\\mu\\) and approaches a normal curve as n grows. The sampling distribution of the mean gets closer to normal as the number of independent observations grows. The standard error is \\(s/\\sqrt{n}\\), which falls as n rises.",
     "hardTopicHelp": {
       "blurb": "Simple random sampling gives every member an equal chance. Stratified sampling forces each group to appear. Convenience samples are fast and biased. The central limit theorem says the sample mean tightens around the population mean as n grows, with standard error equal to s divided by the square root of n.",
@@ -1636,11 +1636,11 @@
     "difficulty": "hard",
     "stem": "A sample of 16 annual returns has a sample standard deviation of 12%. The standard error of the mean uses \\(\\sqrt{n}\\) in the denominator, not \\(\\sqrt{n-1}\\). The standard error is closest to:",
     "choices": [
+      "0.75%",
       "3.00%",
-      "3.10%",
-      "0.75%"
+      "3.10%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "The sample standard deviation is already the n − 1 statistic. The standard error divides it by the square root of the sample size: \\[0.12/\\sqrt{16}\\]. The standard error is 3.00%. Dividing by the square root of 15 treats the divisor as if the standard deviation had not already been adjusted, and dividing by 16 is not a square root.",
     "hardTopicHelp": {
       "blurb": "Simple random sampling gives every member an equal chance. Stratified sampling forces each group to appear. Convenience samples are fast and biased. The central limit theorem says the sample mean tightens around the population mean as n grows, with standard error equal to s divided by the square root of n.",
@@ -1680,11 +1680,11 @@
     "difficulty": "easy",
     "stem": "A test uses a 5% significance level. The null hypothesis is true, and the test nevertheless rejects it. That outcome is:",
     "choices": [
-      "A Type II error: failing to reject a null hypothesis that is false.",
-      "A correct decision, because a 5% test is designed to reject every true null.",
-      "A Type I error: rejecting a null hypothesis that is actually true."
+      "A Type I error",
+      "A Type II error",
+      "A correct decision"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The significance level \\(\\alpha\\) is the probability of rejecting a true null. That mistake is a Type I error. A Type I error: rejecting a null hypothesis that is actually true.",
     "hardTopicHelp": {
       "blurb": "The null is the claim you put on trial, usually “no difference.” A Type I error rejects a true null. A Type II error keeps a false one. The significance level is your Type I budget; power is the chance you reject a false null. Parametric tests assume a distribution. Nonparametric tests are the fallback when that assumption is a poor description of the data.",
@@ -1702,11 +1702,11 @@
     "difficulty": "easy",
     "stem": "A test of whether Lumen Rail’s mean weekly return differs from zero returns a p-value of 0.03. The analyst set the significance level at 5% before seeing the data. The decision is:",
     "choices": [
-      "Accept the null as proved, because 0.03 is too small to be a real effect.",
       "Reject the null hypothesis that the mean weekly return is zero.",
+      "Accept the null as proved, because 0.03 is too small to be a real effect.",
       "Fail to reject the null, because a p-value below 5% supports keeping the null."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Reject when the p-value is below \\(\\alpha\\). Here \\(0.03<0.05\\). Reject the null hypothesis that the mean weekly return is zero. A small p-value is evidence against the null, not a proof of the null.",
     "hardTopicHelp": {
       "blurb": "The null is the claim you put on trial, usually “no difference.” A Type I error rejects a true null. A Type II error keeps a false one. The significance level is your Type I budget; power is the chance you reject a false null. Parametric tests assume a distribution. Nonparametric tests are the fallback when that assumption is a poor description of the data.",
@@ -1724,12 +1724,12 @@
     "difficulty": "medium",
     "stem": "The null hypothesis is false, and the test fails to reject it. In the language of hypothesis testing, this outcome is:",
     "choices": [
-      "A Type I error, because every failure to reject is charged against the significance level.",
       "Proof that the significance level was set too low to detect any effect.",
-      "A Type II error, and power is the probability of avoiding that error."
+      "A Type I error, because every failure to reject is charged against the significance level.",
+      "A Type II error, and power is the probability of avoiding that error, as described for this case."
     ],
     "correctIndex": 2,
-    "explanation": "A Type II error keeps a false null. Power is \\(1-\\beta\\), the probability of rejecting a false null. A Type II error, and power is the probability of avoiding that error.",
+    "explanation": "A Type II error keeps a false null. Power is \\(1-\\beta\\), the probability of rejecting a false null. A Type II error, and power is the probability of avoiding that error.\n\nBest answer: A Type II error, and power is the probability of avoiding that error, as described for this case.",
     "hardTopicHelp": {
       "blurb": "The null is the claim you put on trial, usually “no difference.” A Type I error rejects a true null. A Type II error keeps a false one. The significance level is your Type I budget; power is the chance you reject a false null. Parametric tests assume a distribution. Nonparametric tests are the fallback when that assumption is a poor description of the data.",
       "youtubeUrl": "https://www.youtube.com/watch?v=QIl6JH_PuW8",
@@ -1746,11 +1746,11 @@
     "difficulty": "medium",
     "stem": "An analyst fails to reject the null that a strategy’s mean excess return is zero. The p-value is 0.18 and the significance level is 5%. The justified conclusion is:",
     "choices": [
-      "The mean excess return is proved to be zero because the test did not reject.",
       "Failing to reject the null is not proof that the null is true.",
+      "The mean excess return is proved to be zero because the test did not reject.",
       "The test should be rerun at a lower significance level until the null is rejected."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Failure to reject means the data are not surprising enough under the null at the chosen \\(\\alpha\\). It does not pin the population mean at zero. Failing to reject the null is not proof that the null is true.",
     "hardTopicHelp": {
       "blurb": "The null is the claim you put on trial, usually “no difference.” A Type I error rejects a true null. A Type II error keeps a false one. The significance level is your Type I budget; power is the chance you reject a false null. Parametric tests assume a distribution. Nonparametric tests are the fallback when that assumption is a poor description of the data.",
@@ -1768,11 +1768,11 @@
     "difficulty": "medium",
     "stem": "Return data for a new token strategy fail every reasonable check for a normal distribution, and the sample is small. A tester still wants evidence about the center of the distribution. The more suitable choice is:",
     "choices": [
-      "A nonparametric test, because it does not rely on a normal return distribution.",
-      "A parametric t-test, because parametric tests are valid only when the data are non-normal.",
-      "No test of any kind, because independence of categories is the only nonparametric question."
+      "A parametric t-test",
+      "No test of any kind",
+      "A nonparametric test"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Parametric tests lean on a distributional assumption, often normality of the estimator. Rank-based and other nonparametric procedures relax that assumption. A nonparametric test, because it does not rely on a normal return distribution.",
     "hardTopicHelp": {
       "blurb": "The null is the claim you put on trial, usually “no difference.” A Type I error rejects a true null. A Type II error keeps a false one. The significance level is your Type I budget; power is the chance you reject a false null. Parametric tests assume a distribution. Nonparametric tests are the fallback when that assumption is a poor description of the data.",
@@ -1790,11 +1790,11 @@
     "difficulty": "hard",
     "stem": "An analyst tests only whether a mean return is greater than zero, not whether it differs from zero in either direction. Compared with a two-sided test at the same significance level, the one-sided test:",
     "choices": [
-      "The entire significance level sits in one tail, so the critical value is less extreme than in a two-sided test of the same level.",
-      "Uses a critical value of zero, because a one-sided question does not need a cutoff.",
-      "Splits the significance level across both tails, so it is harder to reject in the suspected direction."
+      "Uses a critical value of zero",
+      "The entire significance level sits in one tail",
+      "Splits the significance level across both tails"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "For a one-sided test, all of \\(\\alpha\\) is in the tail named by the alternative. The critical t is closer to zero than the two-sided critical value at the same \\(\\alpha\\). The entire significance level sits in one tail, so the critical value is less extreme than in a two-sided test of the same level.",
     "hardTopicHelp": {
       "blurb": "The null is the claim you put on trial, usually “no difference.” A Type I error rejects a true null. A Type II error keeps a false one. The significance level is your Type I budget; power is the chance you reject a false null. Parametric tests assume a distribution. Nonparametric tests are the fallback when that assumption is a poor description of the data.",
@@ -1814,7 +1814,7 @@
     "choices": [
       "Reject only if the statistic also exceeds 1.72 plus 2.09.",
       "Reject the null, because 2.40 is outside the two-sided critical value of 2.09.",
-      "Fail to reject, because 2.40 is closer to 2.09 than to the one-sided cutoff."
+      "Fail to reject, because 2.40 is closer to 2.09 than to the one-sided cutoff, as described."
     ],
     "correctIndex": 1,
     "explanation": "The decision uses the critical value that matches the stated alternative. For two sides, reject when \\(|t|>2.09\\). Reject the null, because 2.40 is outside the two-sided critical value of 2.09.",
@@ -1834,9 +1834,9 @@
     "difficulty": "medium",
     "stem": "Before looking at a sample of active returns, a researcher writes down the hypothesis that the mean active return equals zero. In the testing framework, that statement is:",
     "choices": [
-      "The alternative hypothesis, because the alternative is always the hypothesis of no effect.",
+      "The power of the test, because power is the claim the researcher hopes to prove.",
       "The null is the claim placed on trial, here the claim of no difference from zero.",
-      "The power of the test, because power is the claim the researcher hopes to prove."
+      "The alternative hypothesis, because the alternative is always the hypothesis of no effect."
     ],
     "correctIndex": 1,
     "explanation": "The null is what the procedure assumes for the sampling distribution of the statistic, often \\(H_0:\\mu=0\\). The null is the claim placed on trial, here the claim of no difference from zero.",
@@ -1878,9 +1878,9 @@
     "difficulty": "hard",
     "stem": "Using that same paired sample, the analyst compares the correlation t-statistic of about 2.25 with a two-sided 5% critical value of 2.09. There are 20 degrees of freedom. The decision on a null that the population correlation is zero is:",
     "choices": [
-      "The test is invalid, because a correlation test requires the two series to be categories rather than numbers.",
-      "Reject the null that the population correlation is zero, because the test statistic exceeds 2.09.",
-      "Fail to reject, because a correlation of 0.45 is below the critical value of 2.09."
+      "Fail to reject",
+      "Reject the null that the population correlation is zero",
+      "The test is invalid. That is the claim made for this case."
     ],
     "correctIndex": 1,
     "explanation": "Compare the computed statistic with the critical value: reject \\(H_0:\\rho=0\\) when \\(|t|\\) exceeds 2.09. Reject the null that the population correlation is zero, because the test statistic exceeds 2.09.",
@@ -1900,11 +1900,11 @@
     "difficulty": "easy",
     "stem": "An analyst sorts quarters into “recession or not” and “Kelso Metals dividend cut or not,” then fills a two-by-two count table. The procedure aimed at whether those two labels are unrelated is:",
     "choices": [
-      "A t-test that a Pearson correlation equals zero, because every independence question is a correlation question.",
       "A chi-square test on a contingency table, asking whether the two categories are independent.",
-      "A regression of the dividend in dollars on the recession label’s mean, which does not use the counts."
+      "A regression of the dividend in dollars on the recession label’s mean, which does not use the counts.",
+      "A t-test that a Pearson correlation equals zero, because every independence question is a correlation question."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "A contingency-table test compares observed counts with the counts expected if the labels were independent, using a chi-square form \\(\\sum (O-E)^2/E\\). A chi-square test on a contingency table, asking whether the two categories are independent.",
     "hardTopicHelp": {
       "blurb": "A test that correlation equals zero asks whether a linear association shows up in the sample. A contingency-table test asks whether two categories are independent. Failing to reject is not proof that the population link is zero.",
@@ -1922,11 +1922,11 @@
     "difficulty": "medium",
     "stem": "Two variables have a sample correlation near zero, but a scatter plot shows a clear U-shape. A conclusion that the variables are independent because the correlation is near zero is:",
     "choices": [
-      "Required only when the sample has more than 30 observations, which makes every curve linear.",
       "A correlation of zero does not prove independence if the relationship is nonlinear.",
-      "Required, because a correlation of zero is the definition of statistical independence."
+      "Required, because a correlation of zero is the definition of statistical independence.",
+      "Required only when the sample has more than 30 observations, which makes every curve linear."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Pearson correlation measures linear association. Independence is stronger: the joint distribution factors. A U-shape can have \\(\\rho\\approx 0\\) and still be dependent. A correlation of zero does not prove independence if the relationship is nonlinear.",
     "hardTopicHelp": {
       "blurb": "A test that correlation equals zero asks whether a linear association shows up in the sample. A contingency-table test asks whether two categories are independent. Failing to reject is not proof that the population link is zero.",
@@ -1945,10 +1945,10 @@
     "stem": "A fitted line for a plant-level output index is \\(\\hat{y}=0.4+1.5x\\), where x is capacity use. When capacity use is 6, the predicted output index is closest to:",
     "choices": [
       "7.90",
-      "9.40",
-      "9.00"
+      "9.00",
+      "9.40"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Substitute the stated capacity use into the fitted line: \\[\\hat{y}=0.4+1.5(6)\\]. The prediction is 9.40. The slope term alone drops the intercept, and adding the intercept, the slope, and x as three separate summands is not the equation.",
     "hardTopicHelp": {
       "blurb": "Least squares picks the line that minimizes the sum of squared residuals. The slope is the change in y for a one-unit change in x inside that model. R-squared is the share of y’s variation the line explains. A residual plot that fans out or bends is a sign the straight-line assumptions are strained.",
@@ -1966,11 +1966,11 @@
     "difficulty": "medium",
     "stem": "At that same point the model predicts 9.40 and the plant’s actual output index is 8.10. The residual, \\(e=y-\\hat{y}\\), is closest to:",
     "choices": [
+      "-1.30",
       "0.86",
-      "1.30",
-      "-1.30"
+      "1.30"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A residual is \\[e=y-\\hat{y}=8.10-9.40\\]. It equals -1.30. The opposite sign would mean predicted minus actual, and the ratio of actual to predicted is not a residual.",
     "hardTopicHelp": {
       "blurb": "Least squares picks the line that minimizes the sum of squared residuals. The slope is the change in y for a one-unit change in x inside that model. R-squared is the share of y’s variation the line explains. A residual plot that fans out or bends is a sign the straight-line assumptions are strained.",
@@ -1988,9 +1988,9 @@
     "difficulty": "easy",
     "stem": "In the fitted line of output index on capacity use, the estimated slope is 1.5. A careful reading of that slope is:",
     "choices": [
-      "A guarantee that raising capacity use by one unit will cause output to rise by 1.5 units in every plant.",
+      "The share of output variation explained by capacity use, which is what a slope always reports.",
       "Inside the fitted line, a one-unit higher capacity use is associated with a 1.5 unit higher output index.",
-      "The share of output variation explained by capacity use, which is what a slope always reports."
+      "A guarantee that raising capacity use by one unit will cause output to rise by 1.5 units in every plant, as described."
     ],
     "correctIndex": 1,
     "explanation": "The slope in \\(\\hat{y}=a+bx\\) is the change in the fitted y for a one-unit change in x. Inside the fitted line, a one-unit higher capacity use is associated with a 1.5 unit higher output index. It is not, by itself, an R-squared or a policy guarantee.",
@@ -2010,9 +2010,9 @@
     "difficulty": "medium",
     "stem": "A regression of the output index on capacity use has a total sum of squares of 160 and a residual sum of squares of 40. Using \\(R^2=1-SSE/SST\\), the coefficient of determination is closest to:",
     "choices": [
-      "4.00",
+      "0.25",
       "0.75",
-      "0.25"
+      "4.00"
     ],
     "correctIndex": 1,
     "explanation": "R-squared is the share of variation the line picks up: \\[R^2=1-\\frac{40}{160}=0.75\\]. It equals 0.75. The ratio 40/160 is the unexplained share, and 160/40 is not bounded as a fit statistic.",
@@ -2032,11 +2032,11 @@
     "difficulty": "hard",
     "stem": "In a simple linear regression with an intercept, the correlation between the output index and capacity use is 0.60. For this one-regressor model, \\(R^2=\\rho^2\\). The coefficient of determination is closest to:",
     "choices": [
-      "0.77",
+      "0.36",
       "0.60",
-      "0.36"
+      "0.77"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "With one regressor and an intercept, R-squared is the square of the correlation: \\[R^2=0.60^2=0.36\\]. It equals 0.36. The correlation itself is not R-squared, and the square root of the correlation moves in the wrong direction.",
     "hardTopicHelp": {
       "blurb": "Least squares picks the line that minimizes the sum of squared residuals. The slope is the change in y for a one-unit change in x inside that model. R-squared is the share of y’s variation the line explains. A residual plot that fans out or bends is a sign the straight-line assumptions are strained.",
@@ -2054,11 +2054,11 @@
     "difficulty": "medium",
     "stem": "A plot of residuals from the output-index regression against capacity use spreads out in a fan as capacity use rises. The pattern is a warning that:",
     "choices": [
-      "The variance of the residuals is not constant, so the usual standard errors are unreliable.",
-      "The slope is certainly zero, because a fan shape means the line explains nothing.",
-      "The residuals are perfectly normal, because a fan is the shape of a normal curve."
+      "The slope is certainly zero",
+      "The variance of the residuals is not constant",
+      "The residuals are perfectly normal, as described"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Heteroskedasticity means \\(Var(e\\mid x)\\) is not constant. Ordinary least-squares coefficients can still be unbiased, but the usual standard errors are not. The variance of the residuals is not constant, so the usual standard errors are unreliable.",
     "hardTopicHelp": {
       "blurb": "Least squares picks the line that minimizes the sum of squared residuals. The slope is the change in y for a one-unit change in x inside that model. R-squared is the share of y’s variation the line explains. A residual plot that fans out or bends is a sign the straight-line assumptions are strained.",
@@ -2076,11 +2076,11 @@
     "difficulty": "hard",
     "stem": "Ordinary least squares chooses the intercept and slope of the output-index line by optimizing a specific quantity. That quantity is:",
     "choices": [
-      "The sum of absolute residuals, which is the least-squares objective written without the square.",
       "The sum of squared residuals, the gaps between observed output and the fitted line.",
+      "The sum of absolute residuals, which is the least-squares objective written without the square.",
       "The sum of the raw residuals, which a line with an intercept can drive to zero for many different slopes."
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Least squares minimizes \\(\\sum e_i^2\\). The sum of squared residuals, the gaps between observed output and the fitted line. The unsquared residuals sum to zero for any intercept-fitted line and do not pick out one slope.",
     "hardTopicHelp": {
       "blurb": "Least squares picks the line that minimizes the sum of squared residuals. The slope is the change in y for a one-unit change in x inside that model. R-squared is the share of y’s variation the line explains. A residual plot that fans out or bends is a sign the straight-line assumptions are strained.",
@@ -2098,11 +2098,11 @@
     "difficulty": "medium",
     "stem": "The fitted intercept in the output-index regression is 0.4. Capacity use in the sample runs from 4 to 9. The intercept is best read as:",
     "choices": [
-      "The extra output associated with a one-unit increase in capacity use.",
+      "The fitted output index when capacity use is zero",
       "The average output index in the sample, regardless of capacity use.",
-      "The fitted output index when capacity use is zero, which may sit far outside the data used to fit the line."
+      "The extra output associated with a one-unit increase in capacity use."
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "In \\(\\hat{y}=0.4+1.5x\\), the intercept is the fitted value at \\(x=0\\). The fitted output index when capacity use is zero, which may sit far outside the data used to fit the line. The slope, not the intercept, is the one-unit association.",
     "hardTopicHelp": {
       "blurb": "Least squares picks the line that minimizes the sum of squared residuals. The slope is the change in y for a one-unit change in x inside that model. R-squared is the share of y’s variation the line explains. A residual plot that fans out or bends is a sign the straight-line assumptions are strained.",
@@ -2120,11 +2120,11 @@
     "difficulty": "easy",
     "stem": "Quill Software trains a model to flag overdue invoices. Each historical invoice is labeled as paid on time or late, and the model uses those labels. This setup is:",
     "choices": [
-      "A bootstrap, because labeled outcomes are resampled without a stated target.",
-      "Unsupervised learning, because any model that reads invoices is unsupervised.",
-      "Supervised learning, because the trainer supplies the outcome the model is asked to predict."
+      "A bootstrap",
+      "Supervised learning",
+      "Unsupervised learning"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Supervised learning fits inputs to a known label. Here the label is on-time versus late, so the target is \\(y\\in\\{0,1\\}\\). Supervised learning, because the trainer supplies the outcome the model is asked to predict.",
     "hardTopicHelp": {
       "blurb": "Fintech in this reading means alternative data, text processing, robo-advice, and distributed ledgers. Supervised learning fits inputs to a known outcome; unsupervised learning hunts for structure without one. An overfit model memorizes the sample. More rows do not repair a biased sample.",
@@ -2142,9 +2142,9 @@
     "difficulty": "easy",
     "stem": "A model of late shipments at Sable Logistics is almost perfect on the months used to train it and much worse on later months that were held out. That pattern is:",
     "choices": [
-      "Overfit: it has memorized the training sample and is less useful on new shipments.",
-      "Proof that the holdout months are not data, because a trained model cannot lose accuracy.",
-      "Underfit: the model is too simple to have learned the training months."
+      "Overfit",
+      "Underfit",
+      "Proof that the holdout months are not data"
     ],
     "correctIndex": 0,
     "explanation": "Overfit shows up as a gap between training error and error on unseen rows. If training error is near zero and holdout error is large, the fit chased sample noise. Overfit: it has memorized the training sample and is less useful on new shipments.",
@@ -2164,11 +2164,11 @@
     "difficulty": "medium",
     "stem": "An equity team buys satellite counts of cars in Northline Foods store lots and a card-spend panel that covers only urban shoppers. As investment data, this alternative set:",
     "choices": [
-      "Cannot be used in a supervised model, because alternative data have no timestamps.",
       "Is interchangeable with audited revenue, because a large file cannot be biased.",
-      "It can add a timely signal and can also add legal, lag, and selection problems."
+      "It can add a timely signal and can also add legal, lag, and selection problems.",
+      "Cannot be used in a supervised model, because alternative data have no timestamps."
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Alternative data are inputs outside the standard filings. They may lead the accounting numbers, and they may also cover the wrong population. It can add a timely signal and can also add legal, lag, and selection problems. A model still needs an explicit target if the task is supervised, \\(y=f(x)+\\epsilon\\).",
     "hardTopicHelp": {
       "blurb": "Fintech in this reading means alternative data, text processing, robo-advice, and distributed ledgers. Supervised learning fits inputs to a known outcome; unsupervised learning hunts for structure without one. An overfit model memorizes the sample. More rows do not repair a biased sample.",
@@ -2186,12 +2186,12 @@
     "difficulty": "hard",
     "stem": "The card-spend panel systematically misses rural stores. The vendor offers ten times as many rows from the same urban panel. For a model meant to describe all Northline Foods stores:",
     "choices": [
-      "The bias vanishes once the row count is large, because the law of large numbers corrects a skewed sample design.",
       "The extra rows create an unsupervised problem, even if sales labels are still attached.",
-      "More rows from the same biased source do not remove the bias in the training sample."
+      "More rows from the same biased source do not remove the bias in the training sample, as described for this case.",
+      "The bias vanishes once the row count is large, because the law of large numbers corrects a skewed sample design."
     ],
-    "correctIndex": 2,
-    "explanation": "The law of large numbers tightens a mean around the mean of the distribution you actually sample. If that distribution is only urban stores, \\(E(\\bar{x})\\) is not the all-store mean. More rows from the same biased source do not remove the bias in the training sample.",
+    "correctIndex": 1,
+    "explanation": "The law of large numbers tightens a mean around the mean of the distribution you actually sample. If that distribution is only urban stores, \\(E(\\bar{x})\\) is not the all-store mean. More rows from the same biased source do not remove the bias in the training sample.\n\nBest answer: More rows from the same biased source do not remove the bias in the training sample, as described for this case.",
     "hardTopicHelp": {
       "blurb": "Fintech in this reading means alternative data, text processing, robo-advice, and distributed ledgers. Supervised learning fits inputs to a known outcome; unsupervised learning hunts for structure without one. An overfit model memorizes the sample. More rows do not repair a biased sample.",
       "youtubeUrl": "https://www.youtube.com/watch?v=QIl6JH_PuW8",

@@ -6,13 +6,13 @@
       "fi-features"
     ],
     "difficulty": "easy",
-    "stem": "Harborline Holdings sells a new senior note to investors. Which document is the bond contract that states the coupon, the maturity, the seniority, and the covenants?",
+    "stem": "Harborline Holdings sells a new senior note to investors. Which document most likely is the bond contract that states the coupon, the maturity, the seniority, and the covenants?",
     "choices": [
-      "The dealer inventory report, which sets the legal coupon",
       "The indenture",
+      "The dealer inventory report, which sets the legal coupon",
       "The secondary-market trade confirmation, which replaces the contract after issuance"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The indenture is the contract between the issuer and the bondholders. It states what Harborline Holdings must pay and which promises protect the lenders. A trade confirmation records a secondary purchase, and a dealer report is not the legal contract.",
     "hardTopicHelp": {
       "blurb": "The indenture is the contract. An affirmative covenant requires the issuer to do something, such as keep a coverage ratio. A negative covenant forbids something, such as extra secured debt. Read covenants as protections for the lender, not as suggestions.",
@@ -30,12 +30,12 @@
     "difficulty": "medium",
     "stem": "The notes of Bramble and Co. require the issuer to keep EBIT coverage of interest at or above 3 times and to send audited financial statements to the trustee. Those promises are best described as:",
     "choices": [
+      "Affirmative covenants, on the facts given in the question",
       "Embedded call options that let investors change the coupon",
-      "Negative covenants that forbid the coverage ratio from being calculated",
-      "Affirmative covenants"
+      "Negative covenants that forbid the coverage ratio from being calculated"
     ],
-    "correctIndex": 2,
-    "explanation": "An affirmative covenant requires the issuer to do something, such as maintain a coverage ratio or report results. A negative covenant forbids an action, such as adding secured debt. A coverage promise is a lender protection in the indenture, not an option that resets the coupon. The best answer is Affirmative covenants.",
+    "correctIndex": 0,
+    "explanation": "An affirmative covenant requires the issuer to do something, such as maintain a coverage ratio or report results. A negative covenant forbids an action, such as adding secured debt. A coverage promise is a lender protection in the indenture, not an option that resets the coupon. The best answer is Affirmative covenants.\n\nBest answer: Affirmative covenants, on the facts given in the question",
     "hardTopicHelp": {
       "blurb": "The indenture is the contract. An affirmative covenant requires the issuer to do something, such as keep a coverage ratio. A negative covenant forbids something, such as extra secured debt. Read covenants as protections for the lender, not as suggestions.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -52,12 +52,12 @@
     "difficulty": "medium",
     "stem": "Northveil Industrials bond indenture forbids the company from pledging assets to new lenders unless the existing notes are secured equally and ratably. This clause is best described as:",
     "choices": [
-      "A negative pledge, which is a negative covenant",
-      "An affirmative covenant requiring Northveil Industrials to pledge the assets immediately",
-      "A conversion option that turns the notes into common equity"
+      "A conversion option that turns the notes into common equity",
+      "A negative pledge, which is a negative covenant, as stated here",
+      "An affirmative covenant requiring Northveil Industrials to pledge the assets immediately"
     ],
-    "correctIndex": 0,
-    "explanation": "A negative covenant limits what the issuer may do. A negative pledge stops the company from giving a new lender a senior claim on assets unless existing bondholders share that security. It does not force an immediate pledge, and it is not an equity conversion. The best answer is A negative pledge, which is a negative covenant.",
+    "correctIndex": 1,
+    "explanation": "A negative covenant limits what the issuer may do. A negative pledge stops the company from giving a new lender a senior claim on assets unless existing bondholders share that security. It does not force an immediate pledge, and it is not an equity conversion. The best answer is A negative pledge, which is a negative covenant.\n\nBest answer: A negative pledge, which is a negative covenant, as stated here",
     "hardTopicHelp": {
       "blurb": "The indenture is the contract. An affirmative covenant requires the issuer to do something, such as keep a coverage ratio. A negative covenant forbids something, such as extra secured debt. Read covenants as protections for the lender, not as suggestions.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -96,9 +96,9 @@
     "difficulty": "hard",
     "stem": "Larkspur Foods has both first-lien notes and senior unsecured notes outstanding. If the company is reorganized, the first-lien notes most likely have:",
     "choices": [
-      "The same recovery rank as the senior unsecured notes because both are labeled senior",
+      "A claim junior to the senior unsecured notes because a lien reduces the coupon",
       "A priority claim on the pledged collateral ahead of the senior unsecured notes",
-      "A claim junior to the senior unsecured notes because a lien reduces the coupon"
+      "The same recovery rank as the senior unsecured notes because both are labeled senior"
     ],
     "correctIndex": 1,
     "explanation": "Secured status gives the first-lien holders a priority claim on the pledged assets. The word senior describes rank, but it does not erase the lien. Senior unsecured creditors share what remains after the collateral claim is satisfied, so their expected recovery on those assets is lower. The best answer is A priority claim on the pledged collateral ahead of the senior unsecured notes.",
@@ -118,12 +118,12 @@
     "difficulty": "medium",
     "stem": "Vellum Rail issues a bond whose coupon resets each quarter to a reference rate plus 1.20%. Relative to an otherwise identical fixed-coupon bond, this instrument most likely:",
     "choices": [
-      "Eliminates credit-spread risk because the quoted margin is written in the indenture",
       "Pays a coupon that is fixed on the pricing date and never resets",
-      "Keeps its price nearer to par when the reference rate changes, but can still fall if the credit spread widens"
+      "Eliminates credit-spread risk because the quoted margin is written in the indenture",
+      "Keeps its price nearer to par when the reference rate changes, on the facts given in the question"
     ],
     "correctIndex": 2,
-    "explanation": "A floating-rate note passes reference-rate changes through to the coupon, so interest-rate moves leave the price closer to par than on a fixed-rate bond. The quoted margin does not update when the issuer credit spread changes, so spread widening can still push the price below par. The best answer is Keeps its price nearer to par when the reference rate changes, but can still fall if the credit spread widens.",
+    "explanation": "A floating-rate note passes reference-rate changes through to the coupon, so interest-rate moves leave the price closer to par than on a fixed-rate bond. The quoted margin does not update when the issuer credit spread changes, so spread widening can still push the price below par. The best answer is Keeps its price nearer to par when the reference rate changes, but can still fall if the credit spread widens.\n\nBest answer: Keeps its price nearer to par when the reference rate changes, on the facts given in the question",
     "hardTopicHelp": {
       "blurb": "The indenture is the contract. An affirmative covenant requires the issuer to do something, such as keep a coverage ratio. A negative covenant forbids something, such as extra secured debt. Read covenants as protections for the lender, not as suggestions.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -140,11 +140,11 @@
     "difficulty": "easy",
     "stem": "Pebbleford Mining seven-year notes pay interest once a year and repay the entire principal on the final maturity date. The principal structure is best described as:",
     "choices": [
-      "A pass-through structure that distributes principal whenever any investor asks",
+      "A bullet structure",
       "A fully amortizing structure",
-      "A bullet structure"
+      "A pass-through structure that distributes principal whenever any investor asks"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A bullet bond pays coupons during its life and repays the entire principal at maturity. An amortizing bond returns principal over time. A pass-through is a securitization structure, not the name for this single corporate note. The best answer is A bullet structure.",
     "hardTopicHelp": {
       "blurb": "A bullet bond pays coupons and then principal at the end. An amortizing bond pays principal along the way, so its interest-rate risk is shorter. A call helps the issuer. A put helps the investor. A conversion helps the investor and is why the coupon can be lower.",
@@ -162,11 +162,11 @@
     "difficulty": "medium",
     "stem": "Quill and Oak Retail can fund a store with a 10-year bullet bond or a 10-year fully amortizing bond, both carrying the same coupon rate and yield. The amortizing bond most likely has:",
     "choices": [
-      "The same Macaulay duration as the bullet because both contracts end in 10 years",
       "More price sensitivity because every payment includes interest",
-      "Less price sensitivity to a yield change because principal is received earlier"
+      "Less price sensitivity to a yield change because principal is received earlier",
+      "The same Macaulay duration as the bullet because both contracts end in 10 years"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "An amortizing bond pays principal along the way, so the present-value-weighted time to receive cash is shorter than on a bullet bond with the same final date. A shorter Macaulay duration means a smaller price change for a given yield move. Matching the final maturity does not match the timing of principal. The best answer is Less price sensitivity to a yield change because principal is received earlier.",
     "hardTopicHelp": {
       "blurb": "A bullet bond pays coupons and then principal at the end. An amortizing bond pays principal along the way, so its interest-rate risk is shorter. A call helps the issuer. A put helps the investor. A conversion helps the investor and is why the coupon can be lower.",
@@ -184,11 +184,11 @@
     "difficulty": "easy",
     "stem": "Ironwharf Logistics issues a bond that the company may redeem at a stated price after year three. That embedded call most likely:",
     "choices": [
-      "Benefits the issuer, so investors demand a higher yield than on an option-free bond",
       "Benefits the investor, who can force repayment when rates rise",
-      "Has no effect on the required yield because the redemption price equals par"
+      "Has no effect on the required yield because the redemption price equals par",
+      "Benefits the issuer, so investors demand a higher yield than on an option-free bond"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A call lets the issuer redeem the bond when refunding is attractive, usually after yields fall. Investors bear reinvestment risk and a cap on price appreciation, so they demand compensation in a higher yield or a call premium. A put, not a call, benefits the investor. The best answer is Benefits the issuer, so investors demand a higher yield than on an option-free bond.",
     "hardTopicHelp": {
       "blurb": "A bullet bond pays coupons and then principal at the end. An amortizing bond pays principal along the way, so its interest-rate risk is shorter. A call helps the issuer. A put helps the investor. A conversion helps the investor and is why the coupon can be lower.",
@@ -228,11 +228,11 @@
     "difficulty": "medium",
     "stem": "Marlowe Glass issues a convertible bond with a lower coupon than its option-free senior notes of the same maturity. The lower coupon is most likely compensation for:",
     "choices": [
+      "A higher ranking in bankruptcy than the senior notes",
       "An issuer call that investors would otherwise refuse",
-      "The investor option to convert the bond into common equity",
-      "A higher ranking in bankruptcy than the senior notes"
+      "The investor option to convert the bond into common equity"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Conversion is an option granted to the investor. Buyers pay for that equity upside by accepting a lower coupon. An issuer call would push the coupon up, not down. Conversion does not give the bond a better bankruptcy rank than senior notes; it adds an equity option to a debt claim. The best answer is The investor option to convert the bond into common equity.",
     "hardTopicHelp": {
       "blurb": "A bullet bond pays coupons and then principal at the end. An amortizing bond pays principal along the way, so its interest-rate risk is shorter. A call helps the issuer. A put helps the investor. A conversion helps the investor and is why the coupon can be lower.",
@@ -248,13 +248,13 @@
       "fi-cashflows"
     ],
     "difficulty": "hard",
-    "stem": "Which feature of a Thistlegate Insurance subordinated bond can, by itself, change the timing of the promised cash flows when the holder or the issuer exercises it?",
+    "stem": "Which feature of a Thistlegate Insurance subordinated bond most likely can, by itself, change the timing of the promised cash flows when the holder or the issuer exercises it?",
     "choices": [
-      "An affirmative promise to publish audited statements within 90 days",
+      "An embedded call option",
       "A negative pledge covenant",
-      "An embedded call option"
+      "An affirmative promise to publish audited statements within 90 days"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Contingency provisions such as calls, puts, and conversion rights change the amount or timing of cash flows when they are exercised. Covenants are promises. A negative pledge or a reporting promise protects lenders, but neither is an option that the issuer or the investor exercises to reshape the coupon schedule. The best answer is An embedded call option.",
     "hardTopicHelp": {
       "blurb": "A bullet bond pays coupons and then principal at the end. An amortizing bond pays principal along the way, so its interest-rate risk is shorter. A call helps the issuer. A put helps the investor. A conversion helps the investor and is why the coupon can be lower.",
@@ -272,11 +272,11 @@
     "difficulty": "easy",
     "stem": "Copperlane Transit sells a new 10-year note through a dealer syndicate and receives the proceeds. That sale takes place in:",
     "choices": [
-      "The futures market, because the first coupon has not yet been paid",
+      "The primary market",
       "The secondary market",
-      "The primary market"
+      "The futures market, because the first coupon has not yet been paid"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The primary market is where the issuer raises new cash. After the notes are outstanding, trades among investors occur in the secondary market and do not send proceeds to Copperlane Transit. An unpaid first coupon does not turn the new issue into a futures contract.",
     "hardTopicHelp": {
       "blurb": "Primary markets raise cash for the issuer. Secondary markets let investors trade and, by doing that, make the next primary issue easier. Fixed-income trading is still more dealer-driven than most equity markets.",
@@ -294,11 +294,11 @@
     "difficulty": "medium",
     "stem": "A syndicate agrees to purchase the entire new bond issue of Fennelbrook Agriculture and then resell it. The syndicate bears the risk that investors will not take the bonds at the agreed price. This arrangement is:",
     "choices": [
-      "A private placement in which the syndicate only advises and never takes the bonds",
       "A best-efforts offering",
-      "An underwritten, or firm-commitment, offering"
+      "An underwritten, or firm-commitment, offering",
+      "A private placement in which the syndicate only advises and never takes the bonds"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "In an underwritten offering the intermediaries buy the issue and take placement risk. In a best-efforts offering they attempt to sell the bonds but do not guarantee the proceeds. A private placement is a direct sale to a limited group of investors, not a syndicate purchase. The best answer is An underwritten, or firm-commitment, offering.",
     "hardTopicHelp": {
       "blurb": "Primary markets raise cash for the issuer. Secondary markets let investors trade and, by doing that, make the next primary issue easier. Fixed-income trading is still more dealer-driven than most equity markets.",
@@ -316,12 +316,12 @@
     "difficulty": "medium",
     "stem": "Glasswater Hotels registers a maximum amount of bonds that dealers may sell from time to time over two years when the company wants funding. This issuance method is best described as:",
     "choices": [
+      "A shelf registration, with later takedowns, as stated here",
       "A sovereign auction in which a central bank sets the coupon",
-      "A shelf registration, with later takedowns",
       "A single firm-commitment underwriting of the entire two-year amount on the registration date"
     ],
-    "correctIndex": 1,
-    "explanation": "A shelf registration lets an issuer register a maximum amount and issue portions later, often as medium-term notes, when funding is needed. The full amount is not necessarily purchased by a syndicate on day one. A central-bank auction is a government technique, not the corporate shelf described here. The best answer is A shelf registration, with later takedowns.",
+    "correctIndex": 0,
+    "explanation": "A shelf registration lets an issuer register a maximum amount and issue portions later, often as medium-term notes, when funding is needed. The full amount is not necessarily purchased by a syndicate on day one. A central-bank auction is a government technique, not the corporate shelf described here. The best answer is A shelf registration, with later takedowns.\n\nBest answer: A shelf registration, with later takedowns, as stated here",
     "hardTopicHelp": {
       "blurb": "Primary markets raise cash for the issuer. Secondary markets let investors trade and, by doing that, make the next primary issue easier. Fixed-income trading is still more dealer-driven than most equity markets.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -338,11 +338,11 @@
     "difficulty": "hard",
     "stem": "Compared with listed equity of a large public company, secondary trading in the corporate bonds of Tinderbox Media is most likely:",
     "choices": [
-      "More dealer-driven, with prices negotiated rather than matched on one central limit-order book",
+      "Closed once the primary syndicate disbands, because secondary bond trades are not allowed",
       "Conducted only on a central limit-order book, with dealers prohibited from holding inventory",
-      "Closed once the primary syndicate disbands, because secondary bond trades are not allowed"
+      "More dealer-driven, with prices negotiated rather than matched on one central limit-order book"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Corporate bond secondary markets remain largely over-the-counter dealer markets. Dealers hold inventory and negotiate bids and offers. That structure differs from a central equity order book. Secondary trading is what provides liquidity after the primary sale; it does not become illegal when the syndicate closes. The best answer is More dealer-driven, with prices negotiated rather than matched on one central limit-order book.",
     "hardTopicHelp": {
       "blurb": "Primary markets raise cash for the issuer. Secondary markets let investors trade and, by doing that, make the next primary issue easier. Fixed-income trading is still more dealer-driven than most equity markets.",
@@ -360,11 +360,11 @@
     "difficulty": "medium",
     "stem": "Whitecap Marine hires dealers to find buyers for a new bond issue, but the dealers do not guarantee that the company will receive a fixed amount of proceeds. This arrangement is best described as:",
     "choices": [
-      "A repurchase agreement secured by the new bonds",
+      "A best-efforts offering",
       "A firm-commitment underwriting",
-      "A best-efforts offering"
+      "A repurchase agreement secured by the new bonds"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Best efforts means the intermediary tries to place the bonds and is not obligated to buy the unsold amount. A firm-commitment underwriting transfers that placement risk to the syndicate. A repurchase agreement is a secured cash loan, not a method of distributing a new long-term issue. The best answer is A best-efforts offering.",
     "hardTopicHelp": {
       "blurb": "Primary markets raise cash for the issuer. Secondary markets let investors trade and, by doing that, make the next primary issue easier. Fixed-income trading is still more dealer-driven than most equity markets.",
@@ -383,10 +383,10 @@
     "stem": "Amberfield Dairy funds inventory with 90-day commercial paper. That paper is most likely:",
     "choices": [
       "A secured bond with a 90-year final legal maturity",
-      "Short-term unsecured borrowing that the company expects to roll over at maturity",
-      "An equity warrant that must be converted into common shares after 90 days"
+      "An equity warrant that must be converted into common shares after 90 days",
+      "Short-term unsecured borrowing that the company expects to roll over at maturity"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Commercial paper is short-dated unsecured funding, and issuers commonly roll it over. Because repayment depends on issuing new paper or drawing backup credit, investors care about the issuer credit standing. It is not a long secured bond and it is not an equity warrant. The best answer is Short-term unsecured borrowing that the company expects to roll over at maturity.",
     "hardTopicHelp": {
       "blurb": "Commercial paper is short-dated unsecured borrowing, usually rolled over, so it needs backup liquidity. In a repo, the cash lender holds collateral and a haircut. High-yield issuers typically face tighter covenants and a smaller, more credit-sensitive buyer base than investment-grade issuers.",
@@ -404,11 +404,11 @@
     "difficulty": "medium",
     "stem": "Southpier Ports commercial paper program is supported by a committed revolving credit facility. The facility most likely exists to:",
     "choices": [
-      "Remove any need for investors to consider the issuer credit quality",
       "Convert each maturing note into perpetual preferred equity",
-      "Provide cash if the paper cannot be rolled over in the market"
+      "Provide cash if the paper cannot be rolled over in the market",
+      "Remove any need for investors to consider the issuer credit quality"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Commercial paper is usually refinanced at maturity. A committed backup line covers the risk that the market will refuse new paper, for example during a stress period. The line does not turn the paper into equity, and it does not make the issuer credit standing irrelevant. The best answer is Provide cash if the paper cannot be rolled over in the market.",
     "hardTopicHelp": {
       "blurb": "Commercial paper is short-dated unsecured borrowing, usually rolled over, so it needs backup liquidity. In a repo, the cash lender holds collateral and a haircut. High-yield issuers typically face tighter covenants and a smaller, more credit-sensitive buyer base than investment-grade issuers.",
@@ -449,10 +449,10 @@
     "stem": "Mossbank Textiles pledges bonds with a market value of 102 and receives 100 of cash in a repo. The difference of 2 most likely:",
     "choices": [
       "Means the cash lender has an unsecured exposure of 102",
-      "Is a haircut that protects the cash lender if the collateral value falls",
-      "Is prepaid coupon income that reduces the repo rate to zero"
+      "Is prepaid coupon income that reduces the repo rate to zero",
+      "Is a haircut that protects the cash lender if the collateral value falls"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "The haircut is the excess of collateral value over cash lent. Here the lender advances 100 against 102 of bonds, so a small price decline can still leave the loan covered. The difference is not a coupon payment. The cash lender is secured by the bonds; the cash borrower is the party posting collateral. The best answer is Is a haircut that protects the cash lender if the collateral value falls.",
     "hardTopicHelp": {
       "blurb": "Commercial paper is short-dated unsecured borrowing, usually rolled over, so it needs backup liquidity. In a repo, the cash lender holds collateral and a haircut. High-yield issuers typically face tighter covenants and a smaller, more credit-sensitive buyer base than investment-grade issuers.",
@@ -470,11 +470,11 @@
     "difficulty": "medium",
     "stem": "Relative to a typical investment-grade issuer, a high-yield issuer such as Halcyon Instruments most likely:",
     "choices": [
-      "Faces a more credit-sensitive buyer base and a tighter covenant package",
       "Sells only bonds that carry a government guarantee",
+      "Faces a more credit-sensitive buyer base and a tighter covenant package",
       "Can issue commercial paper with no backup liquidity because the coupon is high"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "High-yield bonds are bought by investors who focus on default and recovery, and the indentures often contain more restrictive covenants than investment-grade deals. A high coupon does not remove rollover risk on commercial paper. High-yield status is not a government guarantee. The best answer is Faces a more credit-sensitive buyer base and a tighter covenant package.",
     "hardTopicHelp": {
       "blurb": "Commercial paper is short-dated unsecured borrowing, usually rolled over, so it needs backup liquidity. In a repo, the cash lender holds collateral and a haircut. High-yield issuers typically face tighter covenants and a smaller, more credit-sensitive buyer base than investment-grade issuers.",
@@ -514,11 +514,11 @@
     "difficulty": "easy",
     "stem": "The Republic of Valden issues bonds in its own currency. Compared with a private corporate issuer, Valden local-currency debt most likely reflects:",
     "choices": [
-      "The sovereign ability to tax and to influence the supply of its own currency",
       "A promise that is free of inflation risk for every foreign investor",
-      "The same instrument as 90-day commercial paper of a private company"
+      "The same instrument as 90-day commercial paper of a private company",
+      "The sovereign ability to tax and to influence the supply of its own currency"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A sovereign can tax and, in its own currency, influence the money supply. That supports the capacity to pay local-currency debt. It does not remove inflation risk or currency risk for an investor who cares about real value or a foreign currency. The bond is not private commercial paper. The best answer is The sovereign ability to tax and to influence the supply of its own currency.",
     "hardTopicHelp": {
       "blurb": "A sovereign can tax and, in its own currency, influence the money supply. That is not the same as a risk-free promise in a foreign currency. On-the-run government bonds are the newest, usually the most liquid benchmark. Supranationals borrow to fund development or policy lending, not a national deficit.",
@@ -536,9 +536,9 @@
     "difficulty": "medium",
     "stem": "The Commonwealth of Ostmark borrows in a foreign currency. Relative to its local-currency bonds, the foreign-currency bonds most likely:",
     "choices": [
-      "Are automatically risk-free because every sovereign bond is risk-free",
+      "Must yield less because foreign-currency debt has no credit risk",
       "Add the risk that Ostmark cannot create the currency it has promised to pay",
-      "Must yield less because foreign-currency debt has no credit risk"
+      "Are automatically risk-free because every sovereign bond is risk-free, as described"
     ],
     "correctIndex": 1,
     "explanation": "A sovereign that owes a foreign currency cannot print that currency. Repayment depends on reserves, the external balance, and access to foreign funding. Local-currency debt has a different risk. Neither promise is automatically risk-free, and foreign-currency bonds often yield more when that risk is material. The best answer is Add the risk that Ostmark cannot create the currency it has promised to pay.",
@@ -580,11 +580,11 @@
     "difficulty": "easy",
     "stem": "The Province of Lirren issues bonds to fund a toll road, and repayment depends on provincial revenues rather than a guarantee from the national government. These bonds are best described as:",
     "choices": [
-      "Commercial paper of a private manufacturing company",
       "Supranational debt",
-      "Non-sovereign government debt"
+      "Non-sovereign government debt",
+      "Commercial paper of a private manufacturing company"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Provinces, states, and cities are non-sovereign government issuers. Their bonds are government debt but not a national sovereign promise. A supranational is owned by several countries and is a different issuer. Lirren is a government, not a private commercial-paper issuer. The best answer is Non-sovereign government debt.",
     "hardTopicHelp": {
       "blurb": "A sovereign can tax and, in its own currency, influence the money supply. That is not the same as a risk-free promise in a foreign currency. On-the-run government bonds are the newest, usually the most liquid benchmark. Supranationals borrow to fund development or policy lending, not a national deficit.",
@@ -603,10 +603,10 @@
     "stem": "Meridian Development Bank is owned by several member countries and issues bonds to fund loans to those members for infrastructure. Its bonds are best classified as:",
     "choices": [
       "Equity capital calls that member governments must pay on demand",
-      "Supranational debt issued to fund development lending rather than one national deficit",
-      "Sovereign debt of whichever member has the largest equity stake"
+      "Sovereign debt of whichever member has the largest equity stake, as described",
+      "Supranational debt issued to fund development lending rather than one national deficit"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Supranationals borrow in bond markets to finance development or policy loans. They are not the sovereign of any single member, even if members provide callable capital support. Investors in these bonds hold debt of the institution. Credit analysis looks at the mandate, member support, and the loan book. The best answer is Supranational debt issued to fund development lending rather than one national deficit.",
     "hardTopicHelp": {
       "blurb": "A sovereign can tax and, in its own currency, influence the money supply. That is not the same as a risk-free promise in a foreign currency. On-the-run government bonds are the newest, usually the most liquid benchmark. Supranationals borrow to fund development or policy lending, not a national deficit.",
@@ -669,10 +669,10 @@
     "stem": "Northveil Industrials has a 5-year annual-pay bond with a coupon rate of 4.00% and a yield to maturity of 4.00%. On a coupon date, the full price per 100 of face, \\(P=\\sum_{t=1}^{5}\\frac{C/k}{(1+y/k)^{t}}+\\frac{100}{(1+y/k)^{5}}\\), is closest to:",
     "choices": [
       "82.19",
-      "100.00",
-      "95.67"
+      "95.67",
+      "100.00"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Discount every promised coupon and the principal at the bond's yield. There are 5 periods, each coupon is 4.00, and the discount rate per period is 0.0400. \\[P=\\sum_{t=1}^{5}\\frac{4.00}{(1+0.0400)^{t}}+\\frac{100}{(1+0.0400)^{5}}\\] The expression equals 100.0000. The coupon of 4.00% is equal to the yield, so the bond is priced at par. Accrued interest is zero on a coupon date, so the full price is closest to 100.00.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -690,9 +690,9 @@
     "difficulty": "medium",
     "stem": "Cinderwell Utilities has a 5-year semiannual-pay bond with a coupon rate of 4.50% and a yield to maturity of 5.20%. On a coupon date, the full price per 100 of face, \\(P=\\sum_{t=1}^{10}\\frac{C/k}{(1+y/k)^{t}}+\\frac{100}{(1+y/k)^{10}}\\), is closest to:",
     "choices": [
-      "96.99",
+      "77.36",
       "96.95",
-      "77.36"
+      "96.99"
     ],
     "correctIndex": 1,
     "explanation": "Discount every promised coupon and the principal at the bond's yield. There are 10 periods, each coupon is 2.25, and the discount rate per period is 0.0260. \\[P=\\sum_{t=1}^{10}\\frac{2.25}{(1+0.0260)^{t}}+\\frac{100}{(1+0.0260)^{10}}\\] The expression equals 96.9525. The coupon of 4.50% is below the yield, so the bond is a discount bond. Accrued interest is zero on a coupon date, so the full price is closest to 96.95.",
@@ -712,11 +712,11 @@
     "difficulty": "medium",
     "stem": "Larkspur Foods issues a 8-year zero-coupon bond at a yield of 4.80%. The price per 100 of face, \\(P=\\frac{100}{(1+y)^{8}}\\), is closest to:",
     "choices": [
+      "68.72",
       "95.42",
-      "100.00",
-      "68.72"
+      "100.00"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A zero pays no coupon, so the only cash flow is the face amount at maturity. \\[P=\\frac{100}{(1+0.0480)^{8}}=68.7242\\] There is nothing to add for accrued interest. The discount price is closest to 68.72.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -734,11 +734,11 @@
     "difficulty": "medium",
     "stem": "Vellum Rail has a 3-year semiannual-pay bond with a coupon rate of 6.00% and a yield to maturity of 3.50%. On a coupon date, the full price per 100 of face, \\(P=\\sum_{t=1}^{6}\\frac{C/k}{(1+y/k)^{t}}+\\frac{100}{(1+y/k)^{6}}\\), is closest to:",
     "choices": [
+      "90.11",
       "107.00",
-      "107.06",
-      "90.11"
+      "107.06"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Discount every promised coupon and the principal at the bond's yield. There are 6 periods, each coupon is 3.00, and the discount rate per period is 0.0175. \\[P=\\sum_{t=1}^{6}\\frac{3.00}{(1+0.0175)^{t}}+\\frac{100}{(1+0.0175)^{6}}\\] The expression equals 107.0612. The coupon of 6.00% is above the yield, so the bond is a premium bond. Accrued interest is zero on a coupon date, so the full price is closest to 107.06.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -756,11 +756,11 @@
     "difficulty": "hard",
     "stem": "Pebbleford Mining has a 12-year annual-pay bond with a coupon rate of 3.00% and a yield to maturity of 6.50%. On a coupon date, the full price per 100 of face, \\(P=\\sum_{t=1}^{12}\\frac{C/k}{(1+y/k)^{t}}+\\frac{100}{(1+y/k)^{12}}\\), is closest to:",
     "choices": [
+      "46.97",
       "71.15",
-      "71.44",
-      "46.97"
+      "71.44"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Discount every promised coupon and the principal at the bond's yield. There are 12 periods, each coupon is 3.00, and the discount rate per period is 0.0650. \\[P=\\sum_{t=1}^{12}\\frac{3.00}{(1+0.0650)^{t}}+\\frac{100}{(1+0.0650)^{12}}\\] The expression equals 71.4445. The coupon of 3.00% is below the yield, so the bond is a discount bond. Accrued interest is zero on a coupon date, so the full price is closest to 71.44.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -778,11 +778,11 @@
     "difficulty": "hard",
     "stem": "The treasury of Quill and Oak Retail values a 2-year annual-pay bond with a 6.00% coupon by discounting each cash flow at its own spot rate. The spots are 2.50%, 3.50%. The price per 100 of face, \\(P=\\sum_{t=1}^{2}\\frac{CF_t}{(1+z_t)^{t}}\\), is closest to:",
     "choices": [
-      "106.75",
       "104.75",
-      "104.81"
+      "104.81",
+      "106.75"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A spot rate discounts a single payment. Using a different spot for each maturity gives \\[\\frac{6.00}{(1+0.0250)^{1}}+\\frac{106.00}{(1+0.0350)^{2}}\\] which sums to 104.8058. Discounting every cash flow at the longest spot, or at the shortest spot, answers a different question. The spot-rate price is closest to 104.81.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -800,11 +800,11 @@
     "difficulty": "hard",
     "stem": "Ironwharf Logistics values a 3-year annual-pay bond with a 5.00% coupon by discounting each cash flow at its own spot rate. The spots are 2.00%, 3.00%, 4.00%. The price per 100 of face, \\(P=\\sum_{t=1}^{3}\\frac{CF_t}{(1+z_t)^{t}}\\), is closest to:",
     "choices": [
-      "108.65",
       "102.78",
-      "102.96"
+      "102.96",
+      "108.65"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A spot rate discounts a single payment. Using a different spot for each maturity gives \\[\\frac{5.00}{(1+0.0200)^{1}}+\\frac{5.00}{(1+0.0300)^{2}}+\\frac{105.00}{(1+0.0400)^{3}}\\] which sums to 102.9596. Discounting every cash flow at the longest spot, or at the shortest spot, answers a different question. The spot-rate price is closest to 102.96.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -844,11 +844,11 @@
     "difficulty": "hard",
     "stem": "Marlowe Glass has an annual-pay bond with exactly one coupon remaining. The bond will pay 106 per 100 of face in one-half year. The yield is 8% with annual compounding. The full price, \\(Full=\\frac{106}{(1.08)^{0.5}}\\), is closest to:",
     "choices": [
-      "102.00",
+      "98.15",
       "99.00",
-      "98.15"
+      "102.00"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "With half a year left, discount the final coupon and principal for half a period. \\[Full=\\frac{106}{(1.08)^{0.5}}=101.9985\\] Dividing by 1.08 would discount a full year that the investor does not have to wait. Accrued interest is 3 because half of the 6 coupon has been earned, so the clean price is the full price minus 3, which is not the invoice price. The full price is closest to 102.00.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -866,11 +866,11 @@
     "difficulty": "easy",
     "stem": "When the yield required on an option-free bond of Redcedar Paper rises, and the promised coupons and principal stay the same, the full price of the bond most likely:",
     "choices": [
-      "Stays constant, because a fixed coupon cannot change value",
-      "Rises, because investors immediately receive a larger coupon",
-      "Falls, because the cash flows are discounted at a higher rate"
+      "Falls",
+      "Rises",
+      "Stays constant"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Price and yield move inversely. Raising the discount rate lowers the present value of the same coupons and principal. The coupon written in the indenture does not increase just because the market yield increases. The cash flows are fixed, and their present value is not. The best answer is Falls, because the cash flows are discounted at a higher rate.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -888,11 +888,11 @@
     "difficulty": "easy",
     "stem": "Sablemere Chemicals annual-pay bond has a coupon rate above its yield to maturity. The bond is most likely priced:",
     "choices": [
+      "At a premium to par",
       "At a discount to par",
-      "At par, because principal is repaid at face value regardless of the coupon",
-      "At a premium to par"
+      "At par, because principal is repaid at face value regardless of the coupon"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "If the coupon rate is above the yield required by the market, investors pay more than face value. The extra coupon compensates them for amortizing that premium if they hold the bond to maturity. Repayment of principal at par does not force the current price to equal par. The best answer is At a premium to par.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -910,12 +910,12 @@
     "difficulty": "medium",
     "stem": "A discount bond of Mossbank Textiles is held to maturity and its yield to maturity stays constant. On successive coupon dates, the full price most likely:",
     "choices": [
-      "Falls toward zero as the original discount is written off as a loss",
-      "Rises toward par",
-      "Remains at the original discounted price until the final day"
+      "Rises toward par, for this position",
+      "Remains at the original discounted price until the final day",
+      "Falls toward zero as the original discount is written off as a loss"
     ],
-    "correctIndex": 1,
-    "explanation": "With a constant yield, a discount bond is pulled to par. Each coupon date the remaining cash flows are discounted for one less period, and the price rises toward face value. The accretion is income to the holder, not a decline toward zero. The price does not sit still while maturity approaches. The best answer is Rises toward par.",
+    "correctIndex": 0,
+    "explanation": "With a constant yield, a discount bond is pulled to par. Each coupon date the remaining cash flows are discounted for one less period, and the price rises toward face value. The accretion is income to the holder, not a decline toward zero. The price does not sit still while maturity approaches. The best answer is Rises toward par.\n\nBest answer: Rises toward par, for this position",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -954,11 +954,11 @@
     "difficulty": "medium",
     "stem": "Between coupon dates, dealers quote a clean price for a Lowridge Cement bond. The invoice amount the buyer pays to the seller is most likely:",
     "choices": [
-      "The clean price alone, because accrued interest is paid only at maturity",
+      "The clean price plus accrued interest",
       "The clean price minus accrued interest",
-      "The clean price plus accrued interest"
+      "The clean price alone, because accrued interest is paid only at maturity"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The quoted, or clean, price excludes accrued interest. The invoice, or full, price adds accrued interest so the seller is compensated for the portion of the coupon period that has already passed. Accrued interest is settled at the trade, not deferred until maturity. The best answer is The clean price plus accrued interest.",
     "hardTopicHelp": {
       "blurb": "Discount every promised coupon and the principal at the yield. If the coupon rate is above that yield, you pay a premium. If it is below, you pay a discount. Between coupon dates, quoted prices are clean; the invoice price adds accrued interest.",
@@ -998,11 +998,11 @@
     "difficulty": "medium",
     "stem": "A bond yield is quoted at 5.80% on a semiannual bond basis. The effective annual yield, \\(EAY=(1+\\frac{0.058}{2})^{2}-1\\), is closest to:",
     "choices": [
-      "5.88%",
       "2.90%",
-      "5.80%"
+      "5.80%",
+      "5.88%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A semiannual bond basis quote of 5.80% means 2.90% per half year, not 5.80% per year compounded once. \\[EAY=(1.029)^{2}-1=0.058841\\] Compounding makes the effective annual yield a little higher than the bond-basis quote. Using quarterly compounding, or reporting the 5.80% quote itself, answers a different question. The effective annual yield is closest to 5.88%.",
     "hardTopicHelp": {
       "blurb": "Current yield is the annual coupon over price and ignores pull to par. Yield to maturity assumes you hold to maturity and reinvest coupons at that same yield. A semiannual bond basis of 6% means 3% per half year; the effective annual yield is a bit higher than 6% because of compounding. A G-spread is over a government benchmark. An I-spread is over a swap rate. A Z-spread is added to every spot rate. OAS removes the value of an embedded option from the Z-spread.",
@@ -1042,9 +1042,9 @@
     "difficulty": "medium",
     "stem": "Option-free notes of Amberfield Dairy yield 4.90%. A comparable government bond yields 3.30%, and the swap rate of the same maturity is 3.55%. The I-spread, \\(I=y_{bond}-y_{swap}\\), is closest to:",
     "choices": [
-      "1.60%",
+      "0.25%",
       "1.35%",
-      "0.25%"
+      "1.60%"
     ],
     "correctIndex": 1,
     "explanation": "The I-spread, or interpolated spread, is the bond yield minus the swap rate for the same maturity. \\[I=0.0490-0.0355=0.0135\\] The G-spread would subtract the 3.30% government yield instead. The gap between the swap rate and the government yield is the swap spread, not the I-spread. The I-spread is closest to 1.35%.",
@@ -1064,11 +1064,11 @@
     "difficulty": "hard",
     "stem": "A three-year annual-pay bond of Southpier Ports has a coupon of 5 per 100 of face and a full price of 98.40 on a coupon date. The yield to maturity, defined by \\(98.40=\\frac{5}{1+y}+\\frac{5}{(1+y)^{2}}+\\frac{105}{(1+y)^{3}}\\), is closest to:",
     "choices": [
+      "5.00%",
       "5.08%",
-      "5.59%",
-      "5.00%"
+      "5.59%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Yield to maturity is the single annual rate that sets the present value of the promised cash flows equal to the price. \\[98.40=\\frac{5}{1+y}+\\frac{5}{(1+y)^{2}}+\\frac{105}{(1+y)^{3}}\\] Solving gives 0.055941, which is above the current yield of 5.08% because the discount must also accrete to par. The coupon rate of 5% is not the market yield. The yield to maturity is closest to 5.59%.",
     "hardTopicHelp": {
       "blurb": "Current yield is the annual coupon over price and ignores pull to par. Yield to maturity assumes you hold to maturity and reinvest coupons at that same yield. A semiannual bond basis of 6% means 3% per half year; the effective annual yield is a bit higher than 6% because of compounding. A G-spread is over a government benchmark. An I-spread is over a swap rate. A Z-spread is added to every spot rate. OAS removes the value of an embedded option from the Z-spread.",
@@ -1086,11 +1086,11 @@
     "difficulty": "hard",
     "stem": "A two-year semiannual-pay bond of Kindling Energy has a 6% annual coupon, so each period it pays 3, and the last payment includes 100 of principal. The full price on a coupon date is 101.50. The semiannual-bond-basis yield to maturity, \\(BEY=2r\\), is closest to:",
     "choices": [
-      "5.27%",
       "2.60%",
-      "5.20%"
+      "5.20%",
+      "5.27%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The internal rate of return of the four semiannual cash flows is the rate per half year. \\[101.50=\\frac{3}{1+r}+\\frac{3}{(1+r)^{2}}+\\frac{3}{(1+r)^{3}}+\\frac{103}{(1+r)^{4}}\\] That periodic rate is 0.026003. The street, or semiannual bond basis, convention doubles it: \\(BEY=2\\times 0.026003=0.052006\\). The effective annual yield would square the periodic growth instead, and the 6% coupon is not the yield. The bond-basis yield is closest to 5.20%.",
     "hardTopicHelp": {
       "blurb": "Current yield is the annual coupon over price and ignores pull to par. Yield to maturity assumes you hold to maturity and reinvest coupons at that same yield. A semiannual bond basis of 6% means 3% per half year; the effective annual yield is a bit higher than 6% because of compounding. A G-spread is over a government benchmark. An I-spread is over a swap rate. A Z-spread is added to every spot rate. OAS removes the value of an embedded option from the Z-spread.",
@@ -1106,13 +1106,13 @@
       "fi-yields"
     ],
     "difficulty": "medium",
-    "stem": "An investor buys a coupon bond of Fennelbrook Agriculture at its yield to maturity and wants that yield to equal the realized compound return. Which set of assumptions is required, assuming the issuer does not default?",
+    "stem": "An investor buys a coupon bond of Fennelbrook Agriculture at its yield to maturity and wants that yield to equal the realized compound return. Which set of assumptions most likely is required, assuming the issuer does not default?",
     "choices": [
-      "The bond is held to maturity and every coupon is reinvested at the original yield to maturity",
       "Coupons are spent when received, and the bond is held to maturity",
-      "The bond is sold after one coupon and the sale price equals the purchase price"
+      "The bond is held to maturity and every coupon is reinvested at the original yield to maturity",
+      "The bond is sold after one coupon and the sale price equals the purchase price, as stated here"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Yield to maturity is the internal rate of return of the promised cash flows. It is the realized compound return only if the investor holds to maturity, so there is no sale at a different yield, and every coupon is reinvested at that same yield. Spending the coupons, or selling early, removes one of those assumptions. The best answer is The bond is held to maturity and every coupon is reinvested at the original yield to maturity.",
     "hardTopicHelp": {
       "blurb": "Current yield is the annual coupon over price and ignores pull to par. Yield to maturity assumes you hold to maturity and reinvest coupons at that same yield. A semiannual bond basis of 6% means 3% per half year; the effective annual yield is a bit higher than 6% because of compounding. A G-spread is over a government benchmark. An I-spread is over a swap rate. A Z-spread is added to every spot rate. OAS removes the value of an embedded option from the Z-spread.",
@@ -1130,11 +1130,11 @@
     "difficulty": "medium",
     "stem": "A premium bond of Glasswater Hotels has a coupon rate above its yield to maturity. Ignoring taxes and accrued interest, the ordering of the coupon rate, the current yield, and the yield to maturity is most likely:",
     "choices": [
-      "Yield to maturity greater than current yield greater than coupon rate",
       "Coupon rate greater than current yield greater than yield to maturity",
-      "Coupon rate greater than yield to maturity greater than current yield"
+      "Coupon rate greater than yield to maturity greater than current yield",
+      "Yield to maturity greater than current yield greater than coupon rate"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Current yield is the annual coupon divided by price. Because a premium bond is priced above par, current yield is below the coupon rate. Yield to maturity is below current yield because the investor also amortizes the premium as a reduction of return. So the coupon rate is highest and the yield to maturity is lowest. The best answer is Coupon rate greater than current yield greater than yield to maturity.",
     "hardTopicHelp": {
       "blurb": "Current yield is the annual coupon over price and ignores pull to par. Yield to maturity assumes you hold to maturity and reinvest coupons at that same yield. A semiannual bond basis of 6% means 3% per half year; the effective annual yield is a bit higher than 6% because of compounding. A G-spread is over a government benchmark. An I-spread is over a swap rate. A Z-spread is added to every spot rate. OAS removes the value of an embedded option from the Z-spread.",
@@ -1153,8 +1153,8 @@
     "stem": "A discount bond of Tinderbox Media has a coupon rate below its yield to maturity. The ordering of the coupon rate, the current yield, and the yield to maturity is most likely:",
     "choices": [
       "Coupon rate less than current yield less than yield to maturity",
-      "Coupon rate greater than current yield greater than yield to maturity",
-      "Current yield less than coupon rate less than yield to maturity"
+      "Current yield less than coupon rate less than yield to maturity",
+      "Coupon rate greater than current yield greater than yield to maturity"
     ],
     "correctIndex": 0,
     "explanation": "On a discount bond the price is below par, so the annual coupon divided by price exceeds the coupon rate. Yield to maturity is higher still because the pull to par is an additional gain. The discount ordering is the reverse of the premium ordering. The best answer is Coupon rate less than current yield less than yield to maturity.",
@@ -1174,8 +1174,8 @@
     "difficulty": "hard",
     "stem": "An analyst compares an option-free corporate bond of Whitecap Marine with government spot rates. The constant spread that must be added to each spot rate so that the discounted cash flows equal the bond price is the:",
     "choices": [
-      "I-spread",
       "G-spread",
+      "I-spread",
       "Z-spread"
     ],
     "correctIndex": 2,
@@ -1196,9 +1196,9 @@
     "difficulty": "hard",
     "stem": "A callable bond of Halcyon Instruments has a Z-spread of 180 basis points and an option-adjusted spread of 125 basis points. The 55 basis point difference most likely represents:",
     "choices": [
-      "Accrued interest that dealers forgot to add to the clean price",
+      "The G-spread over the government yield",
       "The option cost embedded in the Z-spread",
-      "The G-spread over the government yield"
+      "Accrued interest that dealers forgot to add to the clean price"
     ],
     "correctIndex": 1,
     "explanation": "For a bond with an embedded option, the Z-spread still includes compensation for the option the investor is short. The option-adjusted spread removes that option cost: OAS equals the Z-spread minus the option cost. Here the option cost is 180 minus 125, or 55 basis points. It is not a G-spread and it is not accrued interest. The best answer is The option cost embedded in the Z-spread.",
@@ -1218,11 +1218,11 @@
     "difficulty": "medium",
     "stem": "Dovetail Furniture has a premium bond that is callable at par in two years and matures in eight years. An investor who uses only the yield to maturity most likely ignores the chance that:",
     "choices": [
+      "The issuer will call the bond",
       "The coupon will reset to the call price on the next payment date",
-      "The issuer will call the bond, so yield to call and yield to worst can be the more relevant measures",
       "A put will force the investor to extend the bond for eight more years"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Yield to maturity assumes the bond pays every remaining coupon and the principal at final maturity. A premium callable bond is a candidate for redemption if the issuer can refinance. Yield to call uses the call date and call price, and yield to worst is the lowest of those yields. The coupon does not reset to the call price, and this bond is a call, not a put. The best answer is The issuer will call the bond, so yield to call and yield to worst can be the more relevant measures.",
     "hardTopicHelp": {
       "blurb": "Current yield is the annual coupon over price and ignores pull to par. Yield to maturity assumes you hold to maturity and reinvest coupons at that same yield. A semiannual bond basis of 6% means 3% per half year; the effective annual yield is a bit higher than 6% because of compounding. A G-spread is over a government benchmark. An I-spread is over a swap rate. A Z-spread is added to every spot rate. OAS removes the value of an embedded option from the Z-spread.",
@@ -1240,11 +1240,11 @@
     "difficulty": "easy",
     "stem": "A floating-rate note of Nettle and Pine Packaging pays a reference rate plus 0.90%. In the indenture, that 0.90% is best described as the:",
     "choices": [
+      "Quoted margin",
       "Z-spread over the government spot curve",
-      "Discount margin, which is always equal to the quoted margin",
-      "Quoted margin"
+      "Discount margin, which is always equal to the quoted margin"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The quoted margin is the contractual spread added to the reference rate to set the coupon. The discount margin is the spread the market requires in the discount rate, and it equals the quoted margin only when the floater is priced at par on a reset date. The quoted margin is not a Z-spread. The best answer is Quoted margin.",
     "hardTopicHelp": {
       "blurb": "A floater’s coupon resets off a market reference rate plus a quoted margin. If the credit spread the market demands widens beyond that quoted margin, the floater’s price drops below par. Money-market discount yields use face value in the denominator; add-on yields use price. They are not the same number.",
@@ -1262,12 +1262,12 @@
     "difficulty": "medium",
     "stem": "On a reset date, the market discount margin demanded on a floater of Mossbank Textiles is wider than the note quoted margin. The floater full price is most likely:",
     "choices": [
-      "Exactly par, because a floater is repriced every reset date regardless of the margin",
-      "Below par",
-      "Above par"
+      "Above par",
+      "Below par, as stated here",
+      "Exactly par, because a floater is repriced every reset date regardless of the margin"
     ],
     "correctIndex": 1,
-    "explanation": "If investors demand a wider spread than the quoted margin, they will not pay par for the future coupons. The price drops below par until the yield implied by the discount margin fits the cash flows. A reset aligns the next coupon with the current reference rate plus the quoted margin; it does not repair a quoted margin that is too small. The best answer is Below par.",
+    "explanation": "If investors demand a wider spread than the quoted margin, they will not pay par for the future coupons. The price drops below par until the yield implied by the discount margin fits the cash flows. A reset aligns the next coupon with the current reference rate plus the quoted margin; it does not repair a quoted margin that is too small. The best answer is Below par.\n\nBest answer: Below par, as stated here",
     "hardTopicHelp": {
       "blurb": "A floater’s coupon resets off a market reference rate plus a quoted margin. If the credit spread the market demands widens beyond that quoted margin, the floater’s price drops below par. Money-market discount yields use face value in the denominator; add-on yields use price. They are not the same number.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -1284,12 +1284,12 @@
     "difficulty": "medium",
     "stem": "A floater of Halcyon Instruments is exactly on a reset date, and the quoted margin equals the discount margin the market requires. The floater is most likely priced:",
     "choices": [
-      "At a premium equal to the quoted margin times the face value",
-      "At par",
-      "At a discount equal to one coupon period of interest"
+      "At par, as stated here",
+      "At a discount equal to one coupon period of interest",
+      "At a premium equal to the quoted margin times the face value"
     ],
-    "correctIndex": 1,
-    "explanation": "When the margin in the coupon equals the margin used to discount the floater, the present value of the remaining payments is par on a reset date. A premium would require the quoted margin to exceed the required discount margin. Accrued interest from a prior period is not the reason for a discount on the reset date itself. The best answer is At par.",
+    "correctIndex": 0,
+    "explanation": "When the margin in the coupon equals the margin used to discount the floater, the present value of the remaining payments is par on a reset date. A premium would require the quoted margin to exceed the required discount margin. Accrued interest from a prior period is not the reason for a discount on the reset date itself. The best answer is At par.\n\nBest answer: At par, as stated here",
     "hardTopicHelp": {
       "blurb": "A floater’s coupon resets off a market reference rate plus a quoted margin. If the credit spread the market demands widens beyond that quoted margin, the floater’s price drops below par. Money-market discount yields use face value in the denominator; add-on yields use price. They are not the same number.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -1306,9 +1306,9 @@
     "difficulty": "hard",
     "stem": "Compared with a fixed-rate bullet bond of the same issuer and the same final maturity, a floating-rate note of Vellum Rail most likely has:",
     "choices": [
-      "More price sensitivity to a change in the reference interest rate",
+      "No sensitivity to a change in the issuer credit spread",
       "Less price sensitivity to a change in the reference interest rate",
-      "No sensitivity to a change in the issuer credit spread"
+      "More price sensitivity to a change in the reference interest rate"
     ],
     "correctIndex": 1,
     "explanation": "Because the coupon resets with the reference rate, a floater Macaulay duration is close to the time until the next reset, not the time until final maturity. Reference-rate moves therefore move the price less than they move a long fixed-rate bond. Credit-spread changes still affect the price when the quoted margin is fixed. The best answer is Less price sensitivity to a change in the reference interest rate.",
@@ -1372,8 +1372,8 @@
     "difficulty": "medium",
     "stem": "The debt desk at Meridian Development Bank observes a one-year spot rate of 2.40% and a two-year spot rate of 3.10%. The one-year forward rate one year from now, \\(f=\\frac{(1+z_2)^2}{1+z_1}-1\\), is closest to:",
     "choices": [
-      "3.10%",
       "2.40%",
+      "3.10%",
       "3.80%"
     ],
     "correctIndex": 2,
@@ -1394,11 +1394,11 @@
     "difficulty": "hard",
     "stem": "A downward-sloping curve shows a one-year spot of 5.00% and a two-year spot of 4.00%. The one-year forward rate one year from now, \\(f=\\frac{(1.04)^2}{1.05}-1\\), is closest to:",
     "choices": [
-      "5.00%",
       "3.01%",
-      "4.00%"
+      "4.00%",
+      "5.00%"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "With the curve inverted, the break-even future one-year rate is below the shorter spot. \\[f=\\frac{(1.04)^2}{1.05}-1=0.030095\\] The forward is also below the two-year spot. Using either spot by itself, or their average, ignores the compounding link. The implied forward is closest to 3.01%.",
     "hardTopicHelp": {
       "blurb": "A spot rate discounts a single payment. A par rate is the coupon that prices a bond at par. The forward rate is the break-even future spot implied by two spots: (1 + z2)^2 = (1 + z1) × (1 + f). If your own forecast of the future spot is above that forward, you expect the longer bond to underperform the rollover strategy, all else equal.",
@@ -1416,9 +1416,9 @@
     "difficulty": "medium",
     "stem": "Using a one-year spot of 2.40% and a two-year spot of 3.10%, the two-year annual par rate, \\(c=\\frac{100-PV(100)}{\\sum DF_t}\\), is closest to:",
     "choices": [
-      "3.10%",
+      "2.40%",
       "3.09%",
-      "2.40%"
+      "3.10%"
     ],
     "correctIndex": 1,
     "explanation": "The par rate is the coupon that prices a two-year annual bond at 100. \\[c\\left(\\frac{1}{1.024}+\\frac{1}{(1.031)^2}\\right)=100-\\frac{100}{(1.031)^2}\\] The principal present value is 94.0768 and the sum of discount factors is 1.9173, so the coupon per 100 of face is 3.0893. That par rate lies between the two spots and below the forward. It is closest to 3.09%.",
@@ -1438,11 +1438,11 @@
     "difficulty": "hard",
     "stem": "Spots are 1.80% for one year and 2.70% for two years. The annual coupon that prices a two-year bond at par, \\(P_{par}=\\frac{c}{1+z_1}+\\frac{100+c}{(1+z_2)^2}\\), is closest to:",
     "choices": [
-      "2.70%",
       "1.80%",
-      "2.69%"
+      "2.69%",
+      "2.70%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Set the price equal to 100 and solve for the coupon. \\[c=\\frac{100-\\frac{100}{(1.027)^2}}{\\frac{1}{1.018}+\\frac{1}{(1.027)^2}}\\] The numerator is 5.1889 and the denominator is 1.9304. Dividing and scaling by face gives a par rate of 0.026880. The one-year spot, the two-year spot, and the forward are different points on the curve. The par rate is closest to 2.69%.",
     "hardTopicHelp": {
       "blurb": "A spot rate discounts a single payment. A par rate is the coupon that prices a bond at par. The forward rate is the break-even future spot implied by two spots: (1 + z2)^2 = (1 + z1) × (1 + f). If your own forecast of the future spot is above that forward, you expect the longer bond to underperform the rollover strategy, all else equal.",
@@ -1482,11 +1482,11 @@
     "difficulty": "easy",
     "stem": "A spot rate on the Calden government curve is best described as the rate that:",
     "choices": [
-      "Is an investor forecast of the policy rate, with no link to current prices",
+      "Discounts a single future payment to today",
       "Is the coupon on a bond priced at par for every maturity at once",
-      "Discounts a single future payment to today"
+      "Is an investor forecast of the policy rate, with no link to current prices"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Each spot rate discounts one cash flow of a given maturity. A par rate is the coupon that prices a coupon bond at par, and it is a blend of spots. A forward rate is implied by two spots. None of these no-arbitrage rates is simply an analyst forecast. The best answer is Discounts a single future payment to today.",
     "hardTopicHelp": {
       "blurb": "A spot rate discounts a single payment. A par rate is the coupon that prices a bond at par. The forward rate is the break-even future spot implied by two spots: (1 + z2)^2 = (1 + z1) × (1 + f). If your own forecast of the future spot is above that forward, you expect the longer bond to underperform the rollover strategy, all else equal.",
@@ -1526,9 +1526,9 @@
     "difficulty": "medium",
     "stem": "When the spot curve is upward sloping, the one-year forward rate one year from now is most likely:",
     "choices": [
-      "Equal to the two-year par rate by definition",
+      "Lower than the one-year spot rate",
       "Higher than the two-year spot rate",
-      "Lower than the one-year spot rate"
+      "Equal to the two-year par rate by definition"
     ],
     "correctIndex": 1,
     "explanation": "The no-arbitrage link is (1+z2)^2 = (1+z1) times (1+f). If z2 exceeds z1, then (1+z2)^2 exceeds (1+z1) times (1+z2), so 1+f exceeds 1+z2. The forward therefore sits above both spot rates. It is a break-even future rate, not another name for the par rate. The best answer is Higher than the two-year spot rate.",
@@ -1593,10 +1593,10 @@
     "stem": "An investor rides an upward-sloping yield curve by buying a bond longer than the investment horizon and selling it before maturity, and the curve stays unchanged. That strategy most likely:",
     "choices": [
       "Works only when the spot curve is inverted",
-      "Is riskless and must earn the overnight rate with no exposure to a rise in yields",
-      "Can earn more than the short-term rate because the bond rolls down to a lower yield"
+      "Can earn more than the short-term rate because the bond rolls down to a lower yield",
+      "Is riskless and must earn the overnight rate with no exposure to a rise in yields, as described"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "If an upward curve is unchanged, a bond ages into a shorter maturity with a lower yield, so its price rises relative to a constant-yield path. That roll-down can lift the horizon return above the rate available on a maturity-matched bill. The position still loses if yields rise. The strategy uses the upward slope; an inverted curve rolls the bond toward a higher yield. The best answer is Can earn more than the short-term rate because the bond rolls down to a lower yield.",
     "hardTopicHelp": {
       "blurb": "A spot rate discounts a single payment. A par rate is the coupon that prices a bond at par. The forward rate is the break-even future spot implied by two spots: (1 + z2)^2 = (1 + z1) × (1 + f). If your own forecast of the future spot is above that forward, you expect the longer bond to underperform the rollover strategy, all else equal.",
@@ -1614,9 +1614,9 @@
     "difficulty": "hard",
     "stem": "For a single annual period, the one-year par rate and the one-year spot rate on the same curve are most likely:",
     "choices": [
-      "Equal, because a one-year coupon bond has only one cash flow",
-      "Related by squaring, because every par rate is a two-year forward",
-      "Different, because a par rate never equals a spot rate"
+      "Equal",
+      "Different",
+      "Related by squaring"
     ],
     "correctIndex": 0,
     "explanation": "A one-year bond pays coupon plus principal once. Setting that price equal to par forces the coupon rate to equal the one-year discount rate. So the one-year par rate is the one-year spot. The squared relationship appears when a second period is introduced, not for the first spot itself. The best answer is Equal, because a one-year coupon bond has only one cash flow.",
@@ -1659,10 +1659,10 @@
     "stem": "A manager matches the investment horizon to the Macaulay duration of an option-free bond. The yield then changes once, immediately, by a small amount and stays at the new level. The price effect and the reinvestment effect most likely:",
     "choices": [
       "Both reduce the horizon return whenever the yield rises",
-      "Approximately offset, so the horizon return stays near the original yield",
-      "Both increase the horizon return whenever the yield falls"
+      "Both increase the horizon return whenever the yield falls",
+      "Approximately offset, so the horizon return stays near the original yield"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Near the Macaulay duration, an immediate yield increase lowers the sale price but raises income earned by reinvesting coupons, and a yield decrease does the opposite. For a small one-time move those effects approximately cancel, which is the idea behind immunization. Convexity makes the offset approximate rather than exact, and the result is not that both effects have the same sign. The best answer is Approximately offset, so the horizon return stays near the original yield.",
     "hardTopicHelp": {
       "blurb": "A bond’s holding-period return comes from coupon income, reinvestment of those coupons, and the price change at the horizon. If yields jump immediately and then stay put, a horizon near Macaulay duration is where the price loss and the reinvestment gain roughly offset. That is an approximation, not a promise.",
@@ -1680,11 +1680,11 @@
     "difficulty": "hard",
     "stem": "An investor horizon is much shorter than the Macaulay duration of a fixed-rate bond. An immediate rise in yield, which then stays at the higher level, most likely:",
     "choices": [
-      "Leaves the horizon return unchanged for every horizon, because duration immunizes all of them",
-      "Raises the horizon return, because the investor reinvests coupons at the higher yield for longer than the duration",
-      "Reduces the horizon return, because the price loss dominates the extra reinvestment income"
+      "Raises the horizon return",
+      "Reduces the horizon return",
+      "Leaves the horizon return unchanged for every horizon"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The canceling point of price risk and reinvestment risk is about the Macaulay duration. Before that horizon, the investor sells too soon for the extra reinvestment income to offset the price decline, so a higher yield hurts. A lower yield would help this short-horizon investor. Duration does not immunize a horizon that is far from the duration statistic. The best answer is Reduces the horizon return, because the price loss dominates the extra reinvestment income.",
     "hardTopicHelp": {
       "blurb": "A bond’s holding-period return comes from coupon income, reinvestment of those coupons, and the price change at the horizon. If yields jump immediately and then stay put, a horizon near Macaulay duration is where the price loss and the reinvestment gain roughly offset. That is an approximation, not a promise.",
@@ -1702,12 +1702,12 @@
     "difficulty": "medium",
     "stem": "An investor holds a coupon bond of Brightloom Components to maturity, and the issuer pays every contractual amount. Every coupon is reinvested at a rate below the original yield to maturity. The realized compound return most likely:",
     "choices": [
+      "Falls short of the original yield to maturity, for this position",
       "Equals the original yield to maturity because principal is repaid at par",
-      "Falls short of the original yield to maturity",
       "Exceeds the original yield to maturity because the bond was not sold early"
     ],
-    "correctIndex": 1,
-    "explanation": "Yield to maturity assumes coupons are reinvested at that yield. Reinvesting at a lower rate produces a smaller accumulation at maturity, so the realized compound return is below the original yield even though the issuer did not default and the principal arrived at par. Holding to maturity removes price risk but not reinvestment risk. The best answer is Falls short of the original yield to maturity.",
+    "correctIndex": 0,
+    "explanation": "Yield to maturity assumes coupons are reinvested at that yield. Reinvesting at a lower rate produces a smaller accumulation at maturity, so the realized compound return is below the original yield even though the issuer did not default and the principal arrived at par. Holding to maturity removes price risk but not reinvestment risk. The best answer is Falls short of the original yield to maturity.\n\nBest answer: Falls short of the original yield to maturity, for this position",
     "hardTopicHelp": {
       "blurb": "A bond’s holding-period return comes from coupon income, reinvestment of those coupons, and the price change at the horizon. If yields jump immediately and then stay put, a horizon near Macaulay duration is where the price loss and the reinvestment gain roughly offset. That is an approximation, not a promise.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -1722,13 +1722,13 @@
       "fi-return"
     ],
     "difficulty": "easy",
-    "stem": "Which outcome can make an investor's realized return differ from the original yield to maturity even though the issuer of an option-free bond does not default?",
+    "stem": "Which outcome most likely can make an investor's realized return differ from the original yield to maturity even though the issuer of an option-free bond does not default?",
     "choices": [
-      "Buying a par bond and receiving every coupon while the yield remains equal to the coupon",
+      "Selling the bond before maturity after the yield has changed",
       "Holding a zero-coupon bond to maturity and receiving the face amount",
-      "Selling the bond before maturity after the yield has changed"
+      "Buying a par bond and receiving every coupon while the yield remains equal to the coupon"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Selling before maturity exposes the investor to a price that reflects the new yield, so the horizon return can differ from the original yield to maturity. A zero held to maturity has no coupons to reinvest, so its compound return equals its yield if it does not default. A par bond held to maturity with coupons reinvested at an unchanged yield also realizes that yield. The best answer is Selling the bond before maturity after the yield has changed.",
     "hardTopicHelp": {
       "blurb": "A bond’s holding-period return comes from coupon income, reinvestment of those coupons, and the price change at the horizon. If yields jump immediately and then stay put, a horizon near Macaulay duration is where the price loss and the reinvestment gain roughly offset. That is an approximation, not a promise.",
@@ -1746,11 +1746,11 @@
     "difficulty": "easy",
     "stem": "An investor buys a bond of Westmere Steel at 95.00 per 100 of face, receives a coupon of 3.50, and sells it one year later at 97.50. The holding-period return, \\(HPR=\\frac{97.50-95.00+3.50}{95.00}\\), is closest to:",
     "choices": [
-      "6.32%",
+      "2.63%",
       "3.68%",
-      "2.63%"
+      "6.32%"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "The holding-period return credits both the coupon and the price increase, measured against the purchase price. \\[HPR=\\frac{97.50-95.00+3.50}{95.00}=\\frac{6.00}{95.00}=0.063158\\] Using only the price change drops the coupon. Dividing by the ending price, or using only the coupon, changes the denominator or the numerator. The holding-period return is closest to 6.32%.",
     "hardTopicHelp": {
       "blurb": "A bond’s holding-period return comes from coupon income, reinvestment of those coupons, and the price change at the horizon. If yields jump immediately and then stay put, a horizon near Macaulay duration is where the price loss and the reinvestment gain roughly offset. That is an approximation, not a promise.",
@@ -1768,11 +1768,11 @@
     "difficulty": "medium",
     "stem": "An investor buys a bond of Orchard and Anvil at 101.25, receives a coupon of 4.50, and sells it one year later at 100.10. The holding-period return, \\(HPR=\\frac{100.10-101.25+4.50}{101.25}\\), is closest to:",
     "choices": [
-      "4.44%",
       "-1.14%",
-      "3.31%"
+      "3.31%",
+      "4.44%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The coupon more than offsets the small price decline. \\[HPR=\\frac{100.10-101.25+4.50}{101.25}=\\frac{3.35}{101.25}=0.033086\\] The price change alone is negative, and the current-yield piece 4.50/101.25 ignores that price change. The sum of coupon and price change must be divided by the beginning price of 101.25. The holding-period return is closest to 3.31%.",
     "hardTopicHelp": {
       "blurb": "A bond’s holding-period return comes from coupon income, reinvestment of those coupons, and the price change at the horizon. If yields jump immediately and then stay put, a horizon near Macaulay duration is where the price loss and the reinvestment gain roughly offset. That is an approximation, not a promise.",
@@ -1812,11 +1812,11 @@
     "difficulty": "medium",
     "stem": "A four-year annual-pay bond of Harborline Holdings has a 5% coupon and a 6% yield. Per 100 of face, Macaulay duration, \\(Mac=\\frac{\\sum t\\times PV(CF_t)}{P}\\), is closest to:",
     "choices": [
-      "3.72",
       "3.51",
+      "3.72",
       "4.00"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Macaulay duration is the present-value-weighted receipt time, in years. \\[Mac=\\frac{1\\times\\frac{5.00}{(1.06)^{1}}+2\\times\\frac{5.00}{(1.06)^{2}}+3\\times\\frac{5.00}{(1.06)^{3}}+4\\times\\frac{105.00}{(1.06)^{4}}}{96.5349}\\] The price of the bond is 96.5349, and the weighted sum divided by that price equals 3.7177 years. Maturity is 4 years, which is longer because coupons arrive earlier. Modified duration is the next rescaling, not this weighted time. Macaulay duration is closest to 3.72 years.",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
@@ -1835,8 +1835,8 @@
     "stem": "The same Harborline Holdings four-year annual-pay 5% bond yields 6%. Its Macaulay duration is 3.7177 years. Modified duration, \\(Mod=\\frac{Mac}{1+y}\\), is closest to:",
     "choices": [
       "3.51",
-      "3.94",
-      "3.72"
+      "3.72",
+      "3.94"
     ],
     "correctIndex": 0,
     "explanation": "With annual payments the periodic yield is the annual yield. \\[Mod=\\frac{3.7177}{1.06}=3.5073\\] The percent price change for a small yield move is approximately minus this modified duration times the annual yield change. Multiplying by 1.06 goes in the wrong direction, and dividing by 1.03 would invent a semiannual conversion the bond does not use. Modified duration is closest to 3.51.",
@@ -1856,11 +1856,11 @@
     "difficulty": "hard",
     "stem": "A five-year semiannual-pay bond of Cinderwell Utilities has a 4% annual coupon and a 5% annual yield. Macaulay duration in years, \\(Mac=\\frac{\\sum (t/k)PV_t}{P}\\), is closest to:",
     "choices": [
-      "4.57",
       "4.46",
+      "4.57",
       "5.00"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Semiannual payments use ten periods, but time is measured in years, so each period weight is t/2. The periodic coupon is 2 and the periodic discount rate is 2.50%. \\[Mac=\\frac{1}{P}\\sum_{t=1}^{10}\\frac{t}{2}\\times PV_t=4.5695\\] The result is below the five-year maturity. An annual-pay version of the same coupon and yield has a different duration because the cash arrives later. Doubling the annual Macaulay figure would turn years into something else. Macaulay duration is closest to 4.57 years.",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
@@ -1878,9 +1878,9 @@
     "difficulty": "hard",
     "stem": "That Cinderwell Utilities semiannual bond has Macaulay duration of 4.5695 years and a 5% annual yield. Modified duration, \\(Mod=\\frac{Mac}{1+y/2}\\), is closest to:",
     "choices": [
-      "4.57",
+      "4.35",
       "4.46",
-      "4.35"
+      "4.57"
     ],
     "correctIndex": 1,
     "explanation": "Frequency is 2, so the adjustment uses the semiannual periodic yield. \\[Mod=\\frac{4.5695}{1+0.05/2}=\\frac{4.5695}{1.025}=4.4581\\] Dividing by 1.05 would treat the bond as annual-pay. Multiplying by 1.025 increases duration instead of converting it. Modified duration is closest to 4.46.",
@@ -1900,9 +1900,9 @@
     "difficulty": "medium",
     "stem": "An option-free bond of Westmere Steel is priced at 97.44. If its own yield falls by 25 basis points the price is 98.71, and if the yield rises by 25 basis points the price is 96.18. Approximate modified duration, \\(\\frac{P_{-}-P_{+}}{2P_0\\Delta y}\\), is closest to:",
     "choices": [
-      "5.21",
+      "5.17",
       "5.19",
-      "5.17"
+      "5.21"
     ],
     "correctIndex": 1,
     "explanation": "The central difference uses both the price increase and the price decrease. \\[ApproxMod=\\frac{98.71-96.18}{2\\times 97.44\\times 0.0025}=5.1929\\] Using only the down move, or only the up move, is a one-sided estimate. Omitting the 2 in the denominator doubles the statistic. Because the bond is option-free, this yield-based approximate modified duration is an appropriate price sensitivity. It is closest to 5.19.",
@@ -1922,11 +1922,11 @@
     "difficulty": "medium",
     "stem": "Harborline Holdings annual-pay bond has modified duration 3.5073 and a full price of 96.53 per 100 of face. The price value of a basis point, \\(PVBP\\approx Mod\\times P\\times 0.0001\\), is closest to:",
     "choices": [
-      "3.3856",
       "0.0004",
-      "0.0339"
+      "0.0339",
+      "3.3856"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "PVBP is the absolute price change for a one basis point move in yield. \\[PVBP\\approx 3.5073\\times 96.53\\times 0.0001=0.033856\\] Using 0.01 instead of 0.0001 computes a full percentage-point move. Dropping either duration or price leaves the product incomplete. The price value of one basis point is closest to 0.0339.",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
@@ -1944,11 +1944,11 @@
     "difficulty": "hard",
     "stem": "Using modified duration 3.5073 and full price 96.53, estimate the new full price after an immediate 40 basis point increase in yield. Ignore convexity. The estimated price, \\(P_{new}\\approx P(1-Mod\\times 0.004)\\), is closest to:",
     "choices": [
-      "97.88",
       "95.18",
-      "96.52"
+      "96.52",
+      "97.88"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The duration line says the percent change is minus modified duration times the yield change. \\[\\frac{\\Delta P}{P}\\approx -3.5073\\times 0.004\\] \\[P_{new}\\approx 96.53\\times(1-0.014029)=95.1758\\] A plus sign would raise the price when the yield rises, which reverses the inverse relationship. Subtracting the duration statistic itself, rather than duration times price times the yield change, is not a currency price. Convexity is omitted, as the question asks. The estimated price is closest to 95.18.",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
@@ -1966,11 +1966,11 @@
     "difficulty": "easy",
     "stem": "Money duration of the Harborline Holdings bond, with modified duration 3.5073 and full price 96.53, is \\(MoneyDur=Mod\\times P\\). That money duration is closest to:",
     "choices": [
+      "3.51",
       "96.53",
-      "338.56",
-      "3.51"
+      "338.56"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Money duration multiplies the percent sensitivity by the full price. \\[MoneyDur=3.5073\\times 96.53=338.5597\\] The approximate currency price change is minus this number times the annual yield change. Modified duration alone is not in currency units, and multiplying again by 0.0001 would produce the price value of a basis point rather than money duration. Money duration is closest to 338.56.",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
@@ -1988,12 +1988,12 @@
     "difficulty": "easy",
     "stem": "A seven-year zero-coupon bond of Kindling Energy has a Macaulay duration that is most likely:",
     "choices": [
+      "Equal to seven years, as described",
       "Equal to seven divided by one plus the yield",
-      "Equal to seven years",
       "Equal to one year, because a zero recognizes interest annually"
     ],
-    "correctIndex": 1,
-    "explanation": "Macaulay duration is the present-value-weighted average time until cash is received. A zero has one cash flow, at maturity, so the entire weight sits at year seven and Macaulay duration equals maturity. Dividing by one plus the yield converts Macaulay duration into modified duration. It does not change the fact that the cash arrives in seven years. The best answer is Equal to seven years.",
+    "correctIndex": 0,
+    "explanation": "Macaulay duration is the present-value-weighted average time until cash is received. A zero has one cash flow, at maturity, so the entire weight sits at year seven and Macaulay duration equals maturity. Dividing by one plus the yield converts Macaulay duration into modified duration. It does not change the fact that the cash arrives in seven years. The best answer is Equal to seven years.\n\nBest answer: Equal to seven years, as described",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -2008,13 +2008,13 @@
       "fi-duration"
     ],
     "difficulty": "medium",
-    "stem": "Westmere Steel and Halcyon Instruments each have an option-free three-year annual-pay bond yielding 6%. Westmere coupon is 2% and Halcyon coupon is 9%. Which bond has the higher Macaulay duration?",
+    "stem": "Westmere Steel and Halcyon Instruments each have an option-free three-year annual-pay bond yielding 6%. Westmere coupon is 2% and Halcyon coupon is 9%. Which bond most likely has the higher Macaulay duration?",
     "choices": [
-      "Neither, because Macaulay duration depends only on maturity when the yield is the same",
+      "The Westmere Steel 2% bond",
       "The Halcyon Instruments 9% bond",
-      "The Westmere Steel 2% bond"
+      "Neither, because Macaulay duration depends only on maturity when the yield is the same"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A lower coupon puts more of the bond value in the final principal, so the weighted time until cash arrives is longer. At a 6% yield the 2% bond has Macaulay duration 2.94 years and the 9% bond has Macaulay duration 2.77 years. The Westmere Steel 2% bond is therefore longer. Equal maturity and yield do not force equal duration when the coupons differ.",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
@@ -2032,9 +2032,9 @@
     "difficulty": "medium",
     "stem": "Two option-free bonds are identical in coupon and maturity, but one is priced at a higher yield to maturity. The bond with the higher yield most likely has:",
     "choices": [
-      "A lower Macaulay duration, because later cash flows are discounted more heavily",
-      "The same Macaulay duration, because the payment dates did not change",
-      "A higher Macaulay duration, because the price discount adds extra years"
+      "A lower Macaulay duration",
+      "A higher Macaulay duration",
+      "The same Macaulay duration"
     ],
     "correctIndex": 0,
     "explanation": "Macaulay duration weights each payment date by the present value of that payment. A higher yield shrinks the present value of distant payments more than the present value of near payments, so the weights shift forward and duration falls. The calendar of payment dates is unchanged, but the present-value weights are not. The best answer is A lower Macaulay duration, because later cash flows are discounted more heavily.",
@@ -2054,12 +2054,12 @@
     "difficulty": "easy",
     "stem": "For an option-free fixed-rate bond, modified duration is best described as:",
     "choices": [
-      "Macaulay duration divided by one plus the periodic yield, used to estimate percent price change",
-      "The currency price change for a one-point move in the issuer credit rating",
-      "The number of years until the issuer is allowed to call the bond"
+      "The number of years until the issuer is allowed to call the bond",
+      "Macaulay duration divided by one plus the periodic yield, as described",
+      "The currency price change for a one-point move in the issuer credit rating"
     ],
-    "correctIndex": 0,
-    "explanation": "Modified duration equals Macaulay duration divided by one plus the periodic yield. For an option-free bond, the approximate percent price change is minus modified duration times the change in the annual yield. It is not a call date, and it is not a rating statistic. Money duration, not modified duration, is the currency companion of that percent estimate. The best answer is Macaulay duration divided by one plus the periodic yield, used to estimate percent price change.",
+    "correctIndex": 1,
+    "explanation": "Modified duration equals Macaulay duration divided by one plus the periodic yield. For an option-free bond, the approximate percent price change is minus modified duration times the change in the annual yield. It is not a call date, and it is not a rating statistic. Money duration, not modified duration, is the currency companion of that percent estimate. The best answer is Macaulay duration divided by one plus the periodic yield, used to estimate percent price change.\n\nBest answer: Macaulay duration divided by one plus the periodic yield, as described",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -2076,12 +2076,12 @@
     "difficulty": "hard",
     "stem": "Compared with an option-free coupon bond of the same maturity and yield, a zero-coupon bond most likely has:",
     "choices": [
+      "A Macaulay duration below one year whenever the yield is positive",
       "A lower Macaulay duration, because it pays no coupons that can be weighted",
-      "A higher Macaulay duration, equal to its time to maturity",
-      "A Macaulay duration below one year whenever the yield is positive"
+      "A higher Macaulay duration, equal to its time to maturity, for this position"
     ],
-    "correctIndex": 1,
-    "explanation": "Coupons pull Macaulay duration below maturity because some cash arrives early. A zero has no coupons, so none of its present value arrives early and its Macaulay duration equals maturity. That is longer than the duration of a coupon bond with the same maturity and yield. A positive yield does not pull a zero duration below maturity. The best answer is A higher Macaulay duration, equal to its time to maturity.",
+    "correctIndex": 2,
+    "explanation": "Coupons pull Macaulay duration below maturity because some cash arrives early. A zero has no coupons, so none of its present value arrives early and its Macaulay duration equals maturity. That is longer than the duration of a coupon bond with the same maturity and yield. A positive yield does not pull a zero duration below maturity. The best answer is A higher Macaulay duration, equal to its time to maturity.\n\nBest answer: A higher Macaulay duration, equal to its time to maturity, for this position",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -2098,11 +2098,11 @@
     "difficulty": "medium",
     "stem": "Money duration converts a percent price estimate into a currency estimate. For a given modified duration and a given yield change, a bond with a higher full price most likely has:",
     "choices": [
+      "A larger money duration and a larger currency price change",
       "A smaller money duration, because price and yield move inversely",
-      "The same money duration, because modified duration already contains the price",
-      "A larger money duration and a larger currency price change"
+      "The same money duration, because modified duration already contains the price"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Money duration is modified duration times full price. The approximate price change is minus that product times the yield change. A larger full price therefore scales the same percent move into more currency. Modified duration itself is a percent sensitivity and does not already multiply by price. The inverse price-yield relation is already captured by the minus sign. The best answer is A larger money duration and a larger currency price change.",
     "hardTopicHelp": {
       "blurb": "Macaulay duration is the present-value-weighted average time to receive cash, in years. Modified duration equals Macaulay duration divided by one plus the periodic yield, and it estimates percent price change for a change in the bond’s own yield: percent change ≈ −modified duration × Δyield. Money duration multiplies by price. PVBP is that money move for one basis point.",
@@ -2120,11 +2120,11 @@
     "difficulty": "medium",
     "stem": "An option-free bond has annual modified duration of 6.40 and annual convexity of 48. For an immediate 50 basis point increase in yield, the estimated percentage price change, \\(\\Delta P/P\\approx -Mod\\Delta y+\\frac{1}{2}Conv(\\Delta y)^2\\), is closest to:",
     "choices": [
-      "-3.08%",
       "-3.20%",
-      "-3.14%"
+      "-3.14%",
+      "-3.08%"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Use the annual statistics with the annual yield change of 0.005. \\[\\frac{\\Delta P}{P}\\approx -6.40\\times 0.005+\\frac{1}{2}\\times 48\\times(0.005)^2\\] \\[=-0.0320+0.0006=-0.0314\\] The convexity term is positive, so the price decline is slightly smaller than the duration-only estimate of -3.20%. Dropping the one-half, or flipping the sign of the whole estimate, does not match the formula. The percentage price change is closest to -3.14%.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2164,11 +2164,11 @@
     "difficulty": "hard",
     "stem": "An option-free bond of Bramble and Co. is priced at 98.40. After a 100 basis point decrease in its yield the price is 101.15, and after a 100 basis point increase the price is 95.85. Annual approximate convexity, \\(\\frac{P_{-}+P_{+}-2P_0}{P_0(\\Delta y)^2}\\), is closest to:",
     "choices": [
-      "20.33",
+      "0.20",
       "2.69",
-      "0.20"
+      "20.33"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Convexity uses the sum of the two shocked prices, not their difference. \\[ApproxConv=\\frac{101.15+95.85-2\\times 98.40}{98.40\\times(0.01)^2}=20.3252\\] The numerator is 0.20, a small positive amount, and dividing by the squared yield shock produces a positive annual convexity. The difference of the prices over 2 P0 dy is approximate duration, not convexity. Approximate convexity is closest to 20.33.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2186,11 +2186,11 @@
     "difficulty": "easy",
     "stem": "A portfolio holds 3.60 million market value of a bond with modified duration 5.20 and 2.40 million market value of a bond with modified duration 8.50. Portfolio modified duration for a parallel shift, \\(D_p=w_1 D_1+w_2 D_2\\), is closest to:",
     "choices": [
+      "6.52",
       "6.85",
-      "7.18",
-      "6.52"
+      "7.18"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Weights are market-value shares. Total value is 6.00 million, so the weights are 0.60 and 0.40. \\[D_p=0.60\\times 5.20+0.40\\times 8.50=3.12+3.40=6.52\\] An equal-weighted average ignores the larger first position. Swapping the weights gives the other portfolio. Adding the durations without weights is not an average. Portfolio duration is closest to 6.52.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2208,11 +2208,11 @@
     "difficulty": "medium",
     "stem": "The same two positions have annual convexities of 32 and 80. Market values remain 3.60 million and 2.40 million. Portfolio convexity, \\(C_p=w_1 C_1+w_2 C_2\\), is closest to:",
     "choices": [
+      "51.20",
       "56.00",
-      "60.80",
-      "51.20"
+      "60.80"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Portfolio convexity uses the same market-value weights as portfolio duration. \\[C_p=0.60\\times 32+0.40\\times 80=19.2+32.0=51.2\\] This statistic, like portfolio duration, assumes a parallel yield move. The equal-weighted average and the swapped-weight average describe different portfolios. Portfolio convexity is closest to 51.20.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2231,8 +2231,8 @@
     "stem": "Annual convexity is 48 and the yield change is 50 basis points. The convexity adjustment alone, \\(\\frac{1}{2}\\times 48\\times(0.005)^2\\), is closest to:",
     "choices": [
       "0.06%",
-      "12.00%",
-      "0.12%"
+      "0.12%",
+      "12.00%"
     ],
     "correctIndex": 0,
     "explanation": "The second-order piece is one-half times annual convexity times the squared yield change. \\[\\frac{1}{2}\\times 48\\times 0.000025=0.0006\\] As a percent of price that is 0.06 percentage points of return, reported as 0.06%. Forgetting the one-half doubles it. Forgetting to square 0.005 makes the term far too large. The adjustment is added to the duration estimate for both a yield increase and a yield decrease. It is closest to 0.06%.",
@@ -2252,11 +2252,11 @@
     "difficulty": "easy",
     "stem": "For an option-free bond, the price-yield curve bends in the investor favor relative to the straight duration line. The actual price most likely:",
     "choices": [
-      "Rises by more than the duration estimate when the yield falls, and falls by less when the yield rises",
       "Matches the duration line exactly once the yield move exceeds 100 basis points",
-      "Rises by less than the duration estimate when the yield falls, and falls by more when the yield rises"
+      "Rises by less than the duration estimate when the yield falls, and falls by more when the yield rises",
+      "Rises by more than the duration estimate when the yield falls, and falls by less when the yield rises"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Positive convexity means the true price lies above the duration tangent. When yields fall, the price increase is larger than duration predicts. When yields rise, the price decline is smaller than duration predicts. The gap grows with the size of the yield move; it does not disappear for large moves. The best answer is Rises by more than the duration estimate when the yield falls, and falls by less when the yield rises.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2274,11 +2274,11 @@
     "difficulty": "medium",
     "stem": "A portfolio duration statistic that is meant to describe a parallel yield shift is most likely computed as:",
     "choices": [
-      "The equal-weighted average of the individual durations, ignoring position size",
       "The sum of the individual durations, with no weights",
-      "The market-value-weighted average of the individual durations"
+      "The market-value-weighted average of the individual durations",
+      "The equal-weighted average of the individual durations, ignoring position size"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Portfolio duration is the sum of each holding duration times that holding share of portfolio market value. A large position therefore matters more than a small one. An equal-weighted average ignores those sizes, and adding durations without weights does not produce a portfolio statistic. The best answer is The market-value-weighted average of the individual durations.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2296,11 +2296,11 @@
     "difficulty": "medium",
     "stem": "Yield-based portfolio duration and convexity assume the benchmark move is parallel. They most likely do not capture:",
     "choices": [
-      "A twist in which short-maturity yields rise while long-maturity yields fall",
       "The coupon cash the portfolio is scheduled to receive",
+      "A twist in which short-maturity yields rise while long-maturity yields fall",
       "The direction of the price change when every maturity yield rises by the same amount"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "A single duration and a single convexity describe one yield number moving by the same amount at every maturity. A twist is a non-parallel move and needs key-rate or similar curve exposures. The parallel tool still gets the sign of a uniform yield increase right: prices fall. Coupon cash is a separate source of return, not the curve-shape limitation. The best answer is A twist in which short-maturity yields rise while long-maturity yields fall.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2318,11 +2318,11 @@
     "difficulty": "hard",
     "stem": "A callable bond of Marlowe Glass is already priced near the call price. If yields fall further, its effective convexity in that region most likely:",
     "choices": [
-      "Is negative, because the call caps further price gains",
       "Equals the bond Macaulay duration",
+      "Is negative, because the call caps further price gains",
       "Becomes more positive than the convexity of an option-free bond"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "As the issuer call moves into the money, the price does not keep rising like an option-free bond. The price-yield curve bends the other way and effective convexity can be negative. That is worse for the investor than positive convexity. Convexity is not equal to Macaulay duration; they are different statistics. The best answer is Is negative, because the call caps further price gains.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2340,11 +2340,11 @@
     "difficulty": "medium",
     "stem": "Two option-free bonds have the same modified duration and the same yield. The bond with the larger annual convexity most likely:",
     "choices": [
-      "Underperforms if the yield moves by a large amount in either direction",
       "Outperforms if the yield moves by a large amount in either direction",
+      "Underperforms if the yield moves by a large amount in either direction",
       "Has a different one-basis-point price sensitivity even though the durations match"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "The convexity adjustment is one-half times convexity times the yield change squared, and that term is positive for a larger convexity whether the yield rises or falls. For a tiny move the duration term dominates, so equal durations mean nearly equal one-basis-point risk. The extra convexity shows up when the move is large. The stem gives both bonds the same yield, so the extra convexity has not been paid for with a lower yield. The best answer is Outperforms if the yield moves by a large amount in either direction.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2362,11 +2362,11 @@
     "difficulty": "hard",
     "stem": "In the percent price-change formula, the convexity term is one-half times annual convexity times the squared yield change. For a yield change of only a few basis points, that term most likely:",
     "choices": [
-      "Is much smaller than the duration term because it depends on the square of a small number",
-      "Dominates the duration term whenever convexity is positive",
-      "Is subtracted when yields fall and added when yields rise"
+      "Is subtracted when yields fall and added when yields rise",
+      "Dominates the duration term whenever convexity is positive, as described",
+      "Is much smaller than the duration term because it depends on the square of a small number"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "A change of 0.0003 squared is a very small number, so the second-order term is tiny next to modified duration times that change. Positive convexity does not overturn the duration estimate for a one-basis-point move. The convexity term is added for both an increase and a decrease in yield, because the squared change is positive either way. The best answer is Is much smaller than the duration term because it depends on the square of a small number.",
     "hardTopicHelp": {
       "blurb": "The duration line is straight and the price-yield curve is not. For an option-free bond the curve bends in your favor: add ½ × annual convexity × (Δyield)^2 to the duration estimate. Portfolio duration and convexity are market-value weights of the pieces, and they assume a parallel yield move.",
@@ -2384,11 +2384,11 @@
     "difficulty": "easy",
     "stem": "A callable bond of Sablemere Chemicals can be redeemed when yields fall, so its remaining cash flows are not fixed. The appropriate yield-curve sensitivity is most likely:",
     "choices": [
-      "Modified duration based on the bond own yield to maturity, holding the cash flows fixed",
       "Effective duration",
-      "Macaulay duration, because a call does not change the weighted time to cash"
+      "Macaulay duration, because a call does not change the weighted time to cash",
+      "Modified duration based on the bond own yield to maturity, holding the cash flows fixed"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Modified and Macaulay duration assume the promised schedule does not change when the benchmark moves. A call lets the issuer change that schedule. Effective duration reprices the bond after a benchmark curve shock, allowing the cash flows to change, and uses those two prices in the central-difference formula.",
     "hardTopicHelp": {
       "blurb": "Effective duration shocks the benchmark curve and revalues the bond, so it is the right tool when an embedded option can change the cash flows. Key-rate duration asks what happens if only one maturity on the curve moves. Empirical duration is fit from history and can be smaller than analytical duration when credit spreads tighten as government yields rise.",
@@ -2407,10 +2407,10 @@
     "stem": "Effective duration differs from approximate modified duration in the experiment that produces the two shocked prices. Effective duration most likely shocks:",
     "choices": [
       "The recovery rate used in a credit-loss model",
-      "Only the bond coupon rate, leaving the discount rate unchanged",
-      "The benchmark curve, and then reprices the bond, allowing embedded-option cash flows to change"
+      "The benchmark curve, and then reprices the bond",
+      "Only the bond coupon rate, leaving the discount rate unchanged"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "The effective-duration calculation shifts the benchmark curve up and down, rebuilds the bond value under each curve, and only then applies (P_down - P_up) / (2 P0 dy). For a callable or putable bond the new curve can change the assumed exercise. Shifting the coupon, or a recovery assumption, is a different sensitivity. The best answer is The benchmark curve, and then reprices the bond, allowing embedded-option cash flows to change.",
     "hardTopicHelp": {
       "blurb": "Effective duration shocks the benchmark curve and revalues the bond, so it is the right tool when an embedded option can change the cash flows. Key-rate duration asks what happens if only one maturity on the curve moves. Empirical duration is fit from history and can be smaller than analytical duration when credit spreads tighten as government yields rise.",
@@ -2428,11 +2428,11 @@
     "difficulty": "medium",
     "stem": "Key-rate duration is best described as the sensitivity of the bond to:",
     "choices": [
-      "A parallel move of the entire curve by the same number of basis points",
       "A change in the issuer rating letter, holding the curve fixed",
-      "A change in one maturity point on the benchmark curve, with other points held unchanged"
+      "A change in one maturity point on the benchmark curve, with other points held unchanged",
+      "A parallel move of the entire curve by the same number of basis points, for this position"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A key-rate duration isolates one vertex of the curve, such as the 2-year or the 10-year point. Effective duration is closer to the parallel case, in which the whole curve moves. The sum of key-rate durations approximates effective duration for that parallel move. A rating change is credit migration, not a key rate. The best answer is A change in one maturity point on the benchmark curve, with other points held unchanged.",
     "hardTopicHelp": {
       "blurb": "Effective duration shocks the benchmark curve and revalues the bond, so it is the right tool when an embedded option can change the cash flows. Key-rate duration asks what happens if only one maturity on the curve moves. Empirical duration is fit from history and can be smaller than analytical duration when credit spreads tighten as government yields rise.",
@@ -2452,7 +2452,7 @@
     "choices": [
       "The same key-rate exposures, because equal effective durations fix every curve exposure",
       "More key-rate exposure at the short and long maturities, and therefore more curve-shaping risk",
-      "Less convexity, because spreading cash flows across maturities removes the second-order term"
+      "Less convexity, because spreading cash flows across maturities removes the second-order term, as described"
     ],
     "correctIndex": 1,
     "explanation": "Equal effective duration means similar sensitivity to a parallel shift, not identical sensitivity to every vertex. A barbell loads the short and long key rates and has less intermediate exposure, so a twist changes its value differently from a bullet. Spreading the cash flows also gives the barbell more convexity, not less. The best answer is More key-rate exposure at the short and long maturities, and therefore more curve-shaping risk.",
@@ -2472,11 +2472,11 @@
     "difficulty": "hard",
     "stem": "Historical regressions show that credit spreads on notes of Fennelbrook Agriculture often tighten when government yields rise. Compared with analytical duration that holds the credit spread fixed, empirical duration in that sample is most likely:",
     "choices": [
-      "Smaller, because the spread tightening offsets part of the government-yield increase",
       "Equal to Macaulay duration by construction",
-      "Larger, because the spread move adds to the government-yield increase"
+      "Smaller, because the spread tightening offsets part of the government-yield increase",
+      "Larger, because the spread move adds to the government-yield increase, as stated here"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Analytical duration reprices the bond with the credit spread unchanged, so a rise in the government yield passes fully into the discount rate. If the corporate spread tightens at the same time, the corporate yield rises by less and the price falls by less. A regression of that history therefore fits a smaller empirical duration. It is not forced to equal Macaulay duration. The best answer is Smaller, because the spread tightening offsets part of the government-yield increase.",
     "hardTopicHelp": {
       "blurb": "Effective duration shocks the benchmark curve and revalues the bond, so it is the right tool when an embedded option can change the cash flows. Key-rate duration asks what happens if only one maturity on the curve moves. Empirical duration is fit from history and can be smaller than analytical duration when credit spreads tighten as government yields rise.",
@@ -2494,7 +2494,7 @@
     "difficulty": "medium",
     "stem": "A single effective duration for a mortgage-backed security most likely leaves the investor exposed to:",
     "choices": [
-      "Curve-shaping risk, because prepayments and the cash-flow weights can respond differently at different maturities",
+      "Curve-shaping risk",
       "Call risk only, with no extension risk if the curve steepens",
       "No remaining interest-rate risk, because effective duration already includes every twist"
     ],
@@ -2516,11 +2516,11 @@
     "difficulty": "medium",
     "stem": "A callable bond of Marlowe Glass is priced at 101.00. After the benchmark curve falls by 100 basis points the model price is 102.20, and after the curve rises by 100 basis points the model price is 99.40. Cash flows are allowed to change. Effective duration, \\(EffDur=\\frac{P_{-}-P_{+}}{2P_0\\Delta y}\\), is closest to:",
     "choices": [
-      "1.58",
       "1.19",
-      "1.39"
+      "1.39",
+      "1.58"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Effective duration uses the same central difference as approximate modified duration, but the prices come from benchmark-curve shocks that can change the call decision. \\[EffDur=\\frac{102.20-99.40}{2\\times 101.00\\times 0.01}=1.3861\\] The price rise when yields fall is smaller than the price drop when yields rise, which is the callable pattern. A one-sided ratio would not use both model prices. Effective duration is closest to 1.39.",
     "hardTopicHelp": {
       "blurb": "Effective duration shocks the benchmark curve and revalues the bond, so it is the right tool when an embedded option can change the cash flows. Key-rate duration asks what happens if only one maturity on the curve moves. Empirical duration is fit from history and can be smaller than analytical duration when credit spreads tighten as government yields rise.",
@@ -2538,11 +2538,11 @@
     "difficulty": "hard",
     "stem": "Using the same callable-bond prices of 102.20, 101.00, and 99.40 for a 100 basis point curve shock, effective convexity, \\(\\frac{P_{-}+P_{+}-2P_0}{P_0(\\Delta y)^2}\\), is closest to:",
     "choices": [
-      "1.39",
+      "-39.60",
       "-0.40",
-      "-39.60"
+      "1.39"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The numerator is 102.20 + 99.40 - 2 times 101.00, which is negative because the price gain is capped relative to the price loss. \\[EffConv=\\frac{102.20+99.40-202.00}{101.00\\times(0.01)^2}=-39.6040\\] Negative effective convexity is the curve-risk signature of a call that limits upside. The absolute value would hide that sign, and the difference of the two prices is a duration calculation. Effective convexity is closest to -39.60.",
     "hardTopicHelp": {
       "blurb": "Effective duration shocks the benchmark curve and revalues the bond, so it is the right tool when an embedded option can change the cash flows. Key-rate duration asks what happens if only one maturity on the curve moves. Empirical duration is fit from history and can be smaller than analytical duration when credit spreads tighten as government yields rise.",
@@ -2582,11 +2582,11 @@
     "difficulty": "medium",
     "stem": "A credit rating assigned to Bramble and Co. is most accurately described as:",
     "choices": [
+      "A target price published so traders can mark the bond",
       "A guarantee that the bond will not default during the next year",
-      "An ordinal opinion about credit risk, not a recommendation to buy or sell the bond",
-      "A target price published so traders can mark the bond"
+      "An ordinal opinion about credit risk, not a recommendation to buy or sell the bond"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Ratings rank credit risk. They are not cardinal probabilities, they are not trade recommendations, and they are not guarantees. Two agencies can also disagree. Portfolio decisions still need price, spread, and the investor mandate. The rating does not set a market price target. The best answer is An ordinal opinion about credit risk, not a recommendation to buy or sell the bond.",
     "hardTopicHelp": {
       "blurb": "Expected loss is roughly probability of default times loss given default times exposure. A rating is an ordinal opinion about credit risk. It is not a buy recommendation, it can lag, and two agencies can disagree. Spreads also move with the cycle, not only with the issuer.",
@@ -2604,11 +2604,11 @@
     "difficulty": "medium",
     "stem": "Two agencies rate the same Fennelbrook Agriculture note differently, and both ratings were last affirmed six months ago. An analyst should most likely treat the ratings as:",
     "choices": [
-      "Exact default probabilities that must be identical once the issuer is the same",
       "Opinions that can disagree and that can lag a change in credit conditions",
+      "Exact default probabilities that must be identical once the issuer is the same",
       "Irrelevant whenever a yield spread can be observed, because a spread contains only default risk"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "explanation": "Agencies use different methods and can update on different schedules, so split ratings and stale ratings both occur. A market spread is useful but mixes default risk, liquidity, and risk premia; it does not make the rating a useless object or convert either measure into a shared exact probability. The best answer is Opinions that can disagree and that can lag a change in credit conditions.",
     "hardTopicHelp": {
       "blurb": "Expected loss is roughly probability of default times loss given default times exposure. A rating is an ordinal opinion about credit risk. It is not a buy recommendation, it can lag, and two agencies can disagree. Spreads also move with the cycle, not only with the issuer.",
@@ -2649,11 +2649,11 @@
     "stem": "If the expected recovery on a senior secured note is 60% of exposure, the loss given default as a fraction of exposure is most likely:",
     "choices": [
       "60%",
-      "40%",
+      "40%, as described",
       "Zero, because a secured note cannot default"
     ],
     "correctIndex": 1,
-    "explanation": "Loss given default equals one minus the recovery rate when both are measured against the same exposure. A 60% recovery leaves a 40% loss given default. Security raises expected recovery; it does not prevent default. Quoting the recovery rate itself as the loss reverses the definition.",
+    "explanation": "Loss given default equals one minus the recovery rate when both are measured against the same exposure. A 60% recovery leaves a 40% loss given default. Security raises expected recovery; it does not prevent default. Quoting the recovery rate itself as the loss reverses the definition.\n\nBest answer: 40%, as described",
     "hardTopicHelp": {
       "blurb": "Expected loss is roughly probability of default times loss given default times exposure. A rating is an ordinal opinion about credit risk. It is not a buy recommendation, it can lag, and two agencies can disagree. Spreads also move with the cycle, not only with the issuer.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -2670,11 +2670,11 @@
     "difficulty": "hard",
     "stem": "Expected loss is a mean used in pricing a credit. Unexpected loss most likely refers to:",
     "choices": [
-      "A loss that is excluded from both ratings and spreads by market convention",
+      "The risk that the realized loss is worse than the mean",
       "Another name for expected loss, expressed as a letter rating",
-      "The risk that the realized loss is worse than the mean, which is why capital and risk premia exist"
+      "A loss that is excluded from both ratings and spreads by market convention"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Expected loss can be charged for in the spread, but the outcome can be much worse than the mean if defaults cluster or recoveries disappoint. That dispersion is unexpected loss. It is not a restatement of the mean, and it is a central reason credit investors and banks hold capital against a portfolio. The best answer is The risk that the realized loss is worse than the mean, which is why capital and risk premia exist.",
     "hardTopicHelp": {
       "blurb": "Expected loss is roughly probability of default times loss given default times exposure. A rating is an ordinal opinion about credit risk. It is not a buy recommendation, it can lag, and two agencies can disagree. Spreads also move with the cycle, not only with the issuer.",
@@ -2692,11 +2692,11 @@
     "difficulty": "medium",
     "stem": "Sablemere Chemicals has a 2.00% probability of default, a 45% loss given default, and exposure of 25,000,000. Expected loss, \\(EL=PD\\times LGD\\times EAD\\), is closest to:",
     "choices": [
-      "11,250,000.00",
+      "225,000.00",
       "500,000.00",
-      "225,000.00"
+      "11,250,000.00"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "Multiply the three inputs. \\[EL=0.020\\times 0.45\\times 25{,}000{,}000=225{,}000\\] Dropping the loss given default treats the entire exposure as lost. Dropping the default probability treats a default as certain. The product of the two rates, without the exposure, is not a currency amount. Expected loss is closest to 225,000.00.",
     "hardTopicHelp": {
       "blurb": "Expected loss is roughly probability of default times loss given default times exposure. A rating is an ordinal opinion about credit risk. It is not a buy recommendation, it can lag, and two agencies can disagree. Spreads also move with the cycle, not only with the issuer.",
@@ -2715,8 +2715,8 @@
     "stem": "A note has exposure at default of 12,000,000 and an expected recovery of 70% of exposure. The loss given default in currency units, \\(LGD_{currency}=EAD\\times(1-0.70)\\), is closest to:",
     "choices": [
       "3,600,000.00",
-      "12,000,000.00",
-      "8,400,000.00"
+      "8,400,000.00",
+      "12,000,000.00"
     ],
     "correctIndex": 0,
     "explanation": "Recovery of 70% means loss severity of 30%. \\[12{,}000{,}000\\times 0.30=3{,}600{,}000\\] The 70% figure is what the investor expects to receive, not what the investor expects to lose. The full exposure would be the loss only if recovery were zero. The currency loss given default is closest to 3,600,000.00.",
@@ -2737,10 +2737,10 @@
     "stem": "Sovereign credit analysis of the Republic of Valden must consider both ability to pay and willingness to pay. Willingness matters most likely because:",
     "choices": [
       "Local-currency debt is legally identical to a household mortgage",
-      "A government can sometimes have resources and still choose to restructure for political reasons",
-      "A government cannot collect taxes, so ability is never observable"
+      "A government cannot collect taxes, so ability is never observable, as described",
+      "A government can sometimes have resources and still choose to restructure for political reasons"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Corporate borrowers are forced through a bankruptcy process. A sovereign is not. Ability covers taxing power, the economy, and external resources. Willingness covers institutions and the political choice to honor the debt. Taxes are a central part of ability, and sovereign debt is not a household mortgage. The best answer is A government can sometimes have resources and still choose to restructure for political reasons.",
     "hardTopicHelp": {
       "blurb": "Sovereign analysis asks whether the government can pay and whether it will. Local-currency debt has a different risk from foreign-currency debt because the sovereign can create the local currency, at the cost of inflation and the exchange rate. Institutions and external balances matter as much as the debt ratio.",
@@ -2758,9 +2758,9 @@
     "difficulty": "medium",
     "stem": "Compared with local-currency debt of the Commonwealth of Ostmark, its foreign-currency debt most likely has:",
     "choices": [
-      "Less risk, because foreign-currency debt is senior to all local-currency debt by international law",
-      "Greater risk that the sovereign cannot obtain the currency it owes, because it cannot create that currency",
-      "The same risk, because a sovereign can always convert local currency into any foreign currency at a fixed rate"
+      "Less risk",
+      "Greater risk that the sovereign cannot obtain the currency it owes",
+      "The same risk. That is the claim made for this case. This is the reading of the facts given."
     ],
     "correctIndex": 1,
     "explanation": "Printing local currency can meet a local-currency coupon, at the cost of inflation and the exchange rate. It cannot directly produce a foreign currency. Foreign-currency repayment depends on reserves, the trade balance, and external financing. There is no general rule that foreign-currency bonds are legally senior, and the exchange rate is not fixed by the mere existence of the debt. The best answer is Greater risk that the sovereign cannot obtain the currency it owes, because it cannot create that currency.",
@@ -2780,11 +2780,11 @@
     "difficulty": "hard",
     "stem": "Two sovereigns have the same government-debt-to-GDP ratio. An analyst at Meridian Development Bank should most likely still distinguish them by:",
     "choices": [
-      "The coupon frequency on the benchmark bond, which determines sovereign default probability",
       "The debt ratio alone, because institutions do not affect willingness or ability to pay",
-      "Institutions, the external balance, and whether the debt is in local or foreign currency"
+      "Institutions, the external balance, and whether the debt is in local or foreign currency",
+      "The coupon frequency on the benchmark bond, which determines sovereign default probability"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "A debt ratio omits growth, interest cost, the currency mix, reserve coverage, and whether the political system will pay. External liabilities and a weak institutional setting can make the same ratio much riskier. Coupon frequency is a cash-flow detail of a bond, not the driver of sovereign default probability. The best answer is Institutions, the external balance, and whether the debt is in local or foreign currency.",
     "hardTopicHelp": {
       "blurb": "Sovereign analysis asks whether the government can pay and whether it will. Local-currency debt has a different risk from foreign-currency debt because the sovereign can create the local currency, at the cost of inflation and the exchange rate. Institutions and external balances matter as much as the debt ratio.",
@@ -2802,9 +2802,9 @@
     "difficulty": "medium",
     "stem": "A burst of inflation in the Federation of Calden most likely has which effect on its existing fixed-rate local-currency debt?",
     "choices": [
-      "It increases the real burden one-for-one and leaves the exchange rate unaffected",
+      "It converts the local-currency debt into foreign-currency debt",
       "It reduces the real burden of that debt, while damaging monetary credibility",
-      "It converts the local-currency debt into foreign-currency debt"
+      "It increases the real burden one-for-one and leaves the exchange rate unaffected"
     ],
     "correctIndex": 1,
     "explanation": "Unexpected inflation helps a borrower with fixed nominal local-currency obligations by eroding the real value of the payments. That relief is not free: it can raise future borrowing costs and weaken the currency. Inflation does not, by itself, redenominate the debt into a foreign currency. The real burden falls rather than rises. The best answer is It reduces the real burden of that debt, while damaging monetary credibility.",
@@ -2824,11 +2824,11 @@
     "difficulty": "hard",
     "stem": "The Republic of Valden exports one commodity, collects most public revenue from it, and has a large stock of foreign-currency bonds. A sharp fall in the commodity price most likely:",
     "choices": [
-      "Improves debt service, because a lower export price reduces the foreign-currency amount owed",
       "Affects only local-currency inflation and cannot affect external debt service",
-      "Pressures both the budget and the foreign currency needed to service the external debt"
+      "Pressures both the budget and the foreign currency needed to service the external debt",
+      "Improves debt service, because a lower export price reduces the foreign-currency amount owed"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "Commodity revenue is both fiscal capacity and a source of foreign exchange. A price collapse can widen the deficit and shrink the dollars, or other foreign currency, available to pay external coupons. The contractual foreign-currency amount does not fall just because the export price falls. This is an ability-to-pay shock, not a purely domestic inflation story. The best answer is Pressures both the budget and the foreign currency needed to service the external debt.",
     "hardTopicHelp": {
       "blurb": "Sovereign analysis asks whether the government can pay and whether it will. Local-currency debt has a different risk from foreign-currency debt because the sovereign can create the local currency, at the cost of inflation and the exchange rate. Institutions and external balances matter as much as the debt ratio.",
@@ -2846,11 +2846,11 @@
     "difficulty": "medium",
     "stem": "An analyst of Ironwharf Logistics finds interest coverage above the peer median, but also finds that the controlling shareholder uses related-party transactions to extract cash. The weakest credit factor is most likely:",
     "choices": [
-      "Collateral, because related-party transactions increase the value of pledged plants",
+      "Character, meaning the willingness to direct cash to creditors",
       "Capacity, because a high coverage ratio proves cash generation is inadequate",
-      "Character, meaning the willingness to direct cash to creditors"
+      "Collateral, because related-party transactions increase the value of pledged plants"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "The four Cs separate capacity, collateral, covenants, and character. Coverage is a capacity indicator and here it is strong. Diverting cash through related-party deals is a governance and willingness problem, which is character. Those transactions do not increase collateral value for lenders. The best answer is Character, meaning the willingness to direct cash to creditors.",
     "hardTopicHelp": {
       "blurb": "Capacity is cash flow versus debt service. Collateral is what you seize. Covenants are the early-warning contract. Character is the willingness to pay. Senior secured claims sit ahead of senior unsecured, which sit ahead of subordinated debt. A notched issue rating can be below the issuer rating because of that ranking.",
@@ -2868,11 +2868,11 @@
     "difficulty": "easy",
     "stem": "In a bankruptcy of Quill and Oak Retail, the usual ranking from highest to lowest recovery priority is most likely:",
     "choices": [
+      "Senior secured, then senior unsecured, then subordinated",
       "Subordinated, then senior unsecured, then senior secured",
-      "Senior unsecured, then senior secured, then equity, with subordinated debt beside equity",
-      "Senior secured, then senior unsecured, then subordinated"
+      "Senior unsecured, then senior secured, then equity, with subordinated debt beside equity"
     ],
-    "correctIndex": 2,
+    "correctIndex": 0,
     "explanation": "A first lien on collateral is paid from that collateral before unsecured claims. Senior unsecured claims rank ahead of subordinated debt, which ranks ahead of equity. Subordination is a contractual agreement to be paid after senior creditors. Secured status is not junior to unsecured status. The best answer is Senior secured, then senior unsecured, then subordinated.",
     "hardTopicHelp": {
       "blurb": "Capacity is cash flow versus debt service. Collateral is what you seize. Covenants are the early-warning contract. Character is the willingness to pay. Senior secured claims sit ahead of senior unsecured, which sit ahead of subordinated debt. A notched issue rating can be below the issuer rating because of that ranking.",
@@ -2912,11 +2912,11 @@
     "difficulty": "medium",
     "stem": "A maintenance covenant on Northveil Industrials notes tests leverage every quarter. Relative to waiting for a missed coupon, this covenant most likely:",
     "choices": [
-      "Gives lenders an earlier signal and a chance to renegotiate before a payment default",
       "Removes the need for a seniority ranking if the issuer later fails",
+      "Gives lenders an earlier signal and a chance to renegotiate before a payment default",
       "Eliminates default risk, because the ratio cannot be breached once it is written down"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Maintenance covenants are early-warning devices. A breach can create a default or a consent process while the issuer is still paying coupons. The covenant does not make a breach impossible, and it does not replace collateral or ranking once a bankruptcy begins. It is a contract term, not a guarantee. The best answer is Gives lenders an earlier signal and a chance to renegotiate before a payment default.",
     "hardTopicHelp": {
       "blurb": "Capacity is cash flow versus debt service. Collateral is what you seize. Covenants are the early-warning contract. Character is the willingness to pay. Senior secured claims sit ahead of senior unsecured, which sit ahead of subordinated debt. A notched issue rating can be below the issuer rating because of that ranking.",
@@ -2934,11 +2934,11 @@
     "difficulty": "easy",
     "stem": "Collateral in corporate credit analysis is best described as:",
     "choices": [
-      "The assets lenders can claim, which support recovery if the issuer defaults",
-      "Irrelevant for secured bonds, because security removes credit risk",
-      "The same concept as character, because both measure willingness to pay"
+      "Irrelevant for secured bonds",
+      "The assets lenders can claim",
+      "The same concept as character"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Collateral is what backs recovery. Its quality, liquidity, and priority drive loss given default. Character is willingness, and capacity is cash flow versus debt service. Security improves expected recovery; it does not erase the possibility of default or the need to value the assets. The best answer is The assets lenders can claim, which support recovery if the issuer defaults.",
     "hardTopicHelp": {
       "blurb": "Capacity is cash flow versus debt service. Collateral is what you seize. Covenants are the early-warning contract. Character is the willingness to pay. Senior secured claims sit ahead of senior unsecured, which sit ahead of subordinated debt. A notched issue rating can be below the issuer rating because of that ranking.",
@@ -2956,12 +2956,12 @@
     "difficulty": "medium",
     "stem": "Capacity, as one of the four Cs for a corporate issuer such as Amberfield Dairy, is most likely assessed by:",
     "choices": [
-      "Only the legal ranking of the newest subordinated note",
+      "Cash flow relative to debt service, as described",
       "Only the personal reputation of the chief executive",
-      "Cash flow relative to debt service, including coverage and leverage ratios"
+      "Only the legal ranking of the newest subordinated note"
     ],
-    "correctIndex": 2,
-    "explanation": "Capacity asks whether the business generates enough cash to pay interest and principal. Coverage and leverage ratios are the usual evidence. Reputation belongs with character. The ranking of one note belongs with priority and loss severity, which matter after capacity has already failed. The best answer is Cash flow relative to debt service, including coverage and leverage ratios.",
+    "correctIndex": 0,
+    "explanation": "Capacity asks whether the business generates enough cash to pay interest and principal. Coverage and leverage ratios are the usual evidence. Reputation belongs with character. The ranking of one note belongs with priority and loss severity, which matter after capacity has already failed. The best answer is Cash flow relative to debt service, including coverage and leverage ratios.\n\nBest answer: Cash flow relative to debt service, as described",
     "hardTopicHelp": {
       "blurb": "Capacity is cash flow versus debt service. Collateral is what you seize. Covenants are the early-warning contract. Character is the willingness to pay. Senior secured claims sit ahead of senior unsecured, which sit ahead of subordinated debt. A notched issue rating can be below the issuer rating because of that ranking.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -2979,10 +2979,10 @@
     "stem": "Last year Fennelbrook Agriculture reported EBIT of 88 million and interest expense of 21.5 million. Interest coverage, \\(\\frac{EBIT}{Interest}\\), is closest to:",
     "choices": [
       "0.24",
-      "4.09",
-      "3.09"
+      "3.09",
+      "4.09"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Interest coverage compares operating profit with the contractual interest. \\[\\frac{88}{21.5}=4.093\\] A higher coverage means more capacity to service debt. Inverting the ratio, or subtracting interest from EBIT before dividing, answers a different question. Interest coverage is closest to 4.09.",
     "hardTopicHelp": {
       "blurb": "Capacity is cash flow versus debt service. Collateral is what you seize. Covenants are the early-warning contract. Character is the willingness to pay. Senior secured claims sit ahead of senior unsecured, which sit ahead of subordinated debt. A notched issue rating can be below the issuer rating because of that ranking.",
@@ -3022,12 +3022,12 @@
     "difficulty": "medium",
     "stem": "In a typical securitization, the loans leave the originator through a true sale to a special purpose entity. That structure is intended to make the securities most likely:",
     "choices": [
-      "Bankruptcy remote from the originator, so investors look first to the pool rather than to the originator general creditors",
+      "Bankruptcy remote from the originator, on these facts",
       "Equity shares in the originator, with the loans kept as inventory",
       "Obligations of the originator unsecured creditors, who can claw the loans back at any time"
     ],
     "correctIndex": 0,
-    "explanation": "Bankruptcy remoteness is the point of the special purpose entity. If the transfer is a true sale, the originator insolvency should not pull the pool back into the originator estate. Investors then depend on the pool, the tranching, and the servicing. A weak true-sale opinion undermines that protection. The securities are debt of the entity, not equity of the originator. The best answer is Bankruptcy remote from the originator, so investors look first to the pool rather than to the originator general creditors.",
+    "explanation": "Bankruptcy remoteness is the point of the special purpose entity. If the transfer is a true sale, the originator insolvency should not pull the pool back into the originator estate. Investors then depend on the pool, the tranching, and the servicing. A weak true-sale opinion undermines that protection. The securities are debt of the entity, not equity of the originator. The best answer is Bankruptcy remote from the originator, so investors look first to the pool rather than to the originator general creditors.\n\nBest answer: Bankruptcy remote from the originator, on these facts",
     "hardTopicHelp": {
       "blurb": "The originator sells loans to a special purpose entity that issues tranches. Investors can buy the slice of risk they want. The issuer may get funding, a smaller balance sheet, or a lower cost. The servicer collects, and the trustee watches the rules. Bankruptcy remoteness is the point of the entity, and it is only as good as the true sale.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -3044,11 +3044,11 @@
     "difficulty": "easy",
     "stem": "Tranching a loan pool most likely allows investors to:",
     "choices": [
-      "Choose a slice of credit risk and payment priority rather than share every loss pro rata",
+      "Each receive the same rating regardless of which class they buy",
       "Avoid prepayment and default risk in every tranche, including the equity tranche",
-      "Each receive the same rating regardless of which class they buy"
+      "Choose a slice of credit risk and payment priority rather than share every loss pro rata"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "Senior tranches are paid before junior tranches, so they carry less credit risk and a higher rating, while the junior slices absorb the first losses. Investors can match the slice to their mandate. Tranching reallocates risk; it does not remove default or prepayment from the structure, and the equity tranche is where credit risk is concentrated. The best answer is Choose a slice of credit risk and payment priority rather than share every loss pro rata.",
     "hardTopicHelp": {
       "blurb": "The originator sells loans to a special purpose entity that issues tranches. Investors can buy the slice of risk they want. The issuer may get funding, a smaller balance sheet, or a lower cost. The servicer collects, and the trustee watches the rules. Bankruptcy remoteness is the point of the entity, and it is only as good as the true sale.",
@@ -3067,7 +3067,7 @@
     "stem": "In a securitization, the servicer most likely:",
     "choices": [
       "Guarantees the senior tranche against every default",
-      "Sets the monetary policy rate used to discount the tranches",
+      "Sets the monetary policy rate used to discount the tranches, as described",
       "Collects payments from the borrowers and passes them through according to the waterfall"
     ],
     "correctIndex": 2,
@@ -3088,11 +3088,11 @@
     "difficulty": "medium",
     "stem": "The trustee in a securitization most likely:",
     "choices": [
-      "Represents investors by enforcing the agreements and overseeing the waterfall",
       "Replaces the servicer as the borrower who owes the mortgage payments",
-      "Originates the loans and keeps the credit risk on its own balance sheet"
+      "Originates the loans and keeps the credit risk on its own balance sheet",
+      "Represents investors by enforcing the agreements and overseeing the waterfall"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "The trustee is the investors agent. It holds liens, monitors covenants, and directs cash according to the documents. The originator creates the loans. The borrowers remain the people who owe the payments. The trustee is not the borrower and is not automatically the owner of the credit risk. The best answer is Represents investors by enforcing the agreements and overseeing the waterfall.",
     "hardTopicHelp": {
       "blurb": "The originator sells loans to a special purpose entity that issues tranches. Investors can buy the slice of risk they want. The issuer may get funding, a smaller balance sheet, or a lower cost. The servicer collects, and the trustee watches the rules. Bankruptcy remoteness is the point of the entity, and it is only as good as the true sale.",
@@ -3110,11 +3110,11 @@
     "difficulty": "medium",
     "stem": "An originator such as Southpier Ports securitizes a loan book. A typical motivation, assuming a true sale is achieved, is most likely:",
     "choices": [
-      "Funding, a smaller balance sheet, or a lower all-in cost than unsecured borrowing",
       "Elimination of the need for investors to analyze the pool credit quality",
+      "Funding, a smaller balance sheet, or a lower all-in cost than unsecured borrowing",
       "A requirement to keep the loans and the securitization debt on the same unsecured balance sheet"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Securitization can turn illiquid loans into funded notes, can remove the assets and the related funding if the sale is recognized, and can price each tranche off its own risk. Those are issuer motivations. Investors still analyze the pool, the enhancement, and the waterfall. A covered bond, not a true-sale securitization, usually leaves the assets on the issuer balance sheet. The best answer is Funding, a smaller balance sheet, or a lower all-in cost than unsecured borrowing.",
     "hardTopicHelp": {
       "blurb": "The originator sells loans to a special purpose entity that issues tranches. Investors can buy the slice of risk they want. The issuer may get funding, a smaller balance sheet, or a lower cost. The servicer collects, and the trustee watches the rules. Bankruptcy remoteness is the point of the entity, and it is only as good as the true sale.",
@@ -3132,11 +3132,11 @@
     "difficulty": "hard",
     "stem": "A risk that is specific to the incentive structure of a securitization, relative to a lender that keeps every loan, is most likely:",
     "choices": [
-      "Weaker origination standards if the originator does not retain a meaningful share of the credit risk",
+      "The inability to create a senior tranche",
       "The disappearance of servicing, because borrowers pay the trustee directly in cash at origination",
-      "The inability to create a senior tranche"
+      "Weaker origination standards if the originator does not retain a meaningful share of the credit risk"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "explanation": "If the originator sells the credit risk, the payoff to careful underwriting falls unless the originator retains a slice, provides representations, or is paid in a way that depends on performance. That moral hazard is a known securitization risk. Servicing still exists, and senior tranches are a standard part of the waterfall. The best answer is Weaker origination standards if the originator does not retain a meaningful share of the credit risk.",
     "hardTopicHelp": {
       "blurb": "The originator sells loans to a special purpose entity that issues tranches. Investors can buy the slice of risk they want. The issuer may get funding, a smaller balance sheet, or a lower cost. The servicer collects, and the trustee watches the rules. Bankruptcy remoteness is the point of the entity, and it is only as good as the true sale.",
@@ -3176,11 +3176,11 @@
     "difficulty": "easy",
     "stem": "External credit enhancement of an asset-backed security is most likely provided by:",
     "choices": [
-      "The excess of the pool coupon over the note coupon, with no third party",
       "A longer legal maturity on the senior tranche",
-      "A third-party guarantee or a letter of credit"
+      "A third-party guarantee or a letter of credit",
+      "The excess of the pool coupon over the note coupon, with no third party"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "explanation": "External enhancement is a promise from outside the pool, such as a guarantee, a letter of credit, or a surety. Excess spread is internal. Extending the legal final maturity changes the clock for principal; it does not add a third-party promise to absorb losses. The best answer is A third-party guarantee or a letter of credit.",
     "hardTopicHelp": {
       "blurb": "Internal credit enhancement includes subordination, overcollateralization, and excess spread. External enhancement is a guarantee or letter of credit. A covered bond gives recourse to the cover pool and to the issuer, and the assets usually stay on the issuer’s balance sheet. Credit-card ABS revolves and can stop early if performance triggers hit.",
@@ -3198,11 +3198,11 @@
     "difficulty": "medium",
     "stem": "A covered bond issued by Cinderwell Utilities, compared with a typical auto-loan asset-backed security, most likely:",
     "choices": [
-      "Gives investors dual recourse to the cover pool and to the issuer, with the assets usually remaining on the issuer balance sheet",
       "Has no recourse to either the issuer or the cover pool",
-      "Is a true sale that removes the cover pool from the issuer balance sheet and leaves investors with recourse only to the pool"
+      "Gives investors dual recourse to the cover pool and to the issuer, with the assets usually remaining on the issuer balance sheet",
+      "Is a true sale that removes the cover pool from the issuer balance sheet and leaves investors with recourse only to the pool, as described"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Covered bonds are dual-recourse instruments. If the cover pool is insufficient, investors still have a claim on the issuer. The assets typically stay on the issuer balance sheet and are pledged, rather than being sold to a special purpose entity. A typical asset-backed security aims at the opposite balance-sheet result: a true sale and recourse to the pool. The best answer is Gives investors dual recourse to the cover pool and to the issuer, with the assets usually remaining on the issuer balance sheet.",
     "hardTopicHelp": {
       "blurb": "Internal credit enhancement includes subordination, overcollateralization, and excess spread. External enhancement is a guarantee or letter of credit. A covered bond gives recourse to the cover pool and to the issuer, and the assets usually stay on the issuer’s balance sheet. Credit-card ABS revolves and can stop early if performance triggers hit.",
@@ -3220,11 +3220,11 @@
     "difficulty": "hard",
     "stem": "An auto-loan asset-backed security is structured as a true sale to a special purpose entity. If that true sale holds, investors most likely have:",
     "choices": [
+      "Dual recourse to the originator and to the pool, which is the covered-bond arrangement",
       "Recourse to the loan pool, and the loans are no longer assets of the originator available to its general creditors",
-      "Recourse only to the originator unsecured credit, because a true sale keeps the loans on the originator balance sheet",
-      "Dual recourse to the originator and to the pool, which is the covered-bond arrangement"
+      "Recourse only to the originator unsecured credit, because a true sale keeps the loans on the originator balance sheet"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "The usual asset-backed structure sells the receivables to the entity. If the sale is a true sale, the originator general creditors cannot reach the pool, and investors do not have ordinary unsecured recourse to the originator. Dual recourse with assets left on the balance sheet describes a covered bond, not this true sale. The best answer is Recourse to the loan pool, and the loans are no longer assets of the originator available to its general creditors.",
     "hardTopicHelp": {
       "blurb": "Internal credit enhancement includes subordination, overcollateralization, and excess spread. External enhancement is a guarantee or letter of credit. A covered bond gives recourse to the cover pool and to the issuer, and the assets usually stay on the issuer’s balance sheet. Credit-card ABS revolves and can stop early if performance triggers hit.",
@@ -3242,11 +3242,11 @@
     "difficulty": "medium",
     "stem": "A credit-card asset-backed security during its revolving period most likely:",
     "choices": [
-      "Uses principal collections to buy new receivables, until an early-amortization trigger starts paying principal to investors",
       "Cannot stop the revolving period, even if charge-offs exceed the trigger",
-      "Pays every principal collection through to investors from the first month, like a fully amortizing auto deal"
+      "Uses principal collections to buy new receivables, until an early-amortization trigger starts paying principal to investors",
+      "Pays every principal collection through to investors from the first month, like a fully amortizing auto deal, as stated here"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Credit-card master trusts revolve: principal is reinvested in new card balances so the note balance stays outstanding. If performance tests fail, such as excess spread or delinquency triggers, the deal enters early amortization and principal is paid down. That is different from a granular auto-loan deal, which amortizes as the cars are paid off. The best answer is Uses principal collections to buy new receivables, until an early-amortization trigger starts paying principal to investors.",
     "hardTopicHelp": {
       "blurb": "Internal credit enhancement includes subordination, overcollateralization, and excess spread. External enhancement is a guarantee or letter of credit. A covered bond gives recourse to the cover pool and to the issuer, and the assets usually stay on the issuer’s balance sheet. Credit-card ABS revolves and can stop early if performance triggers hit.",
@@ -3264,11 +3264,11 @@
     "difficulty": "easy",
     "stem": "Collateral in a typical prime auto-loan asset-backed security, compared with credit-card receivables, most likely:",
     "choices": [
-      "Amortizes on a schedule, so the security pays down as the loans pay down",
       "Revolves for the entire legal life, with no scheduled principal",
+      "Amortizes on a schedule, so the security pays down as the loans pay down",
       "Is commercial real estate with a single balloon payment and no monthly amortization"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "explanation": "Auto loans are amortizing consumer loans. As borrowers pay principal, the asset-backed security pays principal to noteholders. Credit-card receivables revolve until a trigger or a scheduled end. A single commercial-mortgage balloon is a commercial mortgage-backed structure, not a typical auto-loan pool. The best answer is Amortizes on a schedule, so the security pays down as the loans pay down.",
     "hardTopicHelp": {
       "blurb": "Internal credit enhancement includes subordination, overcollateralization, and excess spread. External enhancement is a guarantee or letter of credit. A covered bond gives recourse to the cover pool and to the issuer, and the assets usually stay on the issuer’s balance sheet. Credit-card ABS revolves and can stop early if performance triggers hit.",
@@ -3286,9 +3286,9 @@
     "difficulty": "easy",
     "stem": "When mortgage rates fall, borrowers in a residential pass-through of the Province of Lirren housing pool refinance. Investors in that pass-through most likely face:",
     "choices": [
-      "Contraction risk: principal returns early and must be reinvested at lower yields, while the price rise is capped",
-      "No change in cash-flow timing, because a pass-through forbids unscheduled principal",
-      "Extension risk only, because borrowers refinance when they want a longer loan"
+      "Contraction risk",
+      "Extension risk only",
+      "No change in cash-flow timing"
     ],
     "correctIndex": 0,
     "explanation": "Prepayment rises when borrowers can refinance into a cheaper mortgage. Investors receive principal sooner, which shortens the security, and they reinvest at the new lower yields. The embedded prepayment option also limits how far the price can rise. That combination is contraction risk, not extension risk. The best answer is Contraction risk: principal returns early and must be reinvested at lower yields, while the price rise is capped.",
@@ -3308,8 +3308,8 @@
     "difficulty": "easy",
     "stem": "When mortgage rates rise well above the coupons on the underlying loans, prepayments on a residential mortgage-backed security most likely slow. Investors then most likely face:",
     "choices": [
-      "Contraction risk, because the higher rates force borrowers to prepay immediately",
       "A price increase larger than that of an otherwise identical option-free bond",
+      "Contraction risk, because the higher rates force borrowers to prepay immediately",
       "Extension risk, because principal remains outstanding longer while the discount rate is higher"
     ],
     "correctIndex": 2,
@@ -3330,11 +3330,11 @@
     "difficulty": "medium",
     "stem": "A pass-through distributes unscheduled principal pro rata. A sequential collateralized mortgage obligation made from similar loans most likely:",
     "choices": [
+      "Eliminates prepayment risk from the whole structure",
       "Pays every tranche the same principal fraction on every date, which is the pass-through rule",
-      "Pays principal to the earliest tranche first, so later tranches have more extension exposure",
-      "Eliminates prepayment risk from the whole structure"
+      "Pays principal to the earliest tranche first, so later tranches have more extension exposure"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "Sequential tranching concentrates principal on the front tranche until it is retired, then moves to the next. The last tranche waits, so its average life and extension risk are greater. A pass-through, by contrast, shares principal in proportion to balances. Reallocating prepayment risk is not the same as removing it. The best answer is Pays principal to the earliest tranche first, so later tranches have more extension exposure.",
     "hardTopicHelp": {
       "blurb": "Prepayment rises when borrowers refinance, which is contraction risk: the price does not rise like an option-free bond, and you reinvest at a lower yield. When rates rise, prepayments slow and the bond extends. A pass-through shares principal pro rata. Sequential CMO tranches take principal in order. A PAC tranche stays stable inside a prepayment band; the support tranche absorbs the rest. CMBS adds balloon risk, DSCR, and LTV.",
@@ -3353,10 +3353,10 @@
     "stem": "Inside its prepayment collar, a planned amortization class tranche most likely:",
     "choices": [
       "Absorbs all prepayment variability so the support tranche can have a fixed schedule",
-      "Keeps a more stable average life because the support tranche absorbs faster or slower prepayments",
-      "Is unaffected by prepayments even outside the collar, for the entire legal maturity"
+      "Is unaffected by prepayments even outside the collar, for the entire legal maturity",
+      "Keeps a more stable average life because the support tranche absorbs faster or slower prepayments"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "explanation": "The support, or companion, tranche is the shock absorber. Within the band, extra principal goes to the support tranche and shortfalls are taken there, so the planned amortization class stays near its schedule. Outside the band the protection can be exhausted and the planned class can still shorten or extend. The support tranche is the one with the unstable average life. The best answer is Keeps a more stable average life because the support tranche absorbs faster or slower prepayments.",
     "hardTopicHelp": {
       "blurb": "Prepayment rises when borrowers refinance, which is contraction risk: the price does not rise like an option-free bond, and you reinvest at a lower yield. When rates rise, prepayments slow and the bond extends. A pass-through shares principal pro rata. Sequential CMO tranches take principal in order. A PAC tranche stays stable inside a prepayment band; the support tranche absorbs the rest. CMBS adds balloon risk, DSCR, and LTV.",
@@ -3374,12 +3374,12 @@
     "difficulty": "hard",
     "stem": "Compared with a residential pass-through, a commercial mortgage-backed security secured by income properties most likely has:",
     "choices": [
-      "No credit analysis, because debt-service coverage and loan-to-value are equity statistics",
       "The same borrower refinancing behavior as a residential fixed-rate mortgage",
-      "More balloon refinance risk and less voluntary contraction risk, because commercial loans often restrict prepayment"
+      "More balloon refinance risk and less voluntary contraction risk, as stated here",
+      "No credit analysis, because debt-service coverage and loan-to-value are equity statistics"
     ],
-    "correctIndex": 2,
-    "explanation": "Commercial loans commonly include yield maintenance, defeasance, or lockout, so borrowers do not freely refinance when rates fall. Contraction risk is therefore lower than in a typical residential pass-through. The loan often has a balloon at the end of a shorter term, so investors face refinance risk. Underwriting looks directly at debt-service coverage and loan-to-value. The best answer is More balloon refinance risk and less voluntary contraction risk, because commercial loans often restrict prepayment.",
+    "correctIndex": 1,
+    "explanation": "Commercial loans commonly include yield maintenance, defeasance, or lockout, so borrowers do not freely refinance when rates fall. Contraction risk is therefore lower than in a typical residential pass-through. The loan often has a balloon at the end of a shorter term, so investors face refinance risk. Underwriting looks directly at debt-service coverage and loan-to-value. The best answer is More balloon refinance risk and less voluntary contraction risk, because commercial loans often restrict prepayment.\n\nBest answer: More balloon refinance risk and less voluntary contraction risk, as stated here",
     "hardTopicHelp": {
       "blurb": "Prepayment rises when borrowers refinance, which is contraction risk: the price does not rise like an option-free bond, and you reinvest at a lower yield. When rates rise, prepayments slow and the bond extends. A pass-through shares principal pro rata. Sequential CMO tranches take principal in order. A PAC tranche stays stable inside a prepayment band; the support tranche absorbs the rest. CMBS adds balloon risk, DSCR, and LTV.",
       "youtubeUrl": "https://www.youtube.com/watch?v=odqDOu46XXI",
@@ -3396,8 +3396,8 @@
     "difficulty": "medium",
     "stem": "Because homeowners can prepay, the price-yield behavior of a residential mortgage-backed security at low yield levels is most likely:",
     "choices": [
-      "More positively convex than an option-free bond of the same duration",
       "Linear, because prepayments do not depend on the level of rates",
+      "More positively convex than an option-free bond of the same duration, as described",
       "Negatively convex, with price gains capped as the prepayment option moves into the money"
     ],
     "correctIndex": 2,
