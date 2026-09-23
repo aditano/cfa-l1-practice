@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "CI-0001",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-org"
+    ],
+    "difficulty": "easy",
+    "stem": "Rowan Dairy is owned by one person, who signs the feed contracts personally and reports the dairy’s profit on a personal tax return. There is no separate legal entity. This form is best described as:",
+    "choices": [
+      "A limited partnership, because the owner is a limited partner in a one-person fund.",
+      "The owner has unlimited personal liability, and the profit is taxed on the owner’s own return.",
+      "A corporation, because a single owner always receives limited liability."
+    ],
+    "correctIndex": 1,
+    "explanation": "A sole proprietorship does not separate the owner from the business. Creditors can reach personal assets, and there is no entity-level tax. The owner has unlimited personal liability, and the profit is taxed on the owner’s own return."
+  },
+  {
+    "id": "CI-0002",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-org"
+    ],
+    "difficulty": "easy",
+    "stem": "Harbor Glass incorporates, issues shares, and tells new investors that the firm’s unpaid trade bills cannot be collected from the investors’ houses. The feature being described is:",
+    "choices": [
+      "The company is a separate legal person, and an owner’s loss is limited to the capital invested.",
+      "Unlimited liability, because incorporation makes each shareholder jointly liable for corporate debts.",
+      "Pass-through taxation with no separate legal person, because a corporation is only a contract among partners."
+    ],
+    "correctIndex": 0,
+    "explanation": "Incorporation creates a legal person distinct from its owners. That separation is what caps owner liability. The company is a separate legal person, and an owner’s loss is limited to the capital invested."
+  },
+  {
+    "id": "CI-0003",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-org"
+    ],
+    "difficulty": "medium",
+    "stem": "Two founders run a design studio as general partners. A relative contributes cash, takes no part in client work, and is promised that losses will not exceed that cash. The liability split is:",
+    "choices": [
+      "Every general partner can bind the firm and has unlimited liability; a limited partner’s liability is capped if that partner does not run the business.",
+      "All three have limited liability, because any partnership caps every partner’s loss at the capital contributed.",
+      "Only the relative has unlimited liability, because silent capital is the residual claimant."
+    ],
+    "correctIndex": 0,
+    "explanation": "General partners manage and are fully liable. Limited partners trade control for a liability cap. Every general partner can bind the firm and has unlimited liability; a limited partner’s liability is capped if that partner does not run the business."
+  },
+  {
+    "id": "CI-0004",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-org"
+    ],
+    "difficulty": "medium",
+    "stem": "Quill Software can stay owned by three funds, or it can list and let the public trade its shares. Comparing public and private ownership, the listing would bring:",
+    "choices": [
+      "The same disclosure and the same liquidity, because ownership form does not change either one.",
+      "The public company has a wider resale market and heavier disclosure; the private company has the opposite tradeoff.",
+      "Less disclosure and a thinner resale market, because public companies report only to the board."
+    ],
+    "correctIndex": 1,
+    "explanation": "Public ownership buys a secondary market and pays for it with reporting, listing rules, and a wider set of owners. The public company has a wider resale market and heavier disclosure; the private company has the opposite tradeoff."
+  },
+  {
+    "id": "CI-0005",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-org"
+    ],
+    "difficulty": "hard",
+    "stem": "Harbor Glass pays corporate income tax on its profit and then pays a dividend that is taxed again in the shareholder’s hands. A partnership next door is taxed only on the partners’ returns. The corporate pattern is:",
+    "choices": [
+      "Profit can be taxed at the company and taxed again when a dividend is paid to the owner.",
+      "Pass-through taxation, because a dividend is deductible at the company and untaxed to the owner.",
+      "A tax that applies only to sole proprietors, because corporations are exempt from tax on profit."
+    ],
+    "correctIndex": 0,
+    "explanation": "A classical system taxes the entity and can tax the distribution. A partnership generally puts the profit on the owners once. Profit can be taxed at the company and taxed again when a dividend is paid to the owner."
+  },
+  {
+    "id": "CI-0006",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-org"
+    ],
+    "difficulty": "medium",
+    "stem": "An examiner asks which organizational setting most clearly separates the people who supply equity from the people who make daily decisions. The clearest case is:",
+    "choices": [
+      "A widely held public corporation, because the people who own it and the people who run it are not the same.",
+      "A sole proprietorship, because the owner hires a separate legal person to sign every contract.",
+      "A general partnership in which the only two partners do all the work themselves."
+    ],
+    "correctIndex": 0,
+    "explanation": "Separation of ownership and control is the gap between outside shareholders and hired managers. It is widest when ownership is dispersed. A widely held public corporation, because the people who own it and the people who run it are not the same."
+  },
+  {
+    "id": "CI-0007",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-org"
+    ],
+    "difficulty": "easy",
+    "stem": "The founders of Finch Analytics refuse a listing. They want to choose what to publish and they do not want a daily share price. The ownership consequence they are accepting is:",
+    "choices": [
+      "They must redeem every share on demand at book value, because private shares are deposits.",
+      "Limited liability disappears, because only listed companies can incorporate.",
+      "It skips public-market disclosure and quarterly pressure, and it gives up a deep market for reselling the shares."
+    ],
+    "correctIndex": 2,
+    "explanation": "Private ownership keeps information and timing closer to the founders. The cost is that a seller has fewer buyers. It skips public-market disclosure and quarterly pressure, and it gives up a deep market for reselling the shares."
+  },
+  {
+    "id": "CI-0008",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-org"
+    ],
+    "difficulty": "hard",
+    "stem": "Piper Street Capital raises a fund as a limited partnership. Outside pensions supply most of the money and do not pick the investments. One management company acts as general partner. The roles are:",
+    "choices": [
+      "The pensions are general partners because they supplied the most money, and the manager’s liability is capped.",
+      "The general partner manages and bears unlimited liability; limited partners supply capital and are limited to that capital if they stay out of control.",
+      "Every partner has identical liability and identical authority, because a fund cannot use two classes of partner."
+    ],
+    "correctIndex": 1,
+    "explanation": "Private-capital funds often put control and unlimited liability on the general partner and a liability cap on the capital partners. The general partner manages and bears unlimited liability; limited partners supply capital and are limited to that capital if they stay out of control."
+  },
+  {
+    "id": "CI-0009",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "easy",
+    "stem": "Kelso Metals is wound down. Wages, supplier invoices, and bond principal are paid before anything is left for common shareholders. That order reflects the idea that:",
+    "choices": [
+      "Shareholders are paid from what remains after employees, suppliers, and debtholders have been met.",
+      "Shareholders are paid first, because equity is a senior claim on the estate.",
+      "Employees and bondholders share one residual claim that ranks behind the common dividend."
+    ],
+    "correctIndex": 0,
+    "explanation": "Equity is the residual claim. Contractual claims sit ahead of it in a wind-down. Shareholders are paid from what remains after employees, suppliers, and debtholders have been met."
+  },
+  {
+    "id": "CI-0010",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "medium",
+    "stem": "Harbor Glass is financed with a large bond issue. Management can spend the cash on a volatile new furnace or on a steadier repair. The conflict between owners and lenders is:",
+    "choices": [
+      "There is no conflict, because both groups are paid the same contractual residual.",
+      "Lenders prefer the volatile furnace, because bondholders capture the upside and none of the downside.",
+      "Shareholders of a leveraged firm may prefer a riskier project; lenders prefer the safer one."
+    ],
+    "correctIndex": 2,
+    "explanation": "Once debt is in place, upside accrues more to equity and downside hits lenders harder. That is the asset-substitution tension. Shareholders of a leveraged firm may prefer a riskier project; lenders prefer the safer one."
+  },
+  {
+    "id": "CI-0011",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "easy",
+    "stem": "A briefing on Northline Foods lists the union, grocery customers, wheat growers, and the town where the mill sits, none of whom own shares. They are still:",
+    "choices": [
+      "Employees, customers, suppliers, and the local community can be stakeholders without owning a share.",
+      "Shareholders, because anyone affected by the firm automatically holds a voting share.",
+      "Irrelevant to the firm, because only parties with a ticker symbol have a stake."
+    ],
+    "correctIndex": 0,
+    "explanation": "Stakeholder is wider than shareholder. People who depend on the firm’s operations have a stake in how it is run. Employees, customers, suppliers, and the local community can be stakeholders without owning a share."
+  },
+  {
+    "id": "CI-0012",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "medium",
+    "stem": "Kelso Metals discloses a probable river cleanup that will consume cash for a decade. A lender reviewing the bonds should treat that disclosure as:",
+    "choices": [
+      "Irrelevant to credit, because environmental costs never reduce cash available for interest.",
+      "A cleanup obligation can become a credit issue for lenders, not only a reputation issue for owners.",
+      "A gain for bondholders, because a cleanup liability raises the residual value of equity."
+    ],
+    "correctIndex": 1,
+    "explanation": "A cash obligation competes with debt service. Environmental exposure is a credit fact when it is large enough to matter. A cleanup obligation can become a credit issue for lenders, not only a reputation issue for owners."
+  },
+  {
+    "id": "CI-0013",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "medium",
+    "stem": "The indenture on a Bramble Utilities bond forbids new secured borrowing above a stated amount and requires interest coverage to stay above a floor. Those clauses exist to:",
+    "choices": [
+      "Remove the firm’s duty to pay interest whenever coverage is high.",
+      "A coverage floor or a limit on extra secured debt is a contractual protection for lenders.",
+      "Give common shareholders a larger vote than the bond contract allows."
+    ],
+    "correctIndex": 1,
+    "explanation": "Covenants are how lenders limit later actions that would weaken their claim. A coverage floor or a limit on extra secured debt is a contractual protection for lenders."
+  },
+  {
+    "id": "CI-0014",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "hard",
+    "stem": "A distressed division of Lumen Rail can fund a repair that has a positive NPV. Almost all of the value would lift the recovery of existing lenders, not the equity. Equity holders decline the repair. This is:",
+    "choices": [
+      "Asset substitution, because the equity holders chose the riskier of two positive-NPV projects.",
+      "A covenant breach, because declining a project automatically violates an interest-coverage floor.",
+      "Equity may turn down a positive-NPV project when most of the value would go to creditors."
+    ],
+    "correctIndex": 2,
+    "explanation": "Debt overhang is underinvestment: equity will not contribute new money when the benefit accrues mainly to creditors. Equity may turn down a positive-NPV project when most of the value would go to creditors."
+  },
+  {
+    "id": "CI-0015",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "medium",
+    "stem": "Northline Foods’s treasurer wants to pay wheat invoices on day 60 instead of day 30. A long-time grower wants day 30. The disagreement is a stakeholder conflict over:",
+    "choices": [
+      "The corporate tax rate, because a later payment changes the statutory tax rate.",
+      "Who has the residual claim in liquidation, which is settled by the payment date on grain.",
+      "A supplier wants to be paid on time; a shareholder may prefer to hold the cash longer."
+    ],
+    "correctIndex": 2,
+    "explanation": "Stretching payables keeps cash in the firm and shifts financing onto the supplier. The two sides do not share the same horizon. A supplier wants to be paid on time; a shareholder may prefer to hold the cash longer."
+  },
+  {
+    "id": "CI-0016",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "easy",
+    "stem": "An investor in Quill Software asks how a data-privacy fine and a high staff-turnover rate should enter the valuation. The relevant path is:",
+    "choices": [
+      "ESG items matter in underwriting when they change expected cash flows or the risk of those cash flows.",
+      "They are excluded from valuation, because non-financial items cannot change cash or risk.",
+      "They replace the discount rate with a letter grade and drop the cash-flow forecast."
+    ],
+    "correctIndex": 0,
+    "explanation": "Environmental, social, and governance facts are underwritten when they move cash flows or the risk attached to them. ESG items matter in underwriting when they change expected cash flows or the risk of those cash flows."
+  },
+  {
+    "id": "CI-0017",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "hard",
+    "stem": "The town withdraws Rowan Dairy’s permit to run the mill after a dispute over water use. Product margins had been healthy. For the equity value of that mill:",
+    "choices": [
+      "The value rises, because losing a permit removes operating costs.",
+      "Losing the permit can wipe out equity value even if the product was profitable before the shutdown.",
+      "Nothing changes, because a permit is not a cash-flow input once margins are positive."
+    ],
+    "correctIndex": 1,
+    "explanation": "A social license can be a binding constraint. If the mill cannot operate, the margin on a closed plant is zero. Losing the permit can wipe out equity value even if the product was profitable before the shutdown."
+  },
+  {
+    "id": "CI-0018",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-stakeholders"
+    ],
+    "difficulty": "medium",
+    "stem": "Harbor Glass’s charter says the board serves shareholders. A later policy memo says the board also weighs employees and the town. The analytical point is:",
+    "choices": [
+      "The charter is illegal whenever a firm has employees, because only stakeholder firms may incorporate.",
+      "Whose interests the board must weigh is a governance choice; listing every group in a motto does not remove the conflicts.",
+      "The memo ends every conflict, because naming a stakeholder removes that stakeholder’s competing claim."
+    ],
+    "correctIndex": 1,
+    "explanation": "Shareholder and broader stakeholder mandates tell the board whose tradeoffs count. They do not make the tradeoffs disappear. Whose interests the board must weigh is a governance choice; listing every group in a motto does not remove the conflicts."
+  },
+  {
+    "id": "CI-0019",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "easy",
+    "stem": "Hired managers at Quill Software control the daily decisions, and the shareholders who own the firm do not. The principal-agent problem in that gap is:",
+    "choices": [
+      "There is no agency problem in a corporation, because a board removes every difference in incentives.",
+      "Shareholders are the agents and managers are the principals, because managers supply the capital.",
+      "Managers may pursue pay, size, or a quiet life rather than the value of the owners’ claim."
+    ],
+    "correctIndex": 2,
+    "explanation": "Owners are the principals and managers are the agents. Their incentives are not automatically the same. Managers may pursue pay, size, or a quiet life rather than the value of the owners’ claim."
+  },
+  {
+    "id": "CI-0020",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "medium",
+    "stem": "Harbor Glass puts several directors on the board who are not employees and who do not sell services to the firm. The governance role of that group is:",
+    "choices": [
+      "To manage the plants day to day, because independent directors replace the CEO.",
+      "Directors who are not executives are a mechanism for overseeing the people who run the firm.",
+      "To guarantee a higher share price, because independence is a valuation model."
+    ],
+    "correctIndex": 1,
+    "explanation": "An independent board is one mechanism that watches management on behalf of owners. It is oversight, not a promise about the stock. Directors who are not executives are a mechanism for overseeing the people who run the firm."
+  },
+  {
+    "id": "CI-0021",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "medium",
+    "stem": "The founders of Finch Analytics hold super-voting shares. Public investors own most of the economics and a minority of the votes. The governance effect is:",
+    "choices": [
+      "Insiders can keep voting control with a minority of the cash-flow rights, so outside holders bear more of the economic risk than the votes.",
+      "Public investors control every ordinary vote, because cash-flow rights and votes are always equal.",
+      "Super-voting shares remove agency conflicts, because founders cannot outvote the public float."
+    ],
+    "correctIndex": 0,
+    "explanation": "Dual-class structures separate control from economic exposure. Outside owners can be stuck with a strategy they cannot outvote. Insiders can keep voting control with a minority of the cash-flow rights, so outside holders bear more of the economic risk than the votes."
+  },
+  {
+    "id": "CI-0022",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "easy",
+    "stem": "Two pay designs are on the table for the CEO of Lumen Rail: a fixed salary, or a smaller salary plus shares that vest over four years. The stronger alignment with long-run owner value is:",
+    "choices": [
+      "Neither, because compensation cannot affect managerial choices.",
+      "The fixed salary, because a salary that does not move with results removes the incentive to take risk.",
+      "Equity that vests over several years ties pay to long-run value more tightly than a fixed salary alone."
+    ],
+    "correctIndex": 2,
+    "explanation": "Variable equity makes the manager’s wealth move with the owners’ wealth, with a delay that discourages a one-quarter spike. Equity that vests over several years ties pay to long-run value more tightly than a fixed salary alone. It can also encourage extra risk, which is a separate design problem."
+  },
+  {
+    "id": "CI-0023",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "medium",
+    "stem": "Kelso Metals hires a trucking firm owned by the CEO’s sibling at a rate above the quotes from two unrelated haulers. The governance concern is:",
+    "choices": [
+      "Only a tax issue, because the price of a related-party service cannot affect minority shareholders.",
+      "Buying services from the CEO’s family company needs disclosure and an independent look, because the price may not be arm’s length.",
+      "There is no concern, because a related-party contract is arm’s length by definition."
+    ],
+    "correctIndex": 1,
+    "explanation": "Related-party deals can move value out of the company. Disclosure and a review by directors who do not benefit are the usual checks. Buying services from the CEO’s family company needs disclosure and an independent look, because the price may not be arm’s length."
+  },
+  {
+    "id": "CI-0024",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "hard",
+    "stem": "Only one third of Bramble Utilities’ board stands for election each year. A dissident holder cannot replace a majority of seats in a single meeting. The risk in that design is:",
+    "choices": [
+      "It gives bondholders the votes, because a staggered board is a creditor committee.",
+      "A staggered board slows a change of control, which can entrench a weak team as well as protect a long plan.",
+      "It forces every director to resign annually, which makes a change of control too easy."
+    ],
+    "correctIndex": 1,
+    "explanation": "Staggered terms are a takeover defense. The benefit claimed is continuity; the cost is entrenchment. A staggered board slows a change of control, which can entrench a weak team as well as protect a long plan."
+  },
+  {
+    "id": "CI-0025",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "medium",
+    "stem": "The board of Orchard Paper has a committee that hires the external auditor and reviews the integrity of the financial statements. That committee:",
+    "choices": [
+      "Prepares the journal entries, because the audit committee is a substitute for the controller.",
+      "The audit committee oversees reporting and the external auditor; it does not replace management’s duty to keep the books.",
+      "Sets the dividend, because audit oversight is a capital-structure decision."
+    ],
+    "correctIndex": 1,
+    "explanation": "Oversight of reporting is not the same job as keeping the books. Management accounts; the committee watches. The audit committee oversees reporting and the external auditor; it does not replace management’s duty to keep the books."
+  },
+  {
+    "id": "CI-0026",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "easy",
+    "stem": "A minority shareholder in a public Harbor Glass cannot fire the CEO directly. The formal levers that shareholder still has are:",
+    "choices": [
+      "A guaranteed board seat, because every share comes with a directorship.",
+      "The right to seize plant assets whenever a quarter is missed.",
+      "Voting, selling, and, where the charter allows, proposing resolutions are the main formal tools of shareholders."
+    ],
+    "correctIndex": 2,
+    "explanation": "Shareholders act mainly by voting, by selling, and by using whatever proposal rights the charter and law allow. Voting, selling, and, where the charter allows, proposing resolutions are the main formal tools of shareholders."
+  },
+  {
+    "id": "CI-0027",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "hard",
+    "stem": "The CEO of Sable Logistics prefers an acquisition that doubles revenue and the CEO’s pay even though the price implies a negative NPV. The failure mode is:",
+    "choices": [
+      "Debt overhang, because the acquisition is turned down despite a positive NPV.",
+      "A creditor covenant, because empire building is a restriction written into bond indentures to protect managers.",
+      "Buying revenue that destroys value is an agency cost, and a board that insists on NPV discipline pushes back."
+    ],
+    "correctIndex": 2,
+    "explanation": "Empire building spends owners’ capital on size. Requiring a positive NPV at the opportunity cost of capital is the counterweight. Buying revenue that destroys value is an agency cost, and a board that insists on NPV discipline pushes back."
+  },
+  {
+    "id": "CI-0028",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "medium",
+    "stem": "Two otherwise similar private firms seek equity. One has an independent board, audited statements, and related-party rules. The other has none of those. Investors are likely to:",
+    "choices": [
+      "Ignore governance, because the cost of capital depends only on the product market.",
+      "Investors who fear diverted cash demand higher returns, so weak governance can raise the cost of equity and debt.",
+      "Accept a lower return from the weaker firm, because missing controls reduce the risk of diverted cash."
+    ],
+    "correctIndex": 1,
+    "explanation": "Governance is part of the risk that cash will not reach investors. Weaker controls are compensated with a higher required return. Investors who fear diverted cash demand higher returns, so weak governance can raise the cost of equity and debt."
+  },
+  {
+    "id": "CI-0029",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "hard",
+    "stem": "Lumen Rail is close to breaking a coverage covenant. Equity holders want a high-variance bet; lenders want assets preserved. Relative to ordinary manager-owner friction, this moment features:",
+    "choices": [
+      "A conflict only about board independence, because distress does not change project choice.",
+      "Near distress, the shareholder-creditor conflict can matter more than the manager-shareholder conflict.",
+      "No additional conflict, because leverage removes disagreements between claimholders."
+    ],
+    "correctIndex": 1,
+    "explanation": "Distress makes the option-like nature of equity more important. Managers who side with equity may gamble with creditors’ recovery. Near distress, the shareholder-creditor conflict can matter more than the manager-shareholder conflict."
+  },
+  {
+    "id": "CI-0030",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-governance"
+    ],
+    "difficulty": "medium",
+    "stem": "After a restatement, Harbor Glass adds a rule that unvested pay can be reclaimed if results were misstated, and shareholders get an advisory vote on pay. Those tools are:",
+    "choices": [
+      "Clawbacks and say-on-pay are aimed at compensation, not at the firm’s product market.",
+      "Product-market strategies, because say-on-pay sets the price of glass.",
+      "A replacement for limited liability, because a clawback makes shareholders liable for corporate debts."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pay design is a governance mechanism. Reclaiming unearned awards and letting owners vote on pay both aim at the manager-owner gap. Clawbacks and say-on-pay are aimed at compensation, not at the firm’s product market."
+  },
+  {
+    "id": "CI-0031",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "medium",
+    "stem": "Northline Foods holds inventory of USD 480. Annual cost of goods sold is USD 3,200. The firm uses a 365-day year. Using \\(Days=Inventory/COGS\\times 365\\), days inventory on hand is closest to:",
+    "choices": [
+      "54.75",
+      "0.15",
+      "6.67"
+    ],
+    "correctIndex": 0,
+    "explanation": "Days inventory scales the stock by the daily cost of goods: \\[480/3200\\times 365\\]. The result is 54.75 days. The ratio 480/3200 is a fraction of a year, not a day count, and COGS divided by inventory is a turnover, not a day count."
+  },
+  {
+    "id": "CI-0032",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "medium",
+    "stem": "The same Northline Foods file shows receivables of USD 270, credit sales of USD 4,100, and cost of goods sold of USD 3,200. Using a 365-day year and \\(Days=Receivables/Sales\\times 365\\), days sales outstanding is closest to:",
+    "choices": [
+      "23.71",
+      "24.04",
+      "30.80"
+    ],
+    "correctIndex": 1,
+    "explanation": "Receivable days use credit sales, not cost of goods sold: \\[270/4100\\times 365\\]. The result is 24.04 days. Substituting COGS, or using a 360-day year, changes the count the firm did not ask for."
+  },
+  {
+    "id": "CI-0033",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "medium",
+    "stem": "Northline Foods has payables of USD 210. Cost of goods sold, used as the purchases proxy, is USD 3,200, and sales are USD 4,100. Using a 365-day year and \\(Days=Payables/COGS\\times 365\\), days payable is closest to:",
+    "choices": [
+      "15.24",
+      "18.70",
+      "23.95"
+    ],
+    "correctIndex": 2,
+    "explanation": "Payable days divide the payable by the purchase flow: \\[210/3200\\times 365\\]. The result is 23.95 days. Sales are the wrong flow for this count, and COGS divided by payables is a turnover."
+  },
+  {
+    "id": "CI-0034",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "hard",
+    "stem": "Using those Northline Foods counts — inventory days from USD 480 of inventory and USD 3,200 of COGS, receivable days from USD 270 of receivables and USD 4,100 of sales, and payable days from USD 210 of payables and USD 3,200 of COGS, all on a 365-day year — the cash conversion cycle \\(CCC=DIO+DSO-DPO\\) is closest to:",
+    "choices": [
+      "78.79",
+      "102.74",
+      "54.83"
+    ],
+    "correctIndex": 2,
+    "explanation": "The cycle adds the time inventory and receivables are outstanding and subtracts the time suppliers finance the firm: \\[CCC=DIO+DSO-DPO\\]. It equals 54.83 days. Adding payables, or stopping at the operating cycle, overstates the cash tied up."
+  },
+  {
+    "id": "CI-0035",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "easy",
+    "stem": "A treasurer computes days inventory and days receivable and stops. A colleague subtracts days payable. The first figure, before payables are subtracted, is:",
+    "choices": [
+      "The operating cycle is days inventory plus days receivable and does not subtract days payable.",
+      "The cash conversion cycle, because payables are already inside days receivable.",
+      "The current ratio, because days inventory plus days receivable equals current assets over current liabilities."
+    ],
+    "correctIndex": 0,
+    "explanation": "Operating cycle \\(= DIO + DSO\\). The cash conversion cycle goes one step further and subtracts \\(DPO\\). The operating cycle is days inventory plus days receivable and does not subtract days payable."
+  },
+  {
+    "id": "CI-0036",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "medium",
+    "stem": "Kelso Metals begins paying suppliers on day 75 instead of day 30. Cash rises. A risk the treasurer still has to price is:",
+    "choices": [
+      "There is no commercial cost, because suppliers cannot change price or service when they are paid later.",
+      "It conserves cash and can raise supplier prices, tighten credit, or delay shipments.",
+      "The cash conversion cycle lengthens, because paying later increases days payable in the subtraction."
+    ],
+    "correctIndex": 1,
+    "explanation": "A longer payable period shortens \\(CCC=DIO+DSO-DPO\\). The cash is not free if vendors respond. It conserves cash and can raise supplier prices, tighten credit, or delay shipments."
+  },
+  {
+    "id": "CI-0037",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "easy",
+    "stem": "Ibis Apparel keeps bare inventory and a small cash balance, and it chases collections aggressively. Relative to a looser policy, this restrictive net-working-capital stance:",
+    "choices": [
+      "Always lowers return on assets, because less inventory reduces sales one for one and never frees capital.",
+      "Less inventory and cash, which can lift return on assets and also raises the risk of a stockout or a missed payment.",
+      "Eliminates liquidity risk, because lower current assets cannot cause a stockout."
+    ],
+    "correctIndex": 1,
+    "explanation": "Restrictive working capital frees capital and accepts more operating interruptions. Less inventory and cash, which can lift return on assets and also raises the risk of a stockout or a missed payment."
+  },
+  {
+    "id": "CI-0038",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "medium",
+    "stem": "Hearth Hotels keeps extra linens, a larger cash buffer, and longer customer terms than a peer. The relaxed policy’s tradeoff is:",
+    "choices": [
+      "A shorter cash conversion cycle by definition, because more inventory reduces days inventory.",
+      "More current assets, which costs financing and storage and reduces the chance of a missed sale.",
+      "Lower financing cost and a higher chance of stockouts, because extra current assets reduce both."
+    ],
+    "correctIndex": 1,
+    "explanation": "Slack current assets buy fewer missed sales and cost carry. Days inventory usually rise, which lengthens the cycle. More current assets, which costs financing and storage and reduces the chance of a missed sale."
+  },
+  {
+    "id": "CI-0039",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "hard",
+    "stem": "Orchard Paper is offered terms of 2/10 net 30. The firm can pay on day 10 and take the 2% discount, or pay the full invoice on day 30. Using a 365-day year and \\((1+0.02/0.98)^{365/20}-1\\), the effective annual cost of forgoing the discount is closest to:",
+    "choices": [
+      "36.50%",
+      "44.59%",
+      "2.00%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Forgoing the discount means paying 100 to settle a 98 obligation 20 days later. Annualized, \\[(1+0.02/0.98)^{365/20}-1\\]. That cost is 44.59%. The 2% discount is the periodic saving, not the annualized cost, and a simple 2% times 365/20 skips compounding on the 98 base."
+  },
+  {
+    "id": "CI-0040",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "easy",
+    "stem": "A distributor has 20 days of inventory, 15 days of receivables, and 50 days of payables. Using \\(CCC=DIO+DSO-DPO\\), the cash conversion cycle is closest to:",
+    "choices": [
+      "85.00",
+      "-15.00",
+      "15.00"
+    ],
+    "correctIndex": 1,
+    "explanation": "Subtract payable days from the operating cycle: \\[20+15-50=-15\\]. The cycle is -15.00 days. A negative result means suppliers finance the operating cycle and then some. Adding all three counts, or flipping the sign, misses that direction."
+  },
+  {
+    "id": "CI-0041",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "medium",
+    "stem": "Quill Software starts offering a small discount for invoices paid in ten days. Some customers take it and some price-sensitive accounts leave. The working-capital effect the treasurer wanted is:",
+    "choices": [
+      "No change in cash, because receivables are not part of the cash conversion cycle.",
+      "A longer cash conversion cycle, because a discount increases days receivable.",
+      "Collecting sooner cuts days receivable and the cash conversion cycle, at the cost of some discount or some lost sales."
+    ],
+    "correctIndex": 2,
+    "explanation": "Shorter collection cuts \\(DSO\\) inside \\(DIO+DSO-DPO\\). The discount and any lost sales are the price of that cash. Collecting sooner cuts days receivable and the cash conversion cycle, at the cost of some discount or some lost sales."
+  },
+  {
+    "id": "CI-0042",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "hard",
+    "stem": "Northline Foods builds inventory for a holiday peak and then draws it down. The treasurer compares funding that seasonal bulge with a short-term line versus with new equity. The maturity point is:",
+    "choices": [
+      "Short-term debt cannot finance inventory, because lenders refuse current assets as a use of funds.",
+      "Equity is the closer maturity match, because a seasonal inventory need is permanent.",
+      "Financing the holiday peak with short-term debt matches the need’s life and must be rolled; financing it with equity is more permanent and usually costlier."
+    ],
+    "correctIndex": 2,
+    "explanation": "A temporary current asset can be matched with temporary debt. The rollover risk is the cost of that match; equity avoids the rollover and costs more. Financing the holiday peak with short-term debt matches the need’s life and must be rolled; financing it with equity is more permanent and usually costlier."
+  },
+  {
+    "id": "CI-0043",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "easy",
+    "stem": "Bramble Utilities pays a fee to keep a bank line undrawn so it can borrow if a storm repair arrives. As a liquidity tool, the line is:",
+    "choices": [
+      "A substitute for equity that never has to be repaid and never has covenants.",
+      "A committed line is a liquidity reserve that costs a fee and comes with covenants; it is not free cash.",
+      "Free, because an undrawn commitment has no cost and no conditions."
+    ],
+    "correctIndex": 1,
+    "explanation": "The commitment is a reserve, not cash on hand. Fees and covenants are the price of the option to draw. A committed line is a liquidity reserve that costs a fee and comes with covenants; it is not free cash."
+  },
+  {
+    "id": "CI-0044",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-wc"
+    ],
+    "difficulty": "hard",
+    "stem": "Holding the sales level fixed, which change reduces a firm’s cash conversion cycle?",
+    "choices": [
+      "Pay suppliers sooner and collect from customers later.",
+      "Collect receivables sooner and pay suppliers later, while inventory days stay the same.",
+      "Increase days of inventory and leave receivable and payable days unchanged."
+    ],
+    "correctIndex": 1,
+    "explanation": "Because \\(CCC=DIO+DSO-DPO\\), a shorter receivable period or a longer payable period reduces the cycle, and a longer inventory period increases it. Collect receivables sooner and pay suppliers later, while inventory days stay the same."
+  },
+  {
+    "id": "CI-0045",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "medium",
+    "stem": "Harbor Glass can spend USD 250 today on a mold and then receive USD 90, USD 110, and USD 120 at the ends of the next three years. The opportunity cost of capital is 9%. Using \\(NPV=\\sum CF_t/(1+r)^t\\), the NPV is closest to:",
+    "choices": [
+      "USD 70.00",
+      "USD 17.82",
+      "USD 291.92"
+    ],
+    "correctIndex": 1,
+    "explanation": "Discount each dated cash flow, including the outflow at t = 0: \\[-250+\\frac{90}{1.09}+\\frac{110}{1.09^2}+\\frac{120}{1.09^3}\\]. The NPV is USD 17.82. The undiscounted net of USD 70 ignores time, and dropping the initial outflow from the timeline treats the first inflow as cash today."
+  },
+  {
+    "id": "CI-0046",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "medium",
+    "stem": "For that same Harbor Glass mold (cash flows of −250, +90, +110, and +120), the internal rate of return is the rate that sets \\(NPV=0\\). That IRR is closest to:",
+    "choices": [
+      "28.00%",
+      "9.00%",
+      "12.77%"
+    ],
+    "correctIndex": 2,
+    "explanation": "The IRR solves \\[-250+\\frac{90}{1+IRR}+\\frac{110}{(1+IRR)^2}+\\frac{120}{(1+IRR)^3}=0\\]. It is 12.77%. The 9% hurdle is the opportunity cost of capital, not the project’s IRR, and the undiscounted inflow over the outflow is not a time-weighted rate."
+  },
+  {
+    "id": "CI-0047",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "hard",
+    "stem": "Harbor Glass can fund only one project. The kiln upgrade costs USD 1,000 today and returns USD 430 a year for three years. The booth refresh costs USD 100 today and returns USD 75 a year for two years. The opportunity cost of capital is 8%. The decision is:",
+    "choices": [
+      "Reject both, because the smaller project uses less capital and therefore has no NPV.",
+      "Accept the booth refresh, because its IRR is higher.",
+      "Accept the kiln upgrade, because its NPV at the 8% opportunity cost of capital is larger."
+    ],
+    "correctIndex": 2,
+    "explanation": "At 8%, the kiln NPV is USD 108.15 and its IRR is 13.90%. The booth NPV is USD 33.74 and its IRR is 31.87%. Both IRRs clear 8%, and the value added is the NPV. Accept the kiln upgrade, because its NPV at the 8% opportunity cost of capital is larger."
+  },
+  {
+    "id": "CI-0048",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "easy",
+    "stem": "A Harbor Glass screen accepts any project that returns the initial cash within two years and rejects the rest, with no discounting. The limitation of that payback rule is:",
+    "choices": [
+      "Payback overstates later cash flows, because it compounds them at the IRR.",
+      "Payback ignores the time value of money and ignores cash flows that arrive after the cutoff.",
+      "Payback is identical to NPV, because the cutoff year is the discount rate."
+    ],
+    "correctIndex": 1,
+    "explanation": "A dollar in year five does not enter a two-year payback, and a dollar in year two is treated like a dollar today. Payback ignores the time value of money and ignores cash flows that arrive after the cutoff."
+  },
+  {
+    "id": "CI-0049",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "easy",
+    "stem": "Quill Software has two unrelated product ideas. Each can be accepted without killing the other, and each has one outflow followed by inflows. The decision rule is:",
+    "choices": [
+      "Accept only the idea with the higher IRR, even when both NPVs are positive.",
+      "Accept each independent conventional project that has a positive NPV at the opportunity cost of capital.",
+      "Accept an idea whenever accounting profit in year one is positive, regardless of NPV."
+    ],
+    "correctIndex": 1,
+    "explanation": "Independence means one project’s acceptance does not block the other. For a conventional pattern, positive NPV and IRR above the hurdle agree. Accept each independent conventional project that has a positive NPV at the opportunity cost of capital."
+  },
+  {
+    "id": "CI-0050",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "hard",
+    "stem": "On two mutually exclusive conventional projects, one has the higher IRR and the other has the higher NPV at the opportunity cost of capital. The reason to follow the NPV ranking is:",
+    "choices": [
+      "NPV assumes reinvestment at the IRR, so it double-counts the higher-IRR project.",
+      "When the rankings conflict, use NPV, because it discounts at the opportunity cost of capital rather than assuming reinvestment at the IRR.",
+      "IRR is always the value added to the firm, so the higher IRR is the larger wealth increase."
+    ],
+    "correctIndex": 1,
+    "explanation": "NPV measures the increase in value using the return the capital could earn elsewhere. The IRR’s implied reinvestment rate is the project’s own IRR. When the rankings conflict, use NPV, because it discounts at the opportunity cost of capital rather than assuming reinvestment at the IRR."
+  },
+  {
+    "id": "CI-0051",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "easy",
+    "stem": "Last year Kelso Metals paid for a feasibility study. The report is finished and the fee cannot be refunded. In the NPV of going ahead now, that fee is:",
+    "choices": [
+      "The study is a sunk cost and is left out of the accept-or-reject cash flows.",
+      "Included as a cash inflow, because a sunk cost is recovered when the project is accepted.",
+      "Included as an outflow today, because every historical cost is incremental."
+    ],
+    "correctIndex": 0,
+    "explanation": "Incremental cash flows are what change because of the decision. A fee already paid does not change. The study is a sunk cost and is left out of the accept-or-reject cash flows."
+  },
+  {
+    "id": "CI-0052",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "medium",
+    "stem": "Northline Foods will launch a premium soup that steals volume from its own standard soup. In the premium project’s cash flows, that lost standard-soup margin is:",
+    "choices": [
+      "Added to the premium project, because cannibalization is extra revenue.",
+      "Ignored, because a sale lost inside the same firm is not a cash flow.",
+      "Lost margin on the existing brand is an externality and is subtracted from the new project’s cash flows."
+    ],
+    "correctIndex": 2,
+    "explanation": "An externality inside the firm still belongs to the owners. The with-project case has less standard-soup profit. Lost margin on the existing brand is an externality and is subtracted from the new project’s cash flows."
+  },
+  {
+    "id": "CI-0053",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "medium",
+    "stem": "Ibis Apparel already owns a warehouse it could sell or rent. A new project would occupy it. The warehouse’s cost in that project is:",
+    "choices": [
+      "Zero, because the building is fully paid for and depreciation is finished.",
+      "The opportunity cost is the after-tax cash the firm could get from selling or renting the warehouse to someone else.",
+      "The original construction cost, unadjusted for what a buyer would pay today."
+    ],
+    "correctIndex": 1,
+    "explanation": "Using an owned asset spends the cash the firm gives up by not selling or leasing it. The opportunity cost is the after-tax cash the firm could get from selling or renting the warehouse to someone else."
+  },
+  {
+    "id": "CI-0054",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "hard",
+    "stem": "Redkite Mining can open a pit today with a small positive NPV, or wait a year for a ruling on a royalty. The pit cannot be un-opened cheaply. The real-option point is:",
+    "choices": [
+      "The option to wait can make an immediate start the wrong choice even when today’s NPV is positive.",
+      "Waiting is free, because a delay cannot change the NPV that was computed today.",
+      "A positive NPV must be taken immediately, because an option to wait has zero value."
+    ],
+    "correctIndex": 0,
+    "explanation": "The option to postpone is valuable when information is coming and the start is hard to reverse. Today’s NPV does not include that option unless the analyst adds it. The option to wait can make an immediate start the wrong choice even when today’s NPV is positive."
+  },
+  {
+    "id": "CI-0055",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "medium",
+    "stem": "Vesper Clinics can shut a pilot clinic and sell the equipment if demand disappoints. A forecast that assumes the clinic must run for ten years regardless:",
+    "choices": [
+      "Is required, because real options are recognized only for expansion, never for stopping.",
+      "Overstates the project, because the right to abandon adds nothing once the equipment can be sold.",
+      "The option to stop and sell the assets truncates the downside, so the project is worth more than a model that forces the firm to continue."
+    ],
+    "correctIndex": 2,
+    "explanation": "Abandonment cuts off the worst paths. Ignoring it understates a project that has a real exit. The option to stop and sell the assets truncates the downside, so the project is worth more than a model that forces the firm to continue."
+  },
+  {
+    "id": "CI-0056",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "easy",
+    "stem": "Piper Street Capital’s portfolio company can fund only USD 5 million of positive-NPV projects that together need USD 9 million. The projects are divisible. A capital-rationing rank uses:",
+    "choices": [
+      "The highest accounting profit, because rationing ignores present value.",
+      "The longest payback, because scarce capital should go to the slowest return of cash.",
+      "Rank feasible projects by profitability index, present value of future inflows divided by the initial investment, when capital is the scarce resource."
+    ],
+    "correctIndex": 2,
+    "explanation": "The profitability index is \\(PV_{inflows}/Investment\\). It picks NPV per unit of the scarce outlay. Rank feasible projects by profitability index, present value of future inflows divided by the initial investment, when capital is the scarce resource."
+  },
+  {
+    "id": "CI-0057",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "hard",
+    "stem": "A mine spends cash to open, produces inflows for several years, and then spends again to restore the site. The cash-flow sign changes twice. For the decision statistic:",
+    "choices": [
+      "The IRR is unique whenever the NPV is positive, so the second outflow can be ignored.",
+      "More than one sign change can produce more than one IRR, and NPV at the cost of capital is still a single decision.",
+      "NPV is undefined when there are two outflows, so the firm must use payback."
+    ],
+    "correctIndex": 1,
+    "explanation": "Multiple sign changes can yield multiple rates that set NPV to zero. Discounting at the opportunity cost of capital still returns one NPV. More than one sign change can produce more than one IRR, and NPV at the cost of capital is still a single decision."
+  },
+  {
+    "id": "CI-0058",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "easy",
+    "stem": "A project model for Marlowe Cement subtracts depreciation from revenue and also subtracts the same depreciation again as if it were a cash cost. The correct treatment is:",
+    "choices": [
+      "Ignore depreciation entirely, because a non-cash charge cannot affect tax or cash.",
+      "Subtract depreciation twice, because the tax shield is a second cash outflow.",
+      "Depreciation is not a cash outflow; the cash effect is the tax saved because the charge is deductible."
+    ],
+    "correctIndex": 2,
+    "explanation": "Operating cash flow uses after-tax operating profit and adds back depreciation, which is the same idea as counting the tax shield. Depreciation is not a cash outflow; the cash effect is the tax saved because the charge is deductible."
+  },
+  {
+    "id": "CI-0059",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "medium",
+    "stem": "Lumen Rail can keep an old locomotive or buy a new one and sell the old one now. The sale would generate after-tax cash. The analysis should:",
+    "choices": [
+      "Compare the new locomotive’s NPV with zero and leave the sale proceeds out of both cases.",
+      "Ignore the old locomotive, because a sunk asset cannot produce cash even if it is sold.",
+      "Analyze the incremental cash flows versus keeping the old machine, including the after-tax cash from selling the old machine today."
+    ],
+    "correctIndex": 2,
+    "explanation": "Replacement decisions are incremental. Selling the old asset is cash the firm receives only if it replaces. Analyze the incremental cash flows versus keeping the old machine, including the after-tax cash from selling the old machine today."
+  },
+  {
+    "id": "CI-0060",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-capalloc"
+    ],
+    "difficulty": "medium",
+    "stem": "Bramble Utilities’ overall return on invested capital is above its WACC. A new unregulated sideline has a negative NPV at a hurdle that fits that sideline’s risk. The implication is:",
+    "choices": [
+      "Accept the sideline, because any project inside a firm that beats its WACC has a positive NPV.",
+      "A firm-level return above WACC does not make every project acceptable; the project still needs its own positive NPV.",
+      "Reject the whole firm, because one negative-NPV idea means the firm-level return is below WACC."
+    ],
+    "correctIndex": 1,
+    "explanation": "Firm-level ROIC is an average. The sideline is accepted or rejected on its own NPV at a risk-matched cost of capital. A firm-level return above WACC does not make every project acceptable; the project still needs its own positive NPV."
+  },
+  {
+    "id": "CI-0061",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "medium",
+    "stem": "Harbor Glass targets 62% equity and 38% debt at market value. The cost of equity is 12.4%, the pretax cost of debt is 7%, and the corporate tax rate is 21%. Using \\(WACC=w_e k_e+w_d k_d(1-t)\\), WACC is closest to:",
+    "choices": [
+      "8.14%",
+      "10.35%",
+      "9.79%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Weight the equity cost fully and the debt cost after tax: \\[0.62(0.124)+0.38(0.07)(1-0.21)\\]. WACC is 9.79%. Dropping the tax shield uses the pretax debt cost, and swapping the weights assigns the equity return to the debt slice."
+  },
+  {
+    "id": "CI-0062",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "easy",
+    "stem": "The pretax cost of Bramble Utilities’ debt is 7% and the corporate tax rate is 21%. Using \\(k_d(1-t)\\), the after-tax cost of debt is closest to:",
+    "choices": [
+      "1.47%",
+      "5.53%",
+      "7.00%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Interest reduces taxable income, so the debt cost that enters WACC is after tax: \\[0.07(1-0.21)\\]. It is 5.53%. The pretax yield is the lender’s quote, and 7% times the tax rate is only the shield, not the net cost."
+  },
+  {
+    "id": "CI-0063",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "medium",
+    "stem": "Kelso Metals is all-equity financed at a 9% cost of capital. It can borrow at 5%. There are no corporate taxes. At a debt-to-equity ratio of 0.50, the Modigliani-Miller cost of equity \\(k_e=k_0+(k_0-k_d)(D/E)\\) is closest to:",
+    "choices": [
+      "17.00%",
+      "11.00%",
+      "9.00%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Without taxes the levered equity cost adds the full spread times D/E: \\[0.09+(0.09-0.05)(0.50)\\]. It is 11.00%. Leaving equity at the unlevered cost ignores leverage, and using E/D of 2 instead of D/E of 0.50 overstates the premium."
+  },
+  {
+    "id": "CI-0064",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "hard",
+    "stem": "Use the same Kelso Metals inputs: unlevered cost 9%, cost of debt 5%, and D/E of 0.50. The corporate tax rate is 25%. The Modigliani-Miller cost of equity, with the spread multiplied by \\((1-t)\\), is closest to:",
+    "choices": [
+      "6.75%",
+      "11.00%",
+      "10.50%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Taxes shrink the leverage premium, not the whole cost of equity: \\[k_e=0.09+(0.09-0.05)(0.50)(1-0.25)\\]. The levered cost is 10.50%. The no-tax figure 11% omits the shield, and multiplying the unlevered cost by one minus the tax rate is not the MM formula."
+  },
+  {
+    "id": "CI-0065",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "easy",
+    "stem": "In a Modigliani-Miller setting with no taxes and no distress costs, Kelso Metals replaces equity with debt that costs less than the unlevered cost of capital. The WACC:",
+    "choices": [
+      "Rises, because any use of debt increases every capital cost including the cost of debt.",
+      "Falls by the full difference between the unlevered cost and the cost of debt.",
+      "Without taxes, WACC stays at the unlevered cost of capital, because the rise in the cost of equity offsets the cheaper debt."
+    ],
+    "correctIndex": 2,
+    "explanation": "The MM no-tax result is \\(k_e=k_0+(k_0-k_d)(D/E)\\), and the higher equity cost offsets the cheaper debt in the weighted average. Without taxes, WACC stays at the unlevered cost of capital, because the rise in the cost of equity offsets the cheaper debt."
+  },
+  {
+    "id": "CI-0066",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "medium",
+    "stem": "Add corporate taxes to that Modigliani-Miller setting and keep distress costs at zero. As Kelso Metals adds debt, the claim about WACC is:",
+    "choices": [
+      "WACC rises, because the tax shield makes debt more expensive than equity.",
+      "With corporate taxes and no distress costs, WACC falls as the firm adds debt, because interest shields tax.",
+      "WACC is unchanged, because the tax shield is exactly offset by a higher cost of equity even after tax."
+    ],
+    "correctIndex": 1,
+    "explanation": "Interest tax shields add value, so the after-tax weighted average declines as debt replaces equity in this frictionless taxed model. With corporate taxes and no distress costs, WACC falls as the firm adds debt, because interest shields tax."
+  },
+  {
+    "id": "CI-0067",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "hard",
+    "stem": "Harbor Glass enjoys a tax shield on interest and also faces a rising chance of a costly restructuring if debt is very high. The static tradeoff view of the debt choice is:",
+    "choices": [
+      "Borrow as much as lenders will allow, because distress costs are zero whenever a tax shield exists.",
+      "The value-maximizing debt level balances the tax shield against expected distress costs.",
+      "Use no debt, because a tax shield cannot be positive if distress is possible."
+    ],
+    "correctIndex": 1,
+    "explanation": "Value rises with the shield and falls with expected distress. The interior mix is where those effects balance. The value-maximizing debt level balances the tax shield against expected distress costs."
+  },
+  {
+    "id": "CI-0068",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "medium",
+    "stem": "Book equity at Quill Software is far below the market value of the shares. Debt is quoted near face. For the weights in WACC, the analyst should:",
+    "choices": [
+      "Use equal weights, because market and book differences are ignored in WACC.",
+      "Use market-value weights, because those are the amounts investors currently have at risk.",
+      "Use book weights, because accounting values are the amounts investors require a return on."
+    ],
+    "correctIndex": 1,
+    "explanation": "WACC weights the capital that is outstanding at current value. \\(w_e=E/(D+E)\\) should use market values. Use market-value weights, because those are the amounts investors currently have at risk."
+  },
+  {
+    "id": "CI-0069",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "easy",
+    "stem": "A treasurer argues that replacing equity with lower-coupon debt must cut the firm’s WACC one for one. Holding taxes aside, the Modigliani-Miller objection is:",
+    "choices": [
+      "The cost of equity falls as leverage rises, which is why WACC falls by more than the coupon gap.",
+      "The cost of equity rises with the debt-to-equity ratio, so cheap debt is not a free reduction in WACC.",
+      "The cost of equity is fixed at the coupon rate, so leverage cannot change it."
+    ],
+    "correctIndex": 1,
+    "explanation": "Lenders’ yield is only part of the package. Equity’s required return increases with \\(D/E\\). The cost of equity rises with the debt-to-equity ratio, so cheap debt is not a free reduction in WACC."
+  },
+  {
+    "id": "CI-0070",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "hard",
+    "stem": "Finch Analytics finances new spending with cash on hand when it can, then with debt, and sells shares only when the other sources are exhausted. Managers say a share issue would be read as a signal that the stock is not cheap. This ordering is:",
+    "choices": [
+      "A rule that new equity is the cheapest and first source, because asymmetric information makes shares underpriced.",
+      "The static tradeoff, because the firm is explicitly balancing a tax shield against distress.",
+      "Internal funds first, then debt, then new equity, because of asymmetric information about the shares."
+    ],
+    "correctIndex": 2,
+    "explanation": "Pecking order puts internal funds ahead of debt and debt ahead of external equity. The equity issue is the most information-sensitive. Internal funds first, then debt, then new equity, because of asymmetric information about the shares."
+  },
+  {
+    "id": "CI-0071",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "medium",
+    "stem": "Redkite Mining’s operating profit swings widely with ore prices. Bramble Utilities’ regulated profit is steadier. All else equal, the implication for debt capacity is:",
+    "choices": [
+      "Higher business risk means less debt capacity, all else equal, because operating cash flow is less able to cover interest.",
+      "Redkite can carry more debt, because volatile EBIT makes interest easier to cover.",
+      "Business risk does not affect debt capacity, because only the tax rate matters."
+    ],
+    "correctIndex": 0,
+    "explanation": "Debt service is a fixed claim. A noisier operating stream supports less of that claim before distress risk rises. Higher business risk means less debt capacity, all else equal, because operating cash flow is less able to cover interest."
+  },
+  {
+    "id": "CI-0072",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "easy",
+    "stem": "A project at Harbor Glass will be paid for entirely with a new bank loan. The firm’s target mix is still mostly equity. The discount rate for a project of ordinary risk should be:",
+    "choices": [
+      "The cost of equity only, because a project never includes debt in the discount rate.",
+      "Discount a project at the target-capital-structure WACC, not at the coupon on the particular loan that happens to fund it.",
+      "The loan coupon, because the marginal financing is the project’s cost of capital."
+    ],
+    "correctIndex": 1,
+    "explanation": "Projects are assumed to be financed at the target mix over time, not at the instrument used on closing day. Discount a project at the target-capital-structure WACC, not at the coupon on the particular loan that happens to fund it."
+  },
+  {
+    "id": "CI-0073",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "hard",
+    "stem": "Lumen Rail’s unlevered cost of capital is 10% and it borrows at 6%. The debt-to-equity ratio is 0.40 and the corporate tax rate is 25%. Equity value is the residual, so the equity weight is 1/1.4 and the debt weight is 0.4/1.4. Using the after-tax Modigliani-Miller cost of equity inside \\(WACC=w_e k_e+w_d k_d(1-t)\\), WACC is closest to:",
+    "choices": [
+      "11.20%",
+      "9.71%",
+      "9.29%"
+    ],
+    "correctIndex": 2,
+    "explanation": "The levered equity cost is \\(0.10+(0.10-0.06)(0.40)(1-0.25)=0.112\\). Then \\[WACC=(1/1.4)(0.112)+(0.4/1.4)(0.06)(0.75)\\]. WACC is 9.29%. Stopping at the 11.20% equity cost ignores debt, and skipping the tax shield on the debt coupon overstates WACC."
+  },
+  {
+    "id": "CI-0074",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-structure"
+    ],
+    "difficulty": "medium",
+    "stem": "Bramble Utilities’ WACC fits its regulated network. A proposed merchant power plant is much riskier than that network. The hurdle for the plant should be:",
+    "choices": [
+      "A riskier sideline needs a higher hurdle than the firm’s WACC; the firm WACC fits projects that match the firm’s existing risk.",
+      "The firm WACC, because every project inside a firm shares the firm’s beta.",
+      "The after-tax cost of debt, because a risky project is financed only with debt."
+    ],
+    "correctIndex": 0,
+    "explanation": "The discount rate has to match project risk. Using a too-low firm WACC would make the risky plant look more valuable than it is. A riskier sideline needs a higher hurdle than the firm’s WACC; the firm WACC fits projects that match the firm’s existing risk."
+  },
+  {
+    "id": "CI-0075",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-models"
+    ],
+    "difficulty": "easy",
+    "stem": "Quill Software stops selling perpetual licenses and charges an annual fee to keep using the same application. The business-model shift is toward:",
+    "choices": [
+      "A one-time equipment sale, because an annual fee is collected only at installation.",
+      "Customers pay a recurring fee, revenue is smoother than a one-time license, and churn is the central risk.",
+      "A marketplace, because the user now sets the price of a third party’s goods."
+    ],
+    "correctIndex": 1,
+    "explanation": "Subscription revenue repeats and depends on renewals. Losing subscribers is the risk that replaces the old upgrade cycle. Customers pay a recurring fee, revenue is smoother than a one-time license, and churn is the central risk."
+  },
+  {
+    "id": "CI-0076",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-models"
+    ],
+    "difficulty": "medium",
+    "stem": "A platform owned by Piper Street’s portfolio company matches independent bakeries with households and keeps 12% of each order. The bakeries own the food. Revenue for the platform is:",
+    "choices": [
+      "A regulated tariff, because a take rate is a utility’s allowed return on a rate base.",
+      "The firm takes a fee on other parties’ transactions and does not own the inventory; revenue is the take rate times volume.",
+      "The full grocery ticket, because a marketplace consolidates the sellers’ sales onto its own top line."
+    ],
+    "correctIndex": 1,
+    "explanation": "Marketplace economics are a fee on other people’s volume. The 12% is the take rate, not the bakers’ revenue. The firm takes a fee on other parties’ transactions and does not own the inventory; revenue is the take rate times volume."
+  },
+  {
+    "id": "CI-0077",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-models"
+    ],
+    "difficulty": "medium",
+    "stem": "Hearth Hotels lets local operators use its brand, collects a royalty on room revenue, and requires the operators to fund the buildings. This design is:",
+    "choices": [
+      "A pure advertising model, because a royalty is a fee paid by viewers rather than by operators.",
+      "A vertically integrated chain, because the brand owner supplies the local capital and keeps every room’s profit.",
+      "The franchisor earns fees and royalties while the franchisee supplies local capital, and brand control is the risk."
+    ],
+    "correctIndex": 2,
+    "explanation": "Franchising splits local capital from the brand. The franchisor’s job is standards and the royalty stream. The franchisor earns fees and royalties while the franchisee supplies local capital, and brand control is the risk."
+  },
+  {
+    "id": "CI-0078",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-models"
+    ],
+    "difficulty": "easy",
+    "stem": "Ibis Apparel sells a home press at a thin margin and earns most of its profit on proprietary sheets that fit only that press. The model is:",
+    "choices": [
+      "A franchise, because each sheet buyer operates a hotel under the apparel brand.",
+      "The instrument is priced to build an installed base, and the profit sits in the later consumables.",
+      "A subscription, because the press price is rebilled every month whether or not sheets are bought."
+    ],
+    "correctIndex": 1,
+    "explanation": "The durable good builds the base. The consumable is where the margin is repeated. The instrument is priced to build an installed base, and the profit sits in the later consumables."
+  },
+  {
+    "id": "CI-0079",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-models"
+    ],
+    "difficulty": "hard",
+    "stem": "A free reading app from Finch Analytics is supported only by advertisements sold to brands. Usage is rising. The revenue risk that can still hurt the firm is:",
+    "choices": [
+      "Churn in a subscription fee, because advertisers are the users and they pay a monthly license.",
+      "There is no revenue risk, because revenue tracks usage one for one when the user does not pay.",
+      "Users do not pay; advertisers do. A slump in the ad market or a privacy limit can cut revenue even if usage rises."
+    ],
+    "correctIndex": 2,
+    "explanation": "In an ad model the paying customer is the advertiser. Usage without advertiser demand, or a rule that limits targeting, breaks the link to revenue. Users do not pay; advertisers do. A slump in the ad market or a privacy limit can cut revenue even if usage rises."
+  },
+  {
+    "id": "CI-0080",
+    "topicId": "corporate",
+    "losIds": [
+      "ci-models"
+    ],
+    "difficulty": "medium",
+    "stem": "Marlowe Cement can build and run plants, or it can license its blend to regional partners who own the kilns. Compared with owning the plants, the license model:",
+    "choices": [
+      "Removes all risk, because a licensee’s quality problems cannot affect the brand.",
+      "Licensing needs less capital and has lower operating leverage, and it gives up some control of quality and of the upside.",
+      "Raises operating leverage, because a royalty income stream requires the same fixed plant cost as owning the kiln."
+    ],
+    "correctIndex": 1,
+    "explanation": "Asset-light income scales with less fixed cost. The firm collects a thinner slice and depends on partners to run the process. Licensing needs less capital and has lower operating leverage, and it gives up some control of quality and of the upside."
+  }
+]
