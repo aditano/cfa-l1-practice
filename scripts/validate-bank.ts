@@ -1,6 +1,16 @@
 import { readFileSync, readdirSync } from 'node:fs'
 import { pathToFileURL } from 'node:url'
 import { TOPICS, allLosIds } from '../src/curriculum.ts'
+import {
+  MAX_LENGTH_TELL_RATE,
+  MAX_STRICT_LONGEST_RATE,
+  MIN_STRICT_LONGEST_RATE,
+  choicesFollowConvention,
+  isLengthTell,
+  isNumericTrio,
+  isStrictlyLongest,
+} from '../src/lib/choiceBalance.ts'
+import { MOCK_ALLOCATION, mockAllocationProblems } from '../src/lib/mockExam.ts'
 import type { Question, TopicId } from '../src/types.ts'
 
 const STANDARD_RE = /^(I|II|III|IV|V|VI|VII)\([A-E]\)$/
@@ -27,6 +37,11 @@ export function validateBank(): string[] {
   const letters = [0, 0, 0]
   let violations = 0
   let concepts = 0
+  let prose = 0
+  let lengthTells = 0
+  let strictlyLongest = 0
+  const stemBan =
+    /\b(all|none) of the above\b|\b(A and B only|B and C only|A and C only)\b|\bcannot determine\b|\bnot enough information\b|\btrue or false\b|\bexcept\b/i
 
   if (questions.length < 1000) problems.push(`Bank has ${questions.length} questions; need at least 1000.`)
 
@@ -56,7 +71,22 @@ export function validateBank(): string[] {
     if (/\bclosest to\b/i.test(question.stem) && !/\\\(|\\\[/.test(question.explanation)) {
       problems.push(`${question.id} is numeric but the explanation has no KaTeX`)
     }
-    if (/\b(all|none) of the above\b/i.test(question.stem)) problems.push(`${question.id} uses a banned stem`)
+    if (stemBan.test(question.stem)) problems.push(`${question.id} uses a banned stem`)
+    if (Array.isArray(question.choices) && question.choices.length === 3) {
+      if (question.choices.some((choice) => /\b(all|none) of the above\b|\b(A and B only|B and C only|A and C only)\b/i.test(choice))) {
+        problems.push(`${question.id} uses a banned choice`)
+      }
+      if (!choicesFollowConvention(question.choices)) {
+        problems.push(`${question.id} choices are not in CFA length or numeric order`)
+      }
+      const distractors = question.choices.filter((_, index) => index !== question.correctIndex)
+      const keyed = question.choices[question.correctIndex] ?? ''
+      if (!isNumericTrio(question.choices)) {
+        prose += 1
+        if (isLengthTell(keyed, distractors)) lengthTells += 1
+      }
+      if (keyed && isStrictlyLongest(keyed, distractors)) strictlyLongest += 1
+    }
     const topic = TOPICS.find((item) => item.id === question.topicId)
     if (!topic) {
       problems.push(`${question.id} has unknown topic ${question.topicId}`)
@@ -115,6 +145,24 @@ export function validateBank(): string[] {
   }
   if (violations < 70) problems.push(`Only ${violations} ethics violation items`)
   if (concepts < 40) problems.push(`Only ${concepts} ethics concept items`)
+  const tellRate = prose ? lengthTells / prose : 0
+  if (tellRate > MAX_LENGTH_TELL_RATE) {
+    problems.push(
+      `${lengthTells} of ${prose} prose items (${(tellRate * 100).toFixed(1)}%) have a keyed choice at least 20 characters and 20% longer than both distractors`,
+    )
+  }
+  const longestRate = questions.length ? strictlyLongest / questions.length : 0
+  if (questions.length > 50 && (longestRate > MAX_STRICT_LONGEST_RATE || longestRate < MIN_STRICT_LONGEST_RATE)) {
+    problems.push(
+      `Keyed choice is strictly the longest on ${(longestRate * 100).toFixed(1)}% of items; expected ${MIN_STRICT_LONGEST_RATE * 100}–${MAX_STRICT_LONGEST_RATE * 100}%`,
+    )
+  }
+  for (const topic of TOPICS) {
+    const count = byTopic.get(topic.id) ?? 0
+    const need = MOCK_ALLOCATION[topic.id]
+    if (count < need) problems.push(`${topic.id} has ${count} items; mock session needs ${need}`)
+  }
+  problems.push(...mockAllocationProblems())
   return problems
 }
 

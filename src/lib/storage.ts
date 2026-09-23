@@ -1,8 +1,10 @@
+import type { StoredMock } from './mockExam'
 import type { TopicId } from '../types'
 
 const PROGRESS_KEY = 'l1-practice-progress-v1'
 const PRESET_KEY = 'l1-practice-preset-v1'
 const SESSION_KEY = 'l1-practice-session-v1'
+const MOCK_KEY = 'l1-practice-mock-v1'
 
 export type Attempt = {
   id: string
@@ -100,4 +102,31 @@ export function loadSession(): StoredSession | null {
 
 export function clearSession(): void {
   sessionStorage.removeItem(SESSION_KEY)
+}
+
+export function loadMock(): StoredMock | null {
+  try {
+    const raw = localStorage.getItem(MOCK_KEY)
+    if (!raw) return null
+    const parsed = JSON.parse(raw) as StoredMock
+    if (parsed.version !== 1 || !parsed.sessions?.[1] || !parsed.sessions?.[2]) return null
+    return parsed
+  } catch {
+    return null
+  }
+}
+
+export function saveMock(exam: StoredMock): void {
+  localStorage.setItem(MOCK_KEY, JSON.stringify(exam))
+}
+
+export function clearMock(): void {
+  localStorage.removeItem(MOCK_KEY)
+}
+
+export function mockResumeLabel(exam: StoredMock | null): string | null {
+  if (!exam) return null
+  if (exam.phase === 'results' || exam.phase === 'review') return 'Review last mock'
+  if (exam.phase === 'break') return 'Resume mock (break)'
+  return `Resume mock (session ${exam.session})`
 }

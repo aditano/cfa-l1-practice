@@ -1,10 +1,11 @@
 import { useEffect, useState } from 'react'
 
-export type RouteName = 'home' | 'practice' | 'progress'
+export type RouteName = 'home' | 'practice' | 'mock' | 'progress'
 
 function readRoute(): RouteName {
   const hash = window.location.hash.replace(/^#\/?/, '')
   if (hash.startsWith('practice')) return 'practice'
+  if (hash.startsWith('mock')) return 'mock'
   if (hash.startsWith('progress')) return 'progress'
   return 'home'
 }
@@ -42,6 +43,9 @@ export function Header({ route, go }: { route: RouteName; go: (route: RouteName)
           L1 Practice
         </button>
         <nav className="nav" aria-label="Primary">
+          <button type="button" className={route === 'mock' ? 'nav-link active' : 'nav-link'} onClick={() => go('mock')}>
+            Mock exam
+          </button>
           <button type="button" className={route === 'practice' ? 'nav-link active' : 'nav-link'} onClick={() => go('practice')}>
             Practice
           </button>

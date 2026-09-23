@@ -1,3 +1,4 @@
+import { balanceChoices, polishStem } from '../src/lib/choiceBalance.ts'
 import { getTopic } from '../src/curriculum.ts'
 import { LOS_HELP } from '../src/losHelp.ts'
 import type { Difficulty, EthicsKind, Question, TopicId } from '../src/types.ts'
@@ -43,7 +44,7 @@ export function q(
   if (new Set([draft.correct, draft.wrong[0], draft.wrong[1]]).size !== 3) {
     throw new Error(`Duplicate choices (${draft.losId}): ${draft.stem.slice(0, 100)}`)
   }
-  if (/\b(all|none) of the above\b/i.test(draft.stem)) {
+  if (/\b(all|none) of the above\b|\b(A and B only|B and C only|A and C only)\b|\bcannot determine\b|\bnot enough information\b|\btrue or false\b/i.test(draft.stem)) {
     throw new Error(`Banned stem phrasing (${draft.losId})`)
   }
   return draft
@@ -89,22 +90,6 @@ function hashString(value: string): number {
   return hash >>> 0
 }
 
-function shuffle3<T>(items: [T, T, T], seed: number): [T, T, T] {
-  const copy: [T, T, T] = [items[0], items[1], items[2]]
-  let state = seed || 1
-  const next = () => {
-    state = (Math.imul(state, 1664525) + 1013904223) >>> 0
-    return state / 4294967296
-  }
-  for (let i = 2; i > 0; i -= 1) {
-    const j = Math.floor(next() * (i + 1))
-    const tmp = copy[i]
-    copy[i] = copy[j]
-    copy[j] = tmp
-  }
-  return copy
-}
-
 export function finalizeTopic(topicId: TopicId, drafts: Draft[]): Question[] {
   const topic = getTopic(topicId)
   const losOrder = new Map(topic.los.map((los, index) => [los.id, index]))
@@ -120,12 +105,15 @@ export function finalizeTopic(topicId: TopicId, drafts: Draft[]): Question[] {
     if (draft.topicId !== topicId) throw new Error(`Topic mismatch for ${draft.losId}`)
     if (!losOrder.has(draft.losId)) throw new Error(`Unknown LOS ${draft.losId} on ${topicId}`)
     const id = `${topic.code}-${String(index + 1).padStart(4, '0')}`
-    const choices = shuffle3([draft.correct, draft.wrong[0], draft.wrong[1]], hashString(id))
-    const correctIndex = choices.indexOf(draft.correct)
-    if (correctIndex < 0 || correctIndex > 2) throw new Error(`Lost correct choice for ${id}`)
+    const stem = polishStem(draft.stem)
+    const balanced = balanceChoices(draft.correct, draft.wrong, hashString(`${id}:${stem}`))
+    const choices = balanced.choices
+    const correctIndex = balanced.correctIndex
+    if (new Set(choices).size !== 3) throw new Error(`Lost a distinct choice for ${id}`)
+    const keyed = choices[correctIndex]
     let explanation = draft.explanation
-    if (!explanation.includes(draft.correct)) {
-      explanation = `${explanation}\n\nBest answer: ${draft.correct}`
+    if (!explanation.includes(keyed)) {
+      explanation = `${explanation}\n\nBest answer: ${keyed}`
     }
     if (topicId === 'ethics' && !draft.ethicsKind) {
       throw new Error(`${id} is an ethics item without ethicsKind`)
@@ -144,9 +132,9 @@ export function finalizeTopic(topicId: TopicId, drafts: Draft[]): Question[] {
       topicId,
       losIds: [draft.losId],
       difficulty: draft.difficulty,
-      stem: draft.stem,
+      stem,
       choices,
-      correctIndex: correctIndex as 0 | 1 | 2,
+      correctIndex,
       explanation,
     }
     if (draft.ethicsStandard) question.ethicsStandard = draft.ethicsStandard

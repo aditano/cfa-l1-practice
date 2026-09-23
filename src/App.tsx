@@ -1,6 +1,7 @@
 import { Footer } from './components/Footer'
 import { Header, useRoute } from './components/Header'
 import { Home } from './components/Home'
+import { MockExam } from './components/MockExam'
 import { Practice } from './components/Practice'
 import { ProgressPage } from './components/ProgressPage'
 
@@ -15,6 +16,7 @@ export function App() {
       <main id="main">
         {route === 'home' ? <Home go={go} /> : null}
         {route === 'practice' ? <Practice /> : null}
+        {route === 'mock' ? <MockExam /> : null}
         {route === 'progress' ? <ProgressPage /> : null}
       </main>
       <Footer />

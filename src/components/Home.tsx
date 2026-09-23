@@ -1,12 +1,14 @@
 import { CURRICULUM_SOURCES, TOPICS } from '../curriculum'
 import manifest from '../data/manifest.json'
-import { clearStickyPreset, savePreset } from '../lib/storage'
+import { MOCK_ALLOCATION, MOCK_SESSION_MINUTES, MOCK_SESSION_SIZE } from '../lib/mockExam'
+import { clearStickyPreset, loadMock, mockResumeLabel, savePreset } from '../lib/storage'
 import type { RouteName } from './Header'
 
 const counts = manifest.byTopic as Record<string, number>
 
 export function Home({ go }: { go: (route: RouteName) => void }) {
   const total = manifest.total || TOPICS.reduce((sum, topic) => sum + topic.bankTarget, 0)
+  const resumeLabel = mockResumeLabel(loadMock())
   const startHard = () => {
     const losIds = TOPICS.filter((topic) => topic.hard).flatMap((topic) => topic.los.map((los) => los.id))
     savePreset({ losIds, label: 'Hard topics' })
@@ -18,11 +20,14 @@ export function Home({ go }: { go: (route: RouteName) => void }) {
         <p className="eyebrow">Level I · 2026 curriculum map</p>
         <h1>Practice the ten topics, one learning module at a time.</h1>
         <p className="lede">
-          {total.toLocaleString('en-US')} original three-choice items. Filter by topic and module, submit an answer,
-          then read the worked explanation. Scores stay in this browser. No account.
+          {total.toLocaleString('en-US')} original three-choice items. Practice by module, or sit a two-session mock with a{' '}
+          {MOCK_SESSION_MINUTES}:00 clock. Scores stay in this browser. No account.
         </p>
         <div className="hero-actions">
-          <button type="button" className="button primary" onClick={() => { clearStickyPreset(); go('practice') }}>
+          <button type="button" className="button primary" onClick={() => go('mock')}>
+            {resumeLabel ?? 'Mock exam'}
+          </button>
+          <button type="button" className="button" onClick={() => { clearStickyPreset(); go('practice') }}>
             Start practice
           </button>
           <button type="button" className="button" onClick={startHard}>
@@ -34,7 +39,8 @@ export function Home({ go }: { go: (route: RouteName) => void }) {
         <h2>Question bank and published weights</h2>
         <p className="muted">
           Counts are tilted toward Ethics and the heavier 2026 topics, and every share stays inside the published
-          weight range. Module titles follow the public 2026 Level I topic outline.
+          weight range. The mock column is the exam-day draw: {MOCK_SESSION_SIZE} items in each session, inside those
+          same weight ranges. Module titles follow the public 2026 Level I topic outline.
         </p>
         <div className="table-scroll">
           <table>
@@ -43,7 +49,8 @@ export function Home({ go }: { go: (route: RouteName) => void }) {
                 <th>Topic</th>
                 <th>Session</th>
                 <th>Exam weight</th>
-                <th>Questions</th>
+                <th>Bank</th>
+                <th>Mock</th>
               </tr>
             </thead>
             <tbody>
@@ -60,6 +67,7 @@ export function Home({ go }: { go: (route: RouteName) => void }) {
                       {topic.weightMin}–{topic.weightMax}%
                     </td>
                     <td>{count}</td>
+                    <td>{MOCK_ALLOCATION[topic.id]}</td>
                   </tr>
                 )
               })}

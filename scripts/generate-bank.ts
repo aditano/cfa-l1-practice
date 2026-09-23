@@ -49,7 +49,7 @@ function main(): void {
     console.log(`${topic.code} ${questions.length}`)
   }
   if (total !== BANK_TARGET_TOTAL) throw new Error(`Total ${total} !== ${BANK_TARGET_TOTAL}`)
-  const manifest = { version: '2026.1', total, byTopic, byLos }
+  const manifest = { version: '2026.2', total, byTopic, byLos }
   writeFileSync('src/data/manifest.json', `${JSON.stringify(manifest, null, 2)}\n`)
   const problems = validateBank()
   if (problems.length) {
