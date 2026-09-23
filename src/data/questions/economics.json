@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "ECO-0001",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "easy",
+    "stem": "Harbor Glass is a price taker in the container market. The going price is USD 40 a case, average total cost is USD 46, and average variable cost is USD 37. In the short run the firm should:",
+    "choices": [
+      "Keep producing in the short run, because price is above average variable cost and below average total cost.",
+      "Expand without limit, because a price above average variable cost is an economic profit.",
+      "Shut down immediately, because any price below average total cost destroys value."
+    ],
+    "correctIndex": 0,
+    "explanation": "Short-run shutdown compares price with average variable cost, not with average total cost. Here \\(AVC < P < ATC\\), so operating loses less than closing and paying fixed cost. Keep producing in the short run, because price is above average variable cost and below average total cost."
+  },
+  {
+    "id": "ECO-0002",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "medium",
+    "stem": "Kelso Metals sells into a competitive slab market. The price has fallen to USD 22 a tonne. Average variable cost is USD 25 and average total cost is USD 31. The short-run operating decision is:",
+    "choices": [
+      "Raise the posted price to USD 31, because a price taker can choose the price that covers total cost.",
+      "Keep producing, because a firm should shut down only when price is below average total cost.",
+      "Shut down in the short run, because price is below average variable cost."
+    ],
+    "correctIndex": 2,
+    "explanation": "If price is below average variable cost, each extra unit adds less revenue than variable cost, so the loss exceeds fixed cost. \\(P < AVC\\). Shut down in the short run, because price is below average variable cost."
+  },
+  {
+    "id": "ECO-0003",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "easy",
+    "stem": "Rowan Dairy sells milk into a competitive regional pool at USD 18 a unit. Average total cost is USD 14 and average variable cost is USD 9. The firm’s short-run economic result is:",
+    "choices": [
+      "A loss that should trigger shutdown, because variable cost is below total cost.",
+      "Earn an economic profit, because price is above average total cost.",
+      "Zero economic profit, because competitive firms are not allowed to earn more than normal profit in the short run."
+    ],
+    "correctIndex": 1,
+    "explanation": "Economic profit appears when price exceeds average total cost: \\(P > ATC\\). The gap here is USD 4 a unit. Earn an economic profit, because price is above average total cost."
+  },
+  {
+    "id": "ECO-0004",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "medium",
+    "stem": "A study of the market for standard glass bottles describes many sellers, an identical product, and no meaningful barrier to a new furnace. Demand facing one seller is flat at the market price. That structure is:",
+    "choices": [
+      "A monopoly, because a flat demand curve means the firm sets any price it wants.",
+      "Many sellers of the same product, free entry, and a horizontal demand curve facing each firm.",
+      "An oligopoly, because identical products are produced only by a handful of strategic rivals."
+    ],
+    "correctIndex": 1,
+    "explanation": "Perfect competition combines many firms, a homogeneous product, free entry, and \\(P = MR\\) for each seller. Many sellers of the same product, free entry, and a horizontal demand curve facing each firm."
+  },
+  {
+    "id": "ECO-0005",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "medium",
+    "stem": "Quill Software sells accounting apps that customers view as similar but not identical, and new vendors can enter. In a long-run monopolistic-competition equilibrium, the typical result is:",
+    "choices": [
+      "Differentiated products and free entry, so long-run price equals average total cost while still exceeding marginal cost.",
+      "A permanent economic profit, because product differentiation blocks all later entry.",
+      "Price equal to marginal cost, because free entry removes every gap between price and marginal cost."
+    ],
+    "correctIndex": 0,
+    "explanation": "Free entry pushes long-run economic profit to zero, so \\(P = ATC\\). Downward-sloping demand still leaves \\(P > MC\\). Differentiated products and free entry, so long-run price equals average total cost while still exceeding marginal cost."
+  },
+  {
+    "id": "ECO-0006",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "hard",
+    "stem": "Three national freight firms, including Lumen Rail, have privately agreed to hold a high tariff and to limit tonnage. The agreement is not enforced by a court. The instability in that arrangement is:",
+    "choices": [
+      "Each member can raise its own profit by quietly selling more than its quota, which can unravel the high price.",
+      "The agreement becomes more stable as the number of members rises, because more firms make cheating easier to spot.",
+      "No member can gain by cutting price, because oligopoly demand is perfectly elastic at the collusive price."
+    ],
+    "correctIndex": 0,
+    "explanation": "A collusive price sits above the cheat’s own marginal cost, so one firm’s extra tonnes are profitable if the others do not match. Each member can raise its own profit by quietly selling more than its quota, which can unravel the high price."
+  },
+  {
+    "id": "ECO-0007",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "medium",
+    "stem": "Marlowe Cement is the only permitted quarry in a valley, and imports cannot enter. For the profit-maximizing quantity and the price it posts, the firm should:",
+    "choices": [
+      "Produce where average total cost is minimized, because a monopolist is forced to the efficient scale.",
+      "Produce where price equals marginal cost, then hope entry does not occur.",
+      "Produce the quantity where marginal revenue equals marginal cost, then charge the price on the demand curve."
+    ],
+    "correctIndex": 2,
+    "explanation": "A single seller faces the market demand curve, so marginal revenue lies below price. The quantity rule is still \\(MR = MC\\), and the price is read off demand. Produce the quantity where marginal revenue equals marginal cost, then charge the price on the demand curve."
+  },
+  {
+    "id": "ECO-0008",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "easy",
+    "stem": "Analysts of a competitive mill sometimes treat “breaking even” and “shutting down” as the same price. For a firm with fixed costs, the distinction is:",
+    "choices": [
+      "Both points are the minimum of average variable cost, because fixed cost is ignored in the short run.",
+      "Economic profit is zero when price equals average total cost, which is a different point from the shutdown price.",
+      "Both points are the minimum of marginal cost, because marginal cost already includes fixed cost."
+    ],
+    "correctIndex": 1,
+    "explanation": "Breakeven is \\(P = ATC\\) and economic profit is zero. Shutdown in the short run is \\(P < AVC\\). Economic profit is zero when price equals average total cost, which is a different point from the shutdown price."
+  },
+  {
+    "id": "ECO-0009",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "hard",
+    "stem": "Three glass makers have market shares of 40%, 30%, and 30%. The 40% firm then merges with one 30% firm, leaving shares of 70% and 30%. Using \\(HHI=\\sum s_i^2\\) with shares in percentage points, the increase in the HHI is closest to:",
+    "choices": [
+      "5800",
+      "2400",
+      "3400"
+    ],
+    "correctIndex": 1,
+    "explanation": "The pre-merger HHI is \\(40^2+30^2+30^2=3400\\) and the post-merger HHI is \\(70^2+30^2=5800\\). The increase is \\[5800-3400=2400\\]. That increase is 2400. The level of the index, before or after, is not the change."
+  },
+  {
+    "id": "ECO-0010",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "medium",
+    "stem": "Bramble Utilities runs the only electric distribution network in a city. Average total cost keeps falling over the entire range of kilowatt-hours the city will buy. This cost shape is the usual reason to call the firm:",
+    "choices": [
+      "Average total cost is still falling across the demand the market will buy, so one network can serve it more cheaply than two.",
+      "A monopolistic competitor, because falling average cost requires many differentiated brands.",
+      "A perfectly competitive firm, because falling average cost means price equals marginal cost."
+    ],
+    "correctIndex": 0,
+    "explanation": "A natural monopoly has declining average cost through the relevant demand, so splitting output across two networks raises \\(ATC\\). Average total cost is still falling across the demand the market will buy, so one network can serve it more cheaply than two."
+  },
+  {
+    "id": "ECO-0011",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "hard",
+    "stem": "For a perfectly competitive firm that can pause production, the short-run supply curve is:",
+    "choices": [
+      "The marginal-cost curve above average variable cost, because the firm produces only when price covers variable cost.",
+      "A vertical line at the efficient scale, because competitive firms do not respond to price.",
+      "The entire average-total-cost curve, because the firm must cover fixed cost on every unit."
+    ],
+    "correctIndex": 0,
+    "explanation": "The firm produces where \\(P = MC\\) only if \\(P \\ge AVC\\). Below that price, quantity supplied is zero. The marginal-cost curve above average variable cost, because the firm produces only when price covers variable cost."
+  },
+  {
+    "id": "ECO-0012",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "easy",
+    "stem": "Across perfect competition, monopolistic competition, oligopoly, and monopoly, the quantity condition that stays the same, and the extra condition that does not, are:",
+    "choices": [
+      "Every structure sets price equal to marginal cost, and only monopoly sets marginal revenue equal to marginal cost.",
+      "Every structure sets marginal revenue equal to marginal cost, and only perfect competition also has marginal revenue equal to price.",
+      "Only oligopoly sets marginal revenue equal to marginal cost, because strategic firms ignore marginal cost."
+    ],
+    "correctIndex": 1,
+    "explanation": "Profit maximization is \\(MR = MC\\) in each structure. Price and marginal revenue coincide only when demand facing the firm is horizontal. Every structure sets marginal revenue equal to marginal cost, and only perfect competition also has marginal revenue equal to price."
+  },
+  {
+    "id": "ECO-0013",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "medium",
+    "stem": "Two reports describe the same cement market. One quotes a four-firm concentration ratio. The other quotes an HHI that uses every firm’s share. A reason to prefer the HHI when the top four are very unequal is:",
+    "choices": [
+      "The four-firm ratio squares every share, so it already penalizes inequality inside the top four.",
+      "The four-firm ratio ignores how unequal the top four are, while the HHI squares every firm’s share.",
+      "The HHI ignores the largest firm, so it is useful only in monopolistic competition."
+    ],
+    "correctIndex": 1,
+    "explanation": "The four-firm ratio is a sum of shares. The HHI is \\(\\sum s_i^2\\), so a 70/10/10/10 top four scores differently from a 25/25/25/25 top four even when both ratios equal 100. The four-firm ratio ignores how unequal the top four are, while the HHI squares every firm’s share."
+  },
+  {
+    "id": "ECO-0014",
+    "topicId": "economics",
+    "losIds": [
+      "eco-structures"
+    ],
+    "difficulty": "hard",
+    "stem": "Harbor Glass, still a price taker, expects to sell 1,000 cases at USD 40. Average total cost is USD 46 and average variable cost is USD 37. Using \\((ATC-P)\\times Q\\), economic loss if the firm produces is closest to:",
+    "choices": [
+      "USD 6,000.00",
+      "USD 3,000.00",
+      "USD 9,000.00"
+    ],
+    "correctIndex": 0,
+    "explanation": "Producing loses the gap between average total cost and price on every case: \\[(46-40)\\times 1000=6000\\]. The loss is USD 6,000.00. Shutting down would instead lose fixed cost of \\((46-37)\\times 1000=9000\\), which is larger, and the USD 3 contribution margin is not a loss figure."
+  },
+  {
+    "id": "ECO-0015",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "easy",
+    "stem": "A business-cycle chronology marks a trough in the quarter just ended. The phase that follows a trough, if the dating is the standard four-phase sequence, is:",
+    "choices": [
+      "A peak, because the trough is defined as the high point of output.",
+      "An expansion, the phase in which output and employment are recovering from the bottom.",
+      "A contraction, because output falls for at least a year after every trough."
+    ],
+    "correctIndex": 1,
+    "explanation": "The usual sequence runs trough, expansion, peak, contraction. The phase after the bottom is the expansion. An expansion, the phase in which output and employment are recovering from the bottom."
+  },
+  {
+    "id": "ECO-0016",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "medium",
+    "stem": "An analyst sorts three series: new building permits, an industrial production index, and the unemployment rate. In the usual classification of cyclical indicators, these three line up as:",
+    "choices": [
+      "All three coincide with current output, because any official series is coincident by definition.",
+      "Building permits tend to lead, industrial production tends to coincide, and the unemployment rate tends to lag.",
+      "Unemployment leads, industrial production lags, and permits are not cyclical."
+    ],
+    "correctIndex": 1,
+    "explanation": "Leading series move before output, coincident series move with it, and lagging series move after. Permits are a classic lead, production a coincident read, and unemployment a lag. Building permits tend to lead, industrial production tends to coincide, and the unemployment rate tends to lag."
+  },
+  {
+    "id": "ECO-0017",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "medium",
+    "stem": "During a contraction, banks tighten standards and a large lender to Northline Foods’s customers calls in lines of credit. Real spending had already slowed. The extra damage from the credit tightening is an example of:",
+    "choices": [
+      "A purely seasonal inventory swing, because credit standards only change with the holiday calendar.",
+      "A lagging price index, because credit terms are a measure of consumer-price inflation.",
+      "A credit crunch can deepen a downturn even after the original spending shock has faded."
+    ],
+    "correctIndex": 2,
+    "explanation": "The credit cycle can amplify the business cycle. When lenders pull credit, spending falls further. A credit crunch can deepen a downturn even after the original spending shock has faded."
+  },
+  {
+    "id": "ECO-0018",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "easy",
+    "stem": "Early in a recovery, Northline Foods raises factory output faster than grocery sales are rising, because warehouse stocks were run down in the recession. That pattern is:",
+    "choices": [
+      "Early recovery production can exceed final sales while firms rebuild inventories.",
+      "A sign the recovery has already ended, because production above sales is possible only at a peak.",
+      "A lagging indicator of inflation, because inventory rebuilding is a price index."
+    ],
+    "correctIndex": 0,
+    "explanation": "Inventory restocking adds a temporary gap between production and final sales at the start of an expansion. Early recovery production can exceed final sales while firms rebuild inventories."
+  },
+  {
+    "id": "ECO-0019",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "hard",
+    "stem": "Late in a long expansion, job openings are high, wage growth has picked up, and inflation is above its recent range. Unemployment is still edging down. A careful cyclical reading is:",
+    "choices": [
+      "The expansion has already ended, because unemployment cannot fall unless output is contracting.",
+      "Inflation pressure and a tight labor market often build before the peak, while unemployment is slower to turn.",
+      "Inflation leads the labor market by several years, so rising wages are a sign of an early recovery."
+    ],
+    "correctIndex": 1,
+    "explanation": "Labor-market tightness and inflation often show up late in the expansion. Unemployment itself usually turns only after the peak. Inflation pressure and a tight labor market often build before the peak, while unemployment is slower to turn."
+  },
+  {
+    "id": "ECO-0020",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "medium",
+    "stem": "Bramble Utilities sells regulated electric service to households. Lumen Rail hauls steel, grain, and finished goods. Across a typical business cycle, the more cyclical revenue stream is:",
+    "choices": [
+      "Bramble’s household power sales, because regulated utilities amplify every inventory cycle.",
+      "Lumen Rail’s freight volumes are the more cyclical of the two, because they track goods production.",
+      "Neither, because both firms sell a necessity and both revenues are noncyclical."
+    ],
+    "correctIndex": 1,
+    "explanation": "Freight volumes move with industrial production. Household electricity is steadier. Lumen Rail’s freight volumes are the more cyclical of the two, because they track goods production."
+  },
+  {
+    "id": "ECO-0021",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "easy",
+    "stem": "A statistics office estimates that actual real GDP is 2% above its estimate of potential GDP. That positive output gap means:",
+    "choices": [
+      "The economy is in a trough, because a positive gap is the definition of unused capacity.",
+      "Actual output is above estimated potential, a setting that often adds to inflation pressure.",
+      "Fiscal policy must be expansionary, because a positive gap means demand is short of supply."
+    ],
+    "correctIndex": 1,
+    "explanation": "The output gap is \\((Y-\\bar{Y})/\\bar{Y}\\). A positive value means actual output is above potential. Actual output is above estimated potential, a setting that often adds to inflation pressure."
+  },
+  {
+    "id": "ECO-0022",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "medium",
+    "stem": "Commentators call the latest quarter a “peak” because real GDP printed its highest level of the expansion. In cycle dating, a peak is specifically:",
+    "choices": [
+      "The peak is the turning point from expansion into contraction, not the start of the recovery.",
+      "Any quarter in which GDP is positive, whether or not the next quarter falls.",
+      "The first quarter of positive growth after a recession, also called a trough."
+    ],
+    "correctIndex": 0,
+    "explanation": "A peak is a turning point. The level can be the high of the cycle, and the next phase is contraction. The peak is the turning point from expansion into contraction, not the start of the recovery."
+  },
+  {
+    "id": "ECO-0023",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "hard",
+    "stem": "Real output has started to contract, but year-over-year consumer inflation is still climbing. A reason this combination can happen early in a downturn is:",
+    "choices": [
+      "Inflation is a leading indicator, so it must turn down in the same month output turns down.",
+      "A contraction is defined as falling prices, so the output decline cannot be a contraction.",
+      "Consumer inflation can still be rising in the early months of a contraction, because prices react with a delay."
+    ],
+    "correctIndex": 2,
+    "explanation": "Prices and wages are slower to adjust than production. Inflation often lags the turn in output. Consumer inflation can still be rising in the early months of a contraction, because prices react with a delay."
+  },
+  {
+    "id": "ECO-0024",
+    "topicId": "economics",
+    "losIds": [
+      "eco-cycles"
+    ],
+    "difficulty": "medium",
+    "stem": "One leading series, a weekly freight index for Lumen Rail, drops for a single week. A portfolio group is tempted to declare a recession. The more defensible use of indicators is:",
+    "choices": [
+      "A single leading series is decisive, because leading indicators do not give false signals.",
+      "Ignore every indicator and date the cycle only from the unemployment rate, which leads output.",
+      "One soft print is not a phase call; analysts look for a cluster of indicators that agree."
+    ],
+    "correctIndex": 2,
+    "explanation": "Indicators are noisy. Phase calls rest on several series, revised data, and the distinction between leading and coincident measures. One soft print is not a phase call; analysts look for a cluster of indicators that agree."
+  },
+  {
+    "id": "ECO-0025",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "easy",
+    "stem": "A government wants to support demand during a contraction. Within ordinary fiscal policy, the expansionary tools are:",
+    "choices": [
+      "Higher tax rates and lower purchases, which raise private disposable income.",
+      "Higher government purchases or lower tax rates, aimed at raising aggregate demand.",
+      "An open-market sale of securities, which is a fiscal decision of the legislature."
+    ],
+    "correctIndex": 1,
+    "explanation": "Fiscal expansion adds to demand through spending or through tax cuts that lift disposable income. Higher government purchases or lower tax rates, aimed at raising aggregate demand."
+  },
+  {
+    "id": "ECO-0026",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "medium",
+    "stem": "A recession raises unemployment-benefit outlays and lowers tax collections under an unchanged tax code. No new statute is passed. These movements are:",
+    "choices": [
+      "Unemployment benefits and progressive taxes change the deficit without a new spending law.",
+      "Monetary operations, because benefit checks are a central-bank liability.",
+      "Discretionary stimulus, because any change in the deficit requires a fresh vote."
+    ],
+    "correctIndex": 0,
+    "explanation": "Automatic stabilizers move the budget with the cycle under rules already in place. They do not wait on a new law. Unemployment benefits and progressive taxes change the deficit without a new spending law."
+  },
+  {
+    "id": "ECO-0027",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "hard",
+    "stem": "Parliament begins designing a public-works package six months after a recession starts, argues for another nine months, and the projects hire workers only in the following year. The practical limit this illustrates is:",
+    "choices": [
+      "Recognition, legislative action, and impact lags can deliver a stimulus after the trough has passed.",
+      "Crowding out, which is the delay between recognizing a recession and publishing the data.",
+      "Automatic stabilizers, which are slow precisely because they require no legislation."
+    ],
+    "correctIndex": 0,
+    "explanation": "Discretionary fiscal policy faces a recognition lag, an action lag, and an impact lag. A project-based stimulus can arrive late. Recognition, legislative action, and impact lags can deliver a stimulus after the trough has passed."
+  },
+  {
+    "id": "ECO-0028",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "medium",
+    "stem": "The economy is already near estimated potential when the treasury issues a large bond-financed spending program. Private firms postpone Kelso Metals plant projects as yields rise. That offset is:",
+    "choices": [
+      "Government borrowing can lift interest rates and displace some private investment, especially near full employment.",
+      "An automatic stabilizer, because higher yields reduce the structural deficit by definition.",
+      "A liquidity trap, which occurs when government spending lowers interest rates to zero."
+    ],
+    "correctIndex": 0,
+    "explanation": "Crowding out is the interest-rate channel that offsets part of a fiscal expansion. It is stronger when idle resources are scarce. Government borrowing can lift interest rates and displace some private investment, especially near full employment."
+  },
+  {
+    "id": "ECO-0029",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "easy",
+    "stem": "A budget office separates the deficit that would remain if the economy were at potential from the extra deficit caused by a recession. The pair of labels is:",
+    "choices": [
+      "A cyclical deficit shrinks as the economy recovers; a structural deficit would remain at full employment.",
+      "Both pieces are cyclical, because the full-employment deficit moves one-for-one with unemployment.",
+      "Both pieces are structural, because every deficit is independent of the cycle."
+    ],
+    "correctIndex": 0,
+    "explanation": "The cyclical piece is the cycle’s effect on revenue and transfers. The structural piece is what is left at potential output. A cyclical deficit shrinks as the economy recovers; a structural deficit would remain at full employment."
+  },
+  {
+    "id": "ECO-0030",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "medium",
+    "stem": "Nominal government debt rises 3% in a year and nominal GDP rises 6%. For the debt-to-GDP ratio, the arithmetic implication is:",
+    "choices": [
+      "The debt-to-GDP ratio can fall while debt still grows, if nominal GDP grows faster than the debt.",
+      "The ratio must rise, because any increase in debt raises the ratio regardless of GDP.",
+      "The ratio is unchanged, because debt and GDP are the same object."
+    ],
+    "correctIndex": 0,
+    "explanation": "The ratio is \\(D/Y\\). If \\(Y\\) grows faster than \\(D\\), the ratio falls even though the debt stock is larger. The debt-to-GDP ratio can fall while debt still grows, if nominal GDP grows faster than the debt."
+  },
+  {
+    "id": "ECO-0031",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "hard",
+    "stem": "Households are estimated to spend 75 cents of an extra dollar of disposable income. In the simple model where the spending multiplier is \\(1/(1-MPC)\\), the multiplier on a government-purchases increase is closest to:",
+    "choices": [
+      "0.75",
+      "4.00",
+      "1.75"
+    ],
+    "correctIndex": 1,
+    "explanation": "With an MPC of 0.75, the simple multiplier is \\[1/(1-0.75)=4\\]. It equals 4.00. The MPC itself is not the multiplier, and one plus the MPC is a different expression."
+  },
+  {
+    "id": "ECO-0032",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "easy",
+    "stem": "A finance ministry compares a USD 1 billion increase in road building with a USD 1 billion increase in cash transfers to households. On the way each item reaches measured demand:",
+    "choices": [
+      "Both enter GDP dollar for dollar on day one, because a transfer is a government purchase of goods.",
+      "Neither can affect demand, because only tax-rate changes are fiscal policy.",
+      "Government purchases enter GDP directly; transfers enter only to the extent recipients spend them."
+    ],
+    "correctIndex": 2,
+    "explanation": "Purchases are spending on goods and services. Transfers become demand only when someone spends them, and some of the cash is saved. Government purchases enter GDP directly; transfers enter only to the extent recipients spend them."
+  },
+  {
+    "id": "ECO-0033",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "hard",
+    "stem": "A temporary income-tax cut is expected, by some households, to be followed by higher taxes later. Those households save the cut. The demand effect of the cut is then smaller than a simple multiplier suggests. This dampener is:",
+    "choices": [
+      "Some households may save a tax cut because they expect future taxes, which can dampen the demand effect.",
+      "An open-market operation, because the tax cut is implemented by the central bank’s balance sheet.",
+      "Proof that tax cuts always reduce saving, because households spend every windfall."
+    ],
+    "correctIndex": 0,
+    "explanation": "If people treat a tax cut as a loan from the future, private saving rises and the rise in consumption is muted. Some households may save a tax cut because they expect future taxes, which can dampen the demand effect. It is a possible offset, not a reason to ignore the deficit."
+  },
+  {
+    "id": "ECO-0034",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fiscal"
+    ],
+    "difficulty": "medium",
+    "stem": "The treasury finances a deficit by selling bills that the central bank buys and holds, expanding the monetary base. Compared with selling those bills to private savers, this financing is:",
+    "choices": [
+      "Financing the deficit by central-bank money creation is more inflationary, in the extreme, than borrowing from private savers.",
+      "Identical in every respect, because the holder of the bill does not change the deficit.",
+      "Less inflationary, because central-bank purchases destroy the monetary base."
+    ],
+    "correctIndex": 0,
+    "explanation": "Monetizing a deficit couples fiscal expansion with money creation. Private financing absorbs saving instead. Financing the deficit by central-bank money creation is more inflationary, in the extreme, than borrowing from private savers."
+  },
+  {
+    "id": "ECO-0035",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "easy",
+    "stem": "The central bank buys government securities in the open market and pays the sellers by crediting bank reserves. In a corridor or floor system that is not stuck at the effective lower bound, this operation:",
+    "choices": [
+      "Adds reserves and, in normal times, puts downward pressure on the policy rate.",
+      "Drains reserves and pushes the policy rate up, because a purchase is a sale from the banking system’s point of view.",
+      "Has no effect on reserves, because open-market operations change only the fiscal deficit."
+    ],
+    "correctIndex": 0,
+    "explanation": "An open-market purchase increases the monetary base. More reserves, in normal times, ease the policy rate. Adds reserves and, in normal times, puts downward pressure on the policy rate."
+  },
+  {
+    "id": "ECO-0036",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "medium",
+    "stem": "A cut in the policy rate is meant to affect inflation and output through several links, not in a single step. The usual transmission runs:",
+    "choices": [
+      "Directly from the policy rate to potential GDP, with no effect on lending rates or the currency.",
+      "Only through commercial-bank equity prices, with no path through borrowing or the exchange rate.",
+      "From the policy rate to lending rates, asset prices, the exchange rate, spending, and then inflation."
+    ],
+    "correctIndex": 2,
+    "explanation": "Transmission is a chain: funding costs, credit, wealth, the exchange rate, then spending and prices. From the policy rate to lending rates, asset prices, the exchange rate, spending, and then inflation."
+  },
+  {
+    "id": "ECO-0037",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "easy",
+    "stem": "Inflation is above the announced target and the output gap is positive. Under an inflation-targeting mandate, the orthodox next step is to:",
+    "choices": [
+      "Tighten policy, because inflation is above target and the output gap is positive.",
+      "Fix the exchange rate and stop setting a policy rate, because targets apply only to the currency.",
+      "Ease policy, because a positive output gap means demand is below potential."
+    ],
+    "correctIndex": 0,
+    "explanation": "Above-target inflation with an economy above potential calls for a higher policy rate, not a cut. Tighten policy, because inflation is above target and the output gap is positive."
+  },
+  {
+    "id": "ECO-0038",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "medium",
+    "stem": "Staff describe a real short-term rate that would keep inflation at target without pushing the output gap in either direction. That benchmark is:",
+    "choices": [
+      "The real policy stance that neither stimulates nor restrains demand when inflation is at target.",
+      "The fiscal multiplier, which is a monetary-policy instrument set by the legislature.",
+      "The zero lower bound, which is defined as the rate that maximizes inflation."
+    ],
+    "correctIndex": 0,
+    "explanation": "The neutral real rate is a stance benchmark. Policy below it is expansionary in real terms; policy above it is restrictive. The real policy stance that neither stimulates nor restrains demand when inflation is at target."
+  },
+  {
+    "id": "ECO-0039",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "hard",
+    "stem": "A real risk-free rate is 1.50% and expected inflation is 3.00%. Using the exact Fisher relation \\((1+i)=(1+r)(1+\\pi^e)\\), the nominal rate is closest to:",
+    "choices": [
+      "4.54%",
+      "1.50%",
+      "4.50%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Multiply the gross real rate by the gross inflation factor: \\[(1.015)(1.03)-1\\]. The nominal rate is 4.54%. Adding the two percentages is the common approximation, and subtracting them is the real-minus-inflation gap, not the nominal rate."
+  },
+  {
+    "id": "ECO-0040",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "medium",
+    "stem": "The policy rate is already near zero, and the central bank begins buying longer-maturity government bonds in size in order to lower those yields. This operation is:",
+    "choices": [
+      "A reserve-requirement cut, because bond purchases are implemented by changing the required-reserve ratio.",
+      "A fiscal transfer, because the bonds leave the private sector’s tax bill unchanged by law.",
+      "Buying longer-term assets to lower those yields when the policy rate is already near its floor."
+    ],
+    "correctIndex": 2,
+    "explanation": "Quantitative easing extends easing along the curve when the overnight rate has little room left. Buying longer-term assets to lower those yields when the policy rate is already near its floor."
+  },
+  {
+    "id": "ECO-0041",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "easy",
+    "stem": "A central bank that still uses a required-reserve ratio raises that ratio for commercial banks. Holding other tools fixed, the direction of this change is:",
+    "choices": [
+      "An easing, because banks lend more when they must hold more reserves against deposits.",
+      "An increase in reserve requirements is a tightening tool, even if many central banks now rely more on the policy rate.",
+      "A fiscal tightening, because reserve requirements are a tax rate set in the budget."
+    ],
+    "correctIndex": 1,
+    "explanation": "A higher reserve requirement immobilizes more of the banking system’s reserves and is a tightening instrument. An increase in reserve requirements is a tightening tool, even if many central banks now rely more on the policy rate."
+  },
+  {
+    "id": "ECO-0042",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "medium",
+    "stem": "The central bank lifts the policy rate while inflation abroad is unchanged. Through the exchange-rate channel, the usual pressure on the domestic currency and on net exports is:",
+    "choices": [
+      "A higher policy rate tends to appreciate the currency, which leans against net exports and against import prices.",
+      "Depreciation, because a higher policy rate reduces foreign demand for domestic assets.",
+      "No currency effect, because interest rates and exchange rates are set in separate markets that do not meet."
+    ],
+    "correctIndex": 0,
+    "explanation": "Higher domestic rates attract capital and tend to appreciate the currency. A stronger currency leans against exports and import-price inflation. A higher policy rate tends to appreciate the currency, which leans against net exports and against import prices."
+  },
+  {
+    "id": "ECO-0043",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "hard",
+    "stem": "The central bank has announced both a money-supply target and an interest-rate target. Money demand then shifts because of a payments innovation. The conflict is:",
+    "choices": [
+      "If money demand shifts, the bank cannot hold both the money stock and the interest rate at preset targets.",
+      "The fiscal deficit automatically adjusts so that both targets remain feasible.",
+      "Both targets can still be hit, because money demand does not affect the rate or the quantity."
+    ],
+    "correctIndex": 0,
+    "explanation": "The demand for money links the quantity of money and the interest rate. A shift in that demand makes one target miss if the other is held. If money demand shifts, the bank cannot hold both the money stock and the interest rate at preset targets."
+  },
+  {
+    "id": "ECO-0044",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "medium",
+    "stem": "A central bank publishes a 2% inflation goal, explains its forecasts, and moves the policy rate when inflation is expected to miss that goal over a two-year horizon. This regime is:",
+    "choices": [
+      "A money-supply target, because the announced number is a growth rate of currency.",
+      "The bank announces an inflation goal and steers policy toward it over a horizon, accepting short-run output swings.",
+      "A fixed exchange rate, because 2% is the allowed band around the peg."
+    ],
+    "correctIndex": 1,
+    "explanation": "Inflation targeting uses the policy rate, and often communication, to steer inflation toward a public number. Output may vary in the short run. The bank announces an inflation goal and steers policy toward it over a horizon, accepting short-run output swings."
+  },
+  {
+    "id": "ECO-0045",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "hard",
+    "stem": "A solvent bank faces a deposit run and borrows overnight from the central bank against good collateral. Distinguishing that loan from monetary policy aimed at inflation:",
+    "choices": [
+      "Emergency lending to a solvent bank is not the same decision as setting the policy rate to hit an inflation goal.",
+      "They are the same tool, because every reserve credit is an open-market purchase designed to hit the inflation target.",
+      "The loan is a fiscal transfer and cannot be collateralized, because central banks do not lend."
+    ],
+    "correctIndex": 0,
+    "explanation": "Lender-of-last-resort credit addresses a liquidity run at a solvent firm. The policy rate addresses inflation and the output gap. Emergency lending to a solvent bank is not the same decision as setting the policy rate to hit an inflation goal."
+  },
+  {
+    "id": "ECO-0046",
+    "topicId": "economics",
+    "losIds": [
+      "eco-monetary"
+    ],
+    "difficulty": "easy",
+    "stem": "Inflation is well above target and output is above estimated potential. A proposal to cut the policy rate “to support asset prices” would, under the inflation mandate:",
+    "choices": [
+      "A rate cut would conflict with an inflation target while the economy is above capacity and inflation is high.",
+      "Be neutral, because policy-rate cuts cannot affect inflation once output is above potential.",
+      "Be required, because asset prices are the only variable in an inflation target."
+    ],
+    "correctIndex": 0,
+    "explanation": "Easing into an overheating, above-target economy pushes against the mandate. A rate cut would conflict with an inflation target while the economy is above capacity and inflation is high."
+  },
+  {
+    "id": "ECO-0047",
+    "topicId": "economics",
+    "losIds": [
+      "eco-geopolitics"
+    ],
+    "difficulty": "easy",
+    "stem": "Harbor Glass’s home government and a host government sign a treaty that sets a neutral forum for investment disputes. As a geopolitical setting, the treaty is best described as:",
+    "choices": [
+      "An act of rivalry that, by itself, bans every cross-border capital flow.",
+      "A monetary-policy tool that sets the host country’s policy rate.",
+      "A cooperative arrangement that reduces some uncertainty for investors who cross the border."
+    ],
+    "correctIndex": 2,
+    "explanation": "Cooperation uses agreements and shared forums to lower some frictions. A dispute treaty is that kind of arrangement. A cooperative arrangement that reduces some uncertainty for investors who cross the border."
+  },
+  {
+    "id": "ECO-0048",
+    "topicId": "economics",
+    "losIds": [
+      "eco-geopolitics"
+    ],
+    "difficulty": "medium",
+    "stem": "A portfolio holds Kelso Metals bonds and a Redkite Mining project in a country that is arguing with its neighbors. Channels through which geopolitics can reach those holdings include:",
+    "choices": [
+      "Sanctions, export controls, tariffs, and expropriation can change both cash flows and the discount rate.",
+      "Only the domestic policy rate, because geopolitics cannot change taxes, trade, or ownership.",
+      "Only accounting depreciation, because political actions never affect cash."
+    ],
+    "correctIndex": 0,
+    "explanation": "States use economic tools as well as military ones. Sanctions and takings show up in expected cash flows and in risk premiums. Sanctions, export controls, tariffs, and expropriation can change both cash flows and the discount rate."
+  },
+  {
+    "id": "ECO-0049",
+    "topicId": "economics",
+    "losIds": [
+      "eco-geopolitics"
+    ],
+    "difficulty": "medium",
+    "stem": "One risk is a licensing fight that affects a single Redkite pit. Another is a blockade that removes a large share of world fuel supply. For a diversified equity book, the distinction is:",
+    "choices": [
+      "A global energy shock is harder to diversify than a dispute that is confined to one small market.",
+      "Both risks are fully diversifiable, because politics is always idiosyncratic.",
+      "The fuel blockade is easier to diversify, because global shocks cancel inside every portfolio."
+    ],
+    "correctIndex": 0,
+    "explanation": "Country-specific political risk can be spread across countries. A shock that hits a global input does not. A global energy shock is harder to diversify than a dispute that is confined to one small market."
+  },
+  {
+    "id": "ECO-0050",
+    "topicId": "economics",
+    "losIds": [
+      "eco-geopolitics"
+    ],
+    "difficulty": "easy",
+    "stem": "A development lender, owned by many governments, finances a port and a power line in a lower-income country and is repaid over many years. Relative to the IMF and the WTO, this World Bank-style role is:",
+    "choices": [
+      "The World Bank funds long-horizon development projects; it does not adjudicate trade disputes or set a member’s policy rate.",
+      "The same as the WTO, because development loans are trade-dispute rulings under another name.",
+      "The same as a central bank, because project loans set the borrower’s overnight policy rate."
+    ],
+    "correctIndex": 0,
+    "explanation": "Development banks fund projects and capacity. The IMF is associated with balance-of-payments support, and the WTO with trade rules. The World Bank funds long-horizon development projects; it does not adjudicate trade disputes or set a member’s policy rate."
+  },
+  {
+    "id": "ECO-0051",
+    "topicId": "economics",
+    "losIds": [
+      "eco-geopolitics"
+    ],
+    "difficulty": "hard",
+    "stem": "Two trading blocs raise barriers on each other’s electronics, and Nimbus Components has to duplicate a plant on each side. No armed conflict occurs. The portfolio implication is:",
+    "choices": [
+      "No cost change is possible, because geopolitical risk requires an armed conflict before cash flows move.",
+      "Lower operating cost, because splitting a supply chain always removes tariffs.",
+      "Supply chains can split and costs can rise even when no army is mobilized, if blocs stop trading freely."
+    ],
+    "correctIndex": 2,
+    "explanation": "Rivalry can be economic. Duplicate plants and restricted trade raise costs without a battlefield. Supply chains can split and costs can rise even when no army is mobilized, if blocs stop trading freely."
+  },
+  {
+    "id": "ECO-0052",
+    "topicId": "economics",
+    "losIds": [
+      "eco-geopolitics"
+    ],
+    "difficulty": "medium",
+    "stem": "A host government imposes an unexpected windfall tax on Rowan Dairy’s local affiliate and threatens to revoke its water permit. There is no dispute with another country. This risk is:",
+    "choices": [
+      "An interstate war risk, because every tax is a conflict between governments.",
+      "A monetary-policy surprise, because a permit is an open-market operation.",
+      "A surprise tax or a cancelled permit is domestic political risk, distinct from a conflict between states."
+    ],
+    "correctIndex": 2,
+    "explanation": "Domestic political risk comes from the host’s own policy toward the firm. Interstate geopolitics involves other states. A surprise tax or a cancelled permit is domestic political risk, distinct from a conflict between states."
+  },
+  {
+    "id": "ECO-0053",
+    "topicId": "economics",
+    "losIds": [
+      "eco-geopolitics"
+    ],
+    "difficulty": "hard",
+    "stem": "A risk team has three stories for a shipping lane: open, tolled, or closed. Historical data do not contain a closure. A useful way to bring this into a valuation is:",
+    "choices": [
+      "Scenario analysis is the practical tool, because these risks often lack a stable historical frequency.",
+      "Ignoring the lane, because risks without a long price history have a present value of zero.",
+      "A single probability taken from a normal distribution, because every political event has a known variance."
+    ],
+    "correctIndex": 0,
+    "explanation": "When frequencies are thin, coherent scenarios and stressed cash flows communicate more than a false precision. Scenario analysis is the practical tool, because these risks often lack a stable historical frequency."
+  },
+  {
+    "id": "ECO-0054",
+    "topicId": "economics",
+    "losIds": [
+      "eco-geopolitics"
+    ],
+    "difficulty": "medium",
+    "stem": "The host government nationalizes Redkite Mining’s local subsidiary and pays compensation below the project’s going-concern value. For later foreign projects in that country, a likely market response is:",
+    "choices": [
+      "A taking of the local asset would transfer value away from foreign owners and lift required returns on similar projects.",
+      "A lower required return, because nationalization removes operating risk for the remaining private owners.",
+      "No change in required returns, because a taking in one project cannot affect the discount rate on another."
+    ],
+    "correctIndex": 0,
+    "explanation": "Expropriation cuts the cash flows of the taken asset and raises the political-risk premium investors demand nearby. A taking of the local asset would transfer value away from foreign owners and lift required returns on similar projects."
+  },
+  {
+    "id": "ECO-0055",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "easy",
+    "stem": "Country A uses fewer labor hours than Country B to produce both glass and grain. Country B still has a lower opportunity cost in grain. The case for B to export grain rests on:",
+    "choices": [
+      "Each country gains by specializing where its opportunity cost is lower, even if one country is absolutely faster at both goods.",
+      "Absolute advantage only, so B should import both goods because A is faster at each.",
+      "A rule that the larger country exports both goods, regardless of opportunity cost."
+    ],
+    "correctIndex": 0,
+    "explanation": "Comparative advantage is about opportunity cost, not about who is absolutely more productive. Each country gains by specializing where its opportunity cost is lower, even if one country is absolutely faster at both goods."
+  },
+  {
+    "id": "ECO-0056",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "medium",
+    "stem": "A briefing says Harbor Glass’s home country has an absolute advantage in bottles because it uses less energy per bottle than its trading partner. That statement, by itself, does not identify:",
+    "choices": [
+      "Which country uses fewer inputs, because absolute advantage is silent on input use.",
+      "Whether energy is an input, because absolute advantage counts only labor in every industry.",
+      "Absolute advantage compares input use; it is not the rule that decides who should export which good."
+    ],
+    "correctIndex": 2,
+    "explanation": "Absolute advantage answers “who is more productive.” Comparative advantage answers “who gives up less of the other good.” Absolute advantage compares input use; it is not the rule that decides who should export which good."
+  },
+  {
+    "id": "ECO-0057",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "medium",
+    "stem": "The home government puts a tariff on imported cement. Domestic producers, consumers, the treasury, and overall efficiency are affected as follows:",
+    "choices": [
+      "The domestic price falls, imports rise, and the treasury pays the foreign exporter a subsidy.",
+      "Consumers gain, producers lose, and there is no efficiency loss because a tariff only transfers income.",
+      "The domestic price rises, imports fall, the government collects tariff revenue, and there is a deadweight loss."
+    ],
+    "correctIndex": 2,
+    "explanation": "A tariff drives a wedge between the world price and the domestic price. Producers gain, consumers lose, the treasury gains revenue, and some surplus is lost. The domestic price rises, imports fall, the government collects tariff revenue, and there is a deadweight loss."
+  },
+  {
+    "id": "ECO-0058",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "medium",
+    "stem": "Instead of a tariff, the government limits cement imports to a fixed tonnage and gives the import licenses to a few domestic traders. Compared with a tariff that cuts imports by the same tonnage:",
+    "choices": [
+      "A quota also cuts the imported quantity, but the rent often goes to license holders rather than to the treasury as tariff revenue.",
+      "The domestic price falls, because a quantity cap increases supply.",
+      "The treasury collects the same revenue, because a quota is collected as a tax at the border."
+    ],
+    "correctIndex": 0,
+    "explanation": "Both tools restrict quantity and can raise the domestic price. Who captures the scarcity rent is the difference. A quota also cuts the imported quantity, but the rent often goes to license holders rather than to the treasury as tariff revenue."
+  },
+  {
+    "id": "ECO-0059",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "easy",
+    "stem": "Two neighbors abolish tariffs on each other’s goods but each keeps its own tariff schedule against the rest of the world. A third arrangement would also impose one common external tariff. Those two designs are:",
+    "choices": [
+      "A free-trade area drops internal tariffs and lets each member keep its own external tariff; a customs union adds a common external tariff.",
+      "Both customs unions, because any internal free trade requires a common external tariff.",
+      "Both monetary unions, because a trade agreement sets a single policy rate."
+    ],
+    "correctIndex": 0,
+    "explanation": "The first design is a free-trade area. Adding a common external tariff makes it a customs union. A free-trade area drops internal tariffs and lets each member keep its own external tariff; a customs union adds a common external tariff."
+  },
+  {
+    "id": "ECO-0060",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "hard",
+    "stem": "After a customs union, a member stops buying cheaper cement from a non-member and buys higher-cost cement from a partner that now faces no internal tariff. That switch is:",
+    "choices": [
+      "Trade creation, because any rise in imports from a partner is a gain in efficiency.",
+      "An export subsidy paid by the non-member, because the partner’s price is higher.",
+      "Trade is diverted when the bloc replaces cheaper non-member imports with higher-cost member production."
+    ],
+    "correctIndex": 2,
+    "explanation": "Trade creation replaces higher-cost home production with lower-cost member production. Diversion replaces a lower-cost outsider with a higher-cost insider. Trade is diverted when the bloc replaces cheaper non-member imports with higher-cost member production."
+  },
+  {
+    "id": "ECO-0061",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "medium",
+    "stem": "A country buys a tiny fraction of world cement, and the world price is set abroad. It imposes a tariff of USD 10 a tonne. For the domestic price of cement:",
+    "choices": [
+      "The world price falls by USD 10, so the domestic price is unchanged.",
+      "A small country cannot shift the world price, so the domestic price rises by about the full tariff.",
+      "The domestic price falls by USD 10, because a tariff is a subsidy to foreign sellers."
+    ],
+    "correctIndex": 1,
+    "explanation": "A small buyer does not move the world price. The tariff is added on top of that price inside the country. A small country cannot shift the world price, so the domestic price rises by about the full tariff."
+  },
+  {
+    "id": "ECO-0062",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "easy",
+    "stem": "The government pays Rowan Dairy a subsidy for every unit of milk powder it ships abroad. The country is small in the world market. The usual domestic effects are:",
+    "choices": [
+      "An export subsidy encourages exports and, for a small country, raises the domestic price and costs the government money.",
+      "No change in exports, because a subsidy on exports reduces the incentive to export.",
+      "A lower domestic price and a budget surplus, because foreign buyers pay the subsidy."
+    ],
+    "correctIndex": 0,
+    "explanation": "An export subsidy pulls output toward foreign sales and, in the small-country case, lifts the home price while the budget pays the subsidy. An export subsidy encourages exports and, for a small country, raises the domestic price and costs the government money."
+  },
+  {
+    "id": "ECO-0063",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "hard",
+    "stem": "A ministry argues for a lasting tariff so that a new Nimbus Components plant can “grow up” and later match foreign costs. A standard caution about that infant-industry case is:",
+    "choices": [
+      "A permanent tariff is required for comparative advantage to exist in any industry.",
+      "Protection has no cost while it lasts, so the only risk is removing it too soon.",
+      "The costs of protection are immediate, and an open-ended shelter may never produce a competitive industry."
+    ],
+    "correctIndex": 2,
+    "explanation": "Infant-industry protection is a possible argument, and it is easy to extend past any learning. Consumers and other industries pay meanwhile. The costs of protection are immediate, and an open-ended shelter may never produce a competitive industry."
+  },
+  {
+    "id": "ECO-0064",
+    "topicId": "economics",
+    "losIds": [
+      "eco-trade"
+    ],
+    "difficulty": "medium",
+    "stem": "A member state is accused of breaking a bound tariff commitment. The body that is built to host that argument, as distinct from the IMF or a development bank, is:",
+    "choices": [
+      "The IMF, because trade-rule disputes are settled by lending official reserves to the complainant.",
+      "The WTO is a forum for trade commitments and disputes; it does not lend official reserves the way the IMF does.",
+      "The World Bank, because a tariff dispute is funded as a multi-decade infrastructure loan."
+    ],
+    "correctIndex": 1,
+    "explanation": "The WTO’s role is negotiated trade rules and a dispute process. Lending reserves is the IMF’s neighborhood, and project finance is the World Bank’s. The WTO is a forum for trade commitments and disputes; it does not lend official reserves the way the IMF does."
+  },
+  {
+    "id": "ECO-0065",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "easy",
+    "stem": "A description of the foreign-exchange market lists firms paying suppliers, funds reallocating across countries, banks quoting two-way prices, and a central bank selling foreign currency. Those roles are:",
+    "choices": [
+      "Corporations hedging receipts, investors moving capital, dealers making markets, and central banks intervening.",
+      "Only the central bank, because private parties are not allowed to exchange currencies.",
+      "Only exporters, because investors and dealers settle in a separate goods market."
+    ],
+    "correctIndex": 0,
+    "explanation": "The FX market is where several motives meet: trade, investment, dealing, and official intervention. Corporations hedging receipts, investors moving capital, dealers making markets, and central banks intervening."
+  },
+  {
+    "id": "ECO-0066",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "medium",
+    "stem": "One currency’s price is left to trading. Another is announced as a fixed number of foreign units, and the central bank buys or sells reserves to keep it there. The two regimes are:",
+    "choices": [
+      "A float is set in the market; a peg requires the authorities to defend a stated price with reserves or interest rates.",
+      "Both pure floats, because reserve sales do not affect a fixed price.",
+      "Both pegs, because every market price is an announcement by the central bank."
+    ],
+    "correctIndex": 0,
+    "explanation": "Floating leaves the rate to private supply and demand. A peg is a promise the authorities must back. A float is set in the market; a peg requires the authorities to defend a stated price with reserves or interest rates."
+  },
+  {
+    "id": "ECO-0067",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "hard",
+    "stem": "A country wants a fixed exchange rate, wants capital to move freely, and wants to set its policy rate for domestic inflation. The constraint often called the impossible trinity says:",
+    "choices": [
+      "All three can be hit together, because the policy rate does not affect cross-border flows.",
+      "The only impossible pair is a float combined with capital controls, because pegs require free capital.",
+      "A peg, free capital flows, and an independent monetary policy cannot all be maintained together."
+    ],
+    "correctIndex": 2,
+    "explanation": "Defending a peg with open capital markets means domestic rates cannot wander far from the anchor’s rates. A peg, free capital flows, and an independent monetary policy cannot all be maintained together."
+  },
+  {
+    "id": "ECO-0068",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "medium",
+    "stem": "A country with a sudden external deficit draws on a pool of official resources and agrees to a published policy review. That function, as distinct from the WTO’s trade-rule work, belongs to:",
+    "choices": [
+      "The IMF lends official reserves and reviews external payments; it does not write the trade-law rulings associated with the WTO.",
+      "A commercial equity fund, because official reserves are venture-capital investments.",
+      "The WTO, because balance-of-payments loans are tariff disputes."
+    ],
+    "correctIndex": 0,
+    "explanation": "The IMF is the institution associated with temporary external financing and surveillance of payments. The IMF lends official reserves and reviews external payments; it does not write the trade-law rulings associated with the WTO."
+  },
+  {
+    "id": "ECO-0069",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "easy",
+    "stem": "Lumen Rail bills a foreign customer in that customer’s currency. The domestic currency then appreciates against the billing currency. Before any hedge, the effect on the domestic-currency value of the receivable is:",
+    "choices": [
+      "More domestic currency per unit of foreign revenue, because appreciation multiplies foreign receipts.",
+      "No change, because the invoice currency and the domestic currency are the same object.",
+      "Lumen Rail receives fewer units of domestic currency for each unit of foreign revenue, holding the foreign price fixed."
+    ],
+    "correctIndex": 2,
+    "explanation": "Appreciation means one unit of foreign currency converts into fewer domestic units. The exporter’s home-currency receipt shrinks. Lumen Rail receives fewer units of domestic currency for each unit of foreign revenue, holding the foreign price fixed."
+  },
+  {
+    "id": "ECO-0070",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "medium",
+    "stem": "The central bank sells foreign reserves to support the domestic currency and simultaneously drains or adds domestic liquidity so the monetary base is unchanged. That second step makes the intervention:",
+    "choices": [
+      "Sterilized intervention tries to offset the reserve change so the monetary base does not move; unsterilized intervention does not.",
+      "A capital control, because sterilization is a ban on private foreign-exchange trading.",
+      "Unsterilized, because any reserve sale automatically leaves the monetary base unchanged."
+    ],
+    "correctIndex": 0,
+    "explanation": "Sterilization offsets the domestic-money effect of the reserve transaction. Without that offset, the intervention is unsterilized. Sterilized intervention tries to offset the reserve change so the monetary base does not move; unsterilized intervention does not."
+  },
+  {
+    "id": "ECO-0071",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "hard",
+    "stem": "A pegged currency faces a long current-account deficit. Official reserves are falling, and the central bank will not raise the policy rate. A familiar ending to that path is:",
+    "choices": [
+      "A peg with a persistent external deficit and falling reserves can end in a devaluation if rates are not raised enough.",
+      "No pressure on the peg, because current-account deficits cannot affect reserve levels.",
+      "A permanent rise in reserves, because a deficit under a peg creates foreign currency."
+    ],
+    "correctIndex": 0,
+    "explanation": "A peg is defended with reserves or with rates. If neither is available, the announced price gives way. A peg with a persistent external deficit and falling reserves can end in a devaluation if rates are not raised enough."
+  },
+  {
+    "id": "ECO-0072",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "easy",
+    "stem": "A treasurer at Northline Foods can exchange currency for delivery in two days, or can lock today a rate for an exchange in six months. Those two markets are:",
+    "choices": [
+      "Both forward markets, because every currency trade settles in six months.",
+      "The spot market is for near-term delivery; the forward market sets today a price for delivery later.",
+      "Both goods markets, because foreign exchange is a tariff schedule rather than a price."
+    ],
+    "correctIndex": 1,
+    "explanation": "Spot is the near-term price. Forward is a price agreed now for a later exchange. The spot market is for near-term delivery; the forward market sets today a price for delivery later."
+  },
+  {
+    "id": "ECO-0073",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fx"
+    ],
+    "difficulty": "medium",
+    "stem": "A fund borrows a low-interest currency and invests in a high-interest currency, leaving the exchange rate unhedged. The bet, before any move in the spot rate, is:",
+    "choices": [
+      "A guaranteed profit equal to the interest gap, because the high-rate currency cannot depreciate.",
+      "A loss equal to the interest gap, because the low-rate currency always appreciates by more than the gap.",
+      "The trade earns the interest gap and loses if the high-rate currency depreciates by more than that gap."
+    ],
+    "correctIndex": 2,
+    "explanation": "Unhedged carry keeps the interest differential and takes the currency risk. Depreciation of the high-rate currency can erase the interest gain. The trade earns the interest gap and loses if the high-rate currency depreciates by more than that gap."
+  },
+  {
+    "id": "ECO-0074",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "easy",
+    "stem": "The spot rate is quoted as CAD per USD, so the CAD is the price currency and the USD is the base currency. Spot is 1.3600. The Canadian risk-free rate is 4% and the US risk-free rate is 3%. Using \\(F=S(1+r_{CAD})/(1+r_{USD})\\), the one-year forward in CAD per USD is closest to:",
+    "choices": [
+      "1.3732",
+      "1.3600",
+      "1.3469"
+    ],
+    "correctIndex": 0,
+    "explanation": "Covered-interest parity prices the base currency forward from the price-currency rate in the numerator: \\[F=1.3600\\times\\frac{1.04}{1.03}\\]. The forward is 1.3732. Swapping the two interest rates, or leaving the spot unchanged, breaks that relation."
+  },
+  {
+    "id": "ECO-0075",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "medium",
+    "stem": "The spot rate is 110.50 JPY per EUR. The JPY is the price currency and the EUR is the base currency. The Japanese risk-free rate is 1.5% and the euro risk-free rate is 3.5%. Using \\(F=S[(1+r_{JPY})/(1+r_{EUR})]^2\\), the two-year forward in JPY per EUR is closest to:",
+    "choices": [
+      "106.27",
+      "108.36",
+      "114.90"
+    ],
+    "correctIndex": 0,
+    "explanation": "The higher euro rate compounds in the denominator for two years: \\[F=110.50\\times(1.015/1.035)^2\\]. The forward is 106.27. A one-year power, or swapping which rate is in the numerator, is a different contract."
+  },
+  {
+    "id": "ECO-0076",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "easy",
+    "stem": "The exchange rate is quoted as USD per EUR, so the euro is the base currency. It moves from 1.25 to 1.18. Using \\((S_1-S_0)/S_0\\), the percentage change in the euro is closest to:",
+    "choices": [
+      "5.93%",
+      "-5.93%",
+      "-5.60%"
+    ],
+    "correctIndex": 2,
+    "explanation": "With the euro as the base, the percentage change uses the USD-per-EUR quotes: \\[(1.18-1.25)/1.25=-0.056\\]. The euro’s change is -5.60%. Dividing by the new quote, or flipping the sign without inverting the quote, describes a different object."
+  },
+  {
+    "id": "ECO-0077",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "medium",
+    "stem": "Start from the same USD-per-EUR move, from 1.25 to 1.18. Invert both quotes so the new quote is EUR per USD. Using \\((S_1-S_0)/S_0\\) on those inverted quotes, the percentage change in the USD is closest to:",
+    "choices": [
+      "5.93%",
+      "-5.60%",
+      "5.60%"
+    ],
+    "correctIndex": 0,
+    "explanation": "The EUR-per-USD quotes are \\(1/1.25\\) and \\(1/1.18\\). Their percentage change is \\[(1/1.18-1/1.25)/(1/1.25)\\] and equals 5.93%. The euro’s −5.60% move is not the USD’s move with the sign flipped, because the reciprocal of a percentage change is not that simple."
+  },
+  {
+    "id": "ECO-0078",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "medium",
+    "stem": "The JPY-per-USD quote is 148.20 and the AUD-per-USD quote is 1.50. Both quotes use the USD as the base currency. The cross rate in JPY per AUD, \\((JPY/USD)/(AUD/USD)\\), is closest to:",
+    "choices": [
+      "222.30",
+      "148.20",
+      "98.80"
+    ],
+    "correctIndex": 2,
+    "explanation": "Divide the two “per USD” quotes to cancel the USD: \\[148.20/1.50=98.80\\]. The JPY-per-AUD rate is 98.80. Multiplying the quotes, or stopping at the JPY-per-USD quote, does not express yen per Australian dollar."
+  },
+  {
+    "id": "ECO-0079",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "easy",
+    "stem": "A spot rate is quoted as 1.2500 USD per EUR. The reciprocal quote, in EUR per USD, is \\(1/S\\). That EUR-per-USD quote is closest to:",
+    "choices": [
+      "0.2500",
+      "1.2500",
+      "0.8000"
+    ],
+    "correctIndex": 2,
+    "explanation": "Invert the quote to change which currency is the base: \\[1/1.2500=0.8000\\]. The EUR-per-USD quote is 0.8000. The original 1.2500 is USD per EUR, and 0.2500 is not the reciprocal."
+  },
+  {
+    "id": "ECO-0080",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "medium",
+    "stem": "Using the one-year CAD-per-USD case (spot 1.3600, Canadian rate 4%, US rate 3%), the forward premium on the USD is \\((F-S)/S\\). That premium is closest to:",
+    "choices": [
+      "1.00%",
+      "0.97%",
+      "4.00%"
+    ],
+    "correctIndex": 1,
+    "explanation": "The covered-interest forward is about 1.3732 CAD per USD. The premium is \\[(F-1.3600)/1.3600\\] and equals 0.97%. A raw 1% rate gap, or the 4% Canadian rate, is not that percentage premium on the spot."
+  },
+  {
+    "id": "ECO-0081",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "hard",
+    "stem": "The spot rate is 1.3600 CAD per USD. Covered-interest parity with a 4% Canadian rate and a 3% US rate gives a one-year forward near 1.3732. A dealer quotes a one-year forward of 1.4000 CAD per USD. The no-arbitrage direction in the forward is:",
+    "choices": [
+      "Do nothing, because a market forward is not comparable to a forward built from interest rates.",
+      "Sell the USD forward against the CAD, because the market CAD-per-USD forward is above the covered-interest forward.",
+      "Buy the USD forward against the CAD, because a forward above the spot means the base currency is cheap."
+    ],
+    "correctIndex": 1,
+    "explanation": "The CIP forward is \\(1.3600\\times 1.04/1.03\\approx 1.3732\\). A market forward of 1.4000 prices the USD richer than that. Sell the USD forward against the CAD, because the market CAD-per-USD forward is above the covered-interest forward."
+  },
+  {
+    "id": "ECO-0082",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "easy",
+    "stem": "The quote is GBP per USD, so the USD is the base currency. It moves from 0.78 to 0.75. Using \\((S_1-S_0)/S_0\\), the percentage change in the USD is closest to:",
+    "choices": [
+      "-3.85%",
+      "-4.00%",
+      "4.00%"
+    ],
+    "correctIndex": 0,
+    "explanation": "The base currency’s percentage change divides by the starting quote: \\[(0.75-0.78)/0.78\\]. The USD’s change is -3.85%. Using 0.75 as the denominator changes the percentage, whether the sign is kept or flipped."
+  },
+  {
+    "id": "ECO-0083",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "hard",
+    "stem": "One quote is 0.92 EUR per USD. Another is 160 JPY per EUR. The USD is the base in the first quote and the EUR is the base in the second. The cross rate in JPY per USD, \\((JPY/EUR)\\times(EUR/USD)\\), is closest to:",
+    "choices": [
+      "160.00",
+      "173.91",
+      "147.20"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiply along the chain so the euro cancels: \\[160\\times 0.92=147.20\\]. The JPY-per-USD rate is 147.20. Dividing 160 by 0.92 inverts the euro-per-dollar quote, and 160 is yen per euro rather than yen per dollar."
+  },
+  {
+    "id": "ECO-0084",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "medium",
+    "stem": "The spot rate is 1.2500 USD per EUR. The USD is the price currency and the EUR is the base currency. The US risk-free rate is 2% and the euro risk-free rate is 5%. Using \\(F=S(1+r_{USD})/(1+r_{EUR})\\), the one-year forward in USD per EUR is closest to:",
+    "choices": [
+      "1.2868",
+      "1.2500",
+      "1.2143"
+    ],
+    "correctIndex": 2,
+    "explanation": "The higher euro rate pulls the forward below the spot: \\[F=1.2500\\times 1.02/1.05\\]. The forward is 1.2143. Putting the euro rate in the numerator, or ignoring both rates, prices a different forward."
+  },
+  {
+    "id": "ECO-0085",
+    "topicId": "economics",
+    "losIds": [
+      "eco-fxcalc"
+    ],
+    "difficulty": "hard",
+    "stem": "For that same USD-per-EUR pair (spot 1.2500, US rate 2%, euro rate 5%), the one-year forward points measured as \\(F-S\\) in USD per EUR are closest to:",
+    "choices": [
+      "0.0357",
+      "-0.0357",
+      "-0.0300"
+    ],
+    "correctIndex": 1,
+    "explanation": "The forward is about 1.2143, so the points are \\[1.2143-1.2500\\]. They equal -0.0357. The opposite sign would be a premium, and a raw −3 percentage-point rate gap is not the difference in the exchange rate."
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "AI-0001",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "easy",
+    "stem": "An institution wants the greatest control over each private holding, including the right to source and operate the asset itself. Which access method fits that goal?",
+    "choices": [
+      "Direct investment, because the asset owner makes the sourcing and operating decisions.",
+      "A fund-of-funds commitment that holds interests in several other funds.",
+      "A limited-partner stake in a commingled fund run by an outside general partner."
+    ],
+    "correctIndex": 0,
+    "explanation": "Control rises as the investor moves from a pooled fund to a co-investment and then to owning the asset outright. A fund investor delegates selection and management. Direct investment, because the asset owner makes the sourcing and operating decisions."
+  },
+  {
+    "id": "AI-0002",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "medium",
+    "stem": "Piper Street Capital offers an existing limited partner a chance to invest more money in one buyout, beside the fund, at a reduced fee. Which description of that offer is most accurate?",
+    "choices": [
+      "It is a direct investment, so the limited partner must negotiate the purchase without the general partner.",
+      "It is a co-investment: extra capital in a specific deal the general partner has already sourced, often at lower fees than the main fund.",
+      "It is a secondary sale, so the limited partner is buying another investor’s old fund interest."
+    ],
+    "correctIndex": 1,
+    "explanation": "Co-investment sits between a blind-pool commitment and a fully direct program. The general partner still sources the deal, and the investor underwrites that one asset. It is a co-investment: extra capital in a specific deal the general partner has already sourced, often at lower fees than the main fund."
+  },
+  {
+    "id": "AI-0003",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "easy",
+    "stem": "In a typical private-capital limited partnership, which statement about the general partner is most accurate?",
+    "choices": [
+      "The general partner is a passive supplier of capital and cannot bind the partnership.",
+      "The general partner’s only role is to custody assets and issue the audit opinion.",
+      "The general partner selects investments, calls capital, and is paid a management fee plus a performance fee."
+    ],
+    "correctIndex": 2,
+    "explanation": "The general partner is the manager. Limited partners supply capital and ordinarily do not run the portfolio companies day to day. The general partner selects investments, calls capital, and is paid a management fee plus a performance fee."
+  },
+  {
+    "id": "AI-0004",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "medium",
+    "stem": "During the investment period of a private-equity fund, the management fee is often charged on committed capital rather than on invested capital. Why does that base matter to a limited partner?",
+    "choices": [
+      "A fee on committed capital is collected only after the fund has returned all contributions.",
+      "Committed-capital fees replace the carried interest, so no performance fee can also be charged.",
+      "The fee can be charged on money that has been promised but not yet called, so fee drag starts before the capital is put to work."
+    ],
+    "correctIndex": 2,
+    "explanation": "Committed capital is the contractual promise. Called, or paid-in, capital is the amount actually drawn. Early in the fund’s life those amounts differ. The fee can be charged on money that has been promised but not yet called, so fee drag starts before the capital is put to work."
+  },
+  {
+    "id": "AI-0005",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "hard",
+    "stem": "A private-equity partnership returns contributed capital and a preferred return to limited partners, then pays the general partner most of the next profits until the agreed carry split is reached. What is that middle step?",
+    "choices": [
+      "A high-water mark, which stops the management fee whenever the fund’s net asset value falls.",
+      "A clawback, which forces limited partners to return distributions after a profitable exit.",
+      "A catch-up, which accelerates the general partner’s share until the carried-interest percentage of profits is achieved."
+    ],
+    "correctIndex": 2,
+    "explanation": "The catch-up is part of the waterfall, not a refund of fees and not a hedge-fund loss-recovery test. It changes who receives the next dollar of profit. A catch-up, which accelerates the general partner’s share until the carried-interest percentage of profits is achieved."
+  },
+  {
+    "id": "AI-0006",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "medium",
+    "stem": "Westmill Fund uses a master portfolio with separate feeder funds for investors who face different tax rules. Which statement about that structure is most accurate?",
+    "choices": [
+      "The feeders pool different investor groups into one master portfolio so the trading book is run once.",
+      "Each feeder must hold different securities, so the master fund never sees a single set of positions.",
+      "A master-feeder structure prohibits incentive fees and requires daily dealing."
+    ],
+    "correctIndex": 0,
+    "explanation": "The master-feeder pattern is an administrative and tax structure. It does not, by itself, set the liquidity terms or cancel the performance fee. The feeders pool different investor groups into one master portfolio so the trading book is run once."
+  },
+  {
+    "id": "AI-0007",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "easy",
+    "stem": "Compared with a passive public-equity fund, alternative funds more often charge a management fee plus a performance fee. Which explanation is the fairest?",
+    "choices": [
+      "Regulators set a minimum performance fee for every fund that is not an index fund.",
+      "Sourcing, active management, and illiquid holdings are typical reasons for the higher and more complex fees.",
+      "The performance fee is charged because the manager guarantees a positive return."
+    ],
+    "correctIndex": 1,
+    "explanation": "Fees compensate specialized work and align the manager with profits. They are not a legal minimum and they are not a promise that the investor will make money. Sourcing, active management, and illiquid holdings are typical reasons for the higher and more complex fees."
+  },
+  {
+    "id": "AI-0008",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "easy",
+    "stem": "A new limited partner in Piper Street Capital asks what loss can fall on that partner if a portfolio company fails. Which statement is most accurate?",
+    "choices": [
+      "The limited partner has unlimited liability for every loan the portfolio company signs.",
+      "The limited partner can lose the capital committed to the fund, and does not manage the portfolio company day to day.",
+      "The limited partner must approve each operating budget or the fund cannot invest."
+    ],
+    "correctIndex": 1,
+    "explanation": "Limited liability is the usual bargain in a limited partnership: capital is at risk, control of daily operations is not. Side letters and excuses can vary the details, but unlimited liability is not the standard deal. The limited partner can lose the capital committed to the fund, and does not manage the portfolio company day to day."
+  },
+  {
+    "id": "AI-0009",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "hard",
+    "stem": "One limited partner in Westmill Fund receives a side letter that lowers that partner’s management fee and adds extra reporting. Which statement is most accurate?",
+    "choices": [
+      "A side letter automatically converts that investor into the general partner.",
+      "A side letter is illegal whenever any other limited partner pays a higher fee.",
+      "A side letter can give one investor economics or reporting that differ from the standard partnership terms."
+    ],
+    "correctIndex": 2,
+    "explanation": "Side letters are negotiated exceptions. They do not change who manages the fund. Other investors may ask for similar terms, but the mere existence of a concession is a bargaining outcome, not a change of control. A side letter can give one investor economics or reporting that differ from the standard partnership terms."
+  },
+  {
+    "id": "AI-0010",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "easy",
+    "stem": "Piper Street Capital has USD 500 million of commitments and has called USD 180 million so far. Which pairing of terms is most accurate?",
+    "choices": [
+      "Committed capital is USD 500 million and called capital is USD 180 million.",
+      "Committed capital and residual value are the same figure until the first exit.",
+      "Called capital is USD 500 million because the investors signed the subscription documents."
+    ],
+    "correctIndex": 0,
+    "explanation": "The commitment is the promise. A capital call converts part of that promise into paid-in cash. Residual value is what the remaining investments are worth, which is a different account. Committed capital is USD 500 million and called capital is USD 180 million."
+  },
+  {
+    "id": "AI-0011",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "medium",
+    "stem": "An endowment wants to buy another investor’s existing limited-partner interest in Piper Street Capital rather than wait for a new fund. What is that transaction?",
+    "choices": [
+      "A secondary purchase of an existing fund interest.",
+      "The general partner’s first capital call on a brand-new commitment.",
+      "A primary initial public offering of a portfolio company."
+    ],
+    "correctIndex": 0,
+    "explanation": "Secondary trading moves an already issued partnership interest from one limited partner to another. It is not the portfolio company’s listing and it is not a new capital call. A secondary purchase of an existing fund interest."
+  },
+  {
+    "id": "AI-0012",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-features"
+    ],
+    "difficulty": "hard",
+    "stem": "A family office compares a separately managed alternative account with a commingled Westmill Fund vehicle. Which contrast is most accurate?",
+    "choices": [
+      "The separate account must hold the same positions, fees, and liquidity as every other client by law.",
+      "The separate account can be customized and can show the underlying holdings, usually with a higher asset minimum.",
+      "The separate account removes market risk because the securities are registered in the client’s name."
+    ],
+    "correctIndex": 1,
+    "explanation": "Registration in the client’s name changes ownership and flexibility. It does not change the economic risk of the assets that are bought. The separate account can be customized and can show the underlying holdings, usually with a higher asset minimum."
+  },
+  {
+    "id": "AI-0013",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "easy",
+    "stem": "Westmill Fund begins the year at USD 100.00 million and the ending value before fees is USD 120.00 million. The management fee equals 2.00% times beginning value. There is no hurdle rate and no high-water mark. The incentive fee rate is 20.00% of profit after the management fee. That profit equals ending value before fees minus the management fee minus beginning value, and the incentive base is zero when the profit is negative. The management fee for the year is closest to:",
+    "choices": [
+      "USD 3.60 million",
+      "USD 2.00 million",
+      "USD 5.60 million"
+    ],
+    "correctIndex": 1,
+    "explanation": "The management fee is the rate times beginning value. It is not the incentive fee, and it is not the sum of the two fees. The management fee is USD 2.00 million, the incentive fee is USD 3.60 million, the net ending value is USD 114.40 million, and the net return is 14.40%. The closest value is USD 2.00 million. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0014",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "Piper Street Capital begins the year at USD 200.00 million and the ending value before fees is USD 250.00 million. The management fee equals 2.00% times beginning value. There is no hurdle rate and no high-water mark. The incentive fee rate is 20.00% of profit after the management fee. That profit equals ending value before fees minus the management fee minus beginning value, and the incentive base is zero when the profit is negative. The incentive fee for the year is closest to:",
+    "choices": [
+      "USD 4.00 million",
+      "USD 9.20 million",
+      "USD 10.00 million"
+    ],
+    "correctIndex": 1,
+    "explanation": "Incentive is charged on profit after the management fee has already been subtracted, not on the gross increase in value and not on the management fee itself. The management fee is USD 4.00 million, the incentive fee is USD 9.20 million, the net ending value is USD 236.80 million, and the net return is 18.40%. The closest value is USD 9.20 million. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0015",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "Westmill Fund begins the year at USD 40.00 million and the ending value before fees is USD 50.00 million. The management fee equals 2.00% times beginning value. There is no hurdle rate and no high-water mark. The incentive fee rate is 20.00% of profit after the management fee. That profit equals ending value before fees minus the management fee minus beginning value, and the incentive base is zero when the profit is negative. The investor’s net return for the year is closest to:",
+    "choices": [
+      "18.40%",
+      "23.00%",
+      "18.00%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Net return uses ending value after both fees. Charging incentive on the gross gain, or forgetting the incentive fee, both miss that order. The management fee is USD 0.80 million, the incentive fee is USD 1.84 million, the net ending value is USD 47.36 million, and the net return is 18.40%. The closest value is 18.40%. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0016",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "Piper Street Capital begins the year at USD 80.00 million and the ending value before fees is USD 100.00 million. The management fee equals 2.00% times ending value before fees. There is no hurdle rate and no high-water mark. The incentive fee rate is 20.00% of profit after the management fee. That profit equals ending value before fees minus the management fee minus beginning value, and the incentive base is zero when the profit is negative. The investor’s net ending value is closest to:",
+    "choices": [
+      "USD 98.00 million",
+      "USD 94.72 million",
+      "USD 94.40 million"
+    ],
+    "correctIndex": 2,
+    "explanation": "Because the management fee uses ending value before fees, it is larger than a fee on beginning value. The incentive is then taken on the profit that remains after that fee. The management fee is USD 2.00 million, the incentive fee is USD 3.60 million, the net ending value is USD 94.40 million, and the net return is 18.00%. The closest value is USD 94.40 million. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0017",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "hard",
+    "stem": "Westmill Fund begins the year at USD 100.00 million and the ending value before fees is USD 130.00 million. The management fee equals 2.00% times beginning value. Profit after the management fee equals ending value before fees minus the management fee minus beginning value. The incentive fee rate is 20.00%. There is a soft hurdle of 8.00%. If that profit exceeds beginning value times the hurdle rate, the incentive applies to all of that profit; otherwise the incentive fee is zero. The investor’s net return for the year is closest to:",
+    "choices": [
+      "24.00%",
+      "22.40%",
+      "22.00%"
+    ],
+    "correctIndex": 1,
+    "explanation": "The soft hurdle is cleared, so incentive applies to all profit after the management fee. A hard hurdle would have taxed only the slice above the hurdle, and a gross-profit incentive base ignores the management fee. The management fee is USD 2.00 million, the incentive fee is USD 5.60 million, the net ending value is USD 122.40 million, and the net return is 22.40%. The closest value is 22.40%. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0018",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "hard",
+    "stem": "Westmill Fund begins the year at USD 100.00 million and the ending value before fees is USD 130.00 million. The management fee equals 2.00% times beginning value. Profit after the management fee equals ending value before fees minus the management fee minus beginning value. The incentive fee rate is 20.00%. There is a soft hurdle of 8.00%. If that profit exceeds beginning value times the hurdle rate, the incentive applies to all of that profit; otherwise the incentive fee is zero. The incentive fee for the year is closest to:",
+    "choices": [
+      "USD 6.00 million",
+      "USD 4.00 million",
+      "USD 5.60 million"
+    ],
+    "correctIndex": 2,
+    "explanation": "With a cleared soft hurdle the whole profit after the management fee is the incentive base. The hard-hurdle fee is smaller here, and twenty percent of the gross price increase is larger. The management fee is USD 2.00 million, the incentive fee is USD 5.60 million, the net ending value is USD 122.40 million, and the net return is 22.40%. The closest value is USD 5.60 million. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0019",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "Piper Street Capital begins the year at USD 100.00 million and the ending value before fees is USD 106.00 million. The management fee equals 2.00% times beginning value. Profit after the management fee equals ending value before fees minus the management fee minus beginning value. The incentive fee rate is 20.00%. There is a soft hurdle of 10.00%. If that profit exceeds beginning value times the hurdle rate, the incentive applies to all of that profit; otherwise the incentive fee is zero. The incentive fee for the year is closest to:",
+    "choices": [
+      "USD 0.80 million",
+      "USD 0.00 million",
+      "USD 2.00 million"
+    ],
+    "correctIndex": 1,
+    "explanation": "Profit after the management fee is below beginning value times the soft hurdle, so the incentive fee is zero. The management fee is still charged. Ignoring the hurdle would have produced a positive incentive fee. The management fee is USD 2.00 million, the incentive fee is USD 0.00 million, the net ending value is USD 104.00 million, and the net return is 4.00%. The closest value is USD 0.00 million. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0020",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "hard",
+    "stem": "Westmill Fund begins the year at USD 100.00 million and the ending value before fees is USD 140.00 million. The management fee equals 2.00% times ending value before fees. Profit after the management fee equals ending value before fees minus the management fee minus beginning value. The incentive fee rate is 20.00%. There is a hard hurdle of 10.00%. The incentive applies only to the portion of that profit that exceeds beginning value times the hurdle rate. The incentive fee for the year is closest to:",
+    "choices": [
+      "USD 7.44 million",
+      "USD 5.44 million",
+      "USD 5.60 million"
+    ],
+    "correctIndex": 1,
+    "explanation": "The hard hurdle removes the hurdle amount from profit after the management fee before the incentive rate is applied. A soft hurdle on the same profit would charge more, and a beginning-value management fee would change the profit base. The management fee is USD 2.80 million, the incentive fee is USD 5.44 million, the net ending value is USD 131.76 million, and the net return is 31.76%. The closest value is USD 5.44 million. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0021",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "hard",
+    "stem": "Westmill Fund begins the year at USD 100.00 million and the ending value before fees is USD 140.00 million. The management fee equals 2.00% times ending value before fees. Profit after the management fee equals ending value before fees minus the management fee minus beginning value. The incentive fee rate is 20.00%. There is a hard hurdle of 10.00%. The incentive applies only to the portion of that profit that exceeds beginning value times the hurdle rate. The investor’s net return for the year is closest to:",
+    "choices": [
+      "32.40%",
+      "29.76%",
+      "31.76%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Net return follows from the hard-hurdle incentive and from the management fee on ending value before fees. The soft-hurdle version and the beginning-value management-fee version are different contracts. The management fee is USD 2.80 million, the incentive fee is USD 5.44 million, the net ending value is USD 131.76 million, and the net return is 31.76%. The closest value is 31.76%. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0022",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "hard",
+    "stem": "Piper Street Capital begins the year at USD 100.00 million and the ending value before fees is USD 150.00 million. The management fee equals 2.00% times beginning value. The incentive fee rate is 20.00%. The incentive base is the greater of zero and ending value before fees minus the management fee minus the high-water mark of USD 130.00 million. Do not apply a hurdle rate. The incentive fee for the year is closest to:",
+    "choices": [
+      "USD 3.60 million",
+      "USD 4.00 million",
+      "USD 9.60 million"
+    ],
+    "correctIndex": 0,
+    "explanation": "The high-water mark replaces a hurdle. Only the gap between ending value after the management fee and the high-water mark is eligible. Ignoring the mark, or forgetting to subtract the management fee before comparing with the mark, overstates the fee. The management fee is USD 2.00 million, the incentive fee is USD 3.60 million, the net ending value is USD 144.40 million, and the net return is 44.40%. The closest value is USD 3.60 million. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0023",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "Westmill Fund begins the year at USD 100.00 million and the ending value before fees is USD 115.00 million. The management fee equals 2.00% times beginning value. The incentive fee rate is 20.00%. The incentive base is the greater of zero and ending value before fees minus the management fee minus the high-water mark of USD 120.00 million. Do not apply a hurdle rate. The investor’s net return for the year is closest to:",
+    "choices": [
+      "13.00%",
+      "12.70%",
+      "10.40%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ending value after the management fee is still below the high-water mark, so the incentive fee is zero. Dropping the mark would charge incentive on the year’s profit. Changing the management-fee base also changes the net result. The management fee is USD 2.00 million, the incentive fee is USD 0.00 million, the net ending value is USD 113.00 million, and the net return is 13.00%. The closest value is 13.00%. \\(F_m=r_m\\times\\text{base},\\quad F_i=r_i\\times\\text{incentive base},\\quad R=(V_{\\text{net}}-V_0)/V_0\\)"
+  },
+  {
+    "id": "AI-0024",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "An early Piper Street Capital fund has paid-in capital of USD 400.00 million, distributions of USD 220.00 million, and residual value of USD 280.00 million. DPI is distributions divided by paid-in capital, RVPI is residual value divided by paid-in capital, and TVPI equals DPI plus RVPI. DPI is closest to:",
+    "choices": [
+      "1.25",
+      "0.70",
+      "0.55"
+    ],
+    "correctIndex": 2,
+    "explanation": "Distributions over paid-in capital give DPI of 0.55. Residual value over paid-in capital gives RVPI of 0.70. Adding those ratios gives TVPI of 1.25. DPI is 0.55. \\[\\mathrm{TVPI}=\\mathrm{DPI}+\\mathrm{RVPI}=\\dfrac{D+\\mathrm{RV}}{\\mathrm{PIC}}\\]"
+  },
+  {
+    "id": "AI-0025",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "An early Piper Street Capital fund has paid-in capital of USD 400.00 million, distributions of USD 220.00 million, and residual value of USD 280.00 million. DPI is distributions divided by paid-in capital, RVPI is residual value divided by paid-in capital, and TVPI equals DPI plus RVPI. RVPI is closest to:",
+    "choices": [
+      "1.25",
+      "0.55",
+      "0.70"
+    ],
+    "correctIndex": 2,
+    "explanation": "Distributions over paid-in capital give DPI of 0.55. Residual value over paid-in capital gives RVPI of 0.70. Adding those ratios gives TVPI of 1.25. RVPI is 0.70. \\[\\mathrm{TVPI}=\\mathrm{DPI}+\\mathrm{RVPI}=\\dfrac{D+\\mathrm{RV}}{\\mathrm{PIC}}\\]"
+  },
+  {
+    "id": "AI-0026",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "easy",
+    "stem": "An early Piper Street Capital fund has paid-in capital of USD 400.00 million, distributions of USD 220.00 million, and residual value of USD 280.00 million. DPI is distributions divided by paid-in capital, RVPI is residual value divided by paid-in capital, and TVPI equals DPI plus RVPI. TVPI is closest to:",
+    "choices": [
+      "1.25",
+      "0.70",
+      "0.55"
+    ],
+    "correctIndex": 0,
+    "explanation": "Distributions over paid-in capital give DPI of 0.55. Residual value over paid-in capital gives RVPI of 0.70. Adding those ratios gives TVPI of 1.25. TVPI is 1.25. \\[\\mathrm{TVPI}=\\mathrm{DPI}+\\mathrm{RVPI}=\\dfrac{D+\\mathrm{RV}}{\\mathrm{PIC}}\\]"
+  },
+  {
+    "id": "AI-0027",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "A later Piper Street Capital fund has paid-in capital of USD 125.00 million, distributions of USD 180.00 million, and residual value of USD 50.00 million. DPI is distributions divided by paid-in capital, RVPI is residual value divided by paid-in capital, and TVPI equals DPI plus RVPI. DPI is closest to:",
+    "choices": [
+      "1.84",
+      "1.44",
+      "0.40"
+    ],
+    "correctIndex": 1,
+    "explanation": "Distributions over paid-in capital give DPI of 1.44. Residual value over paid-in capital gives RVPI of 0.40. Adding those ratios gives TVPI of 1.84. DPI is 1.44. \\[\\mathrm{TVPI}=\\mathrm{DPI}+\\mathrm{RVPI}=\\dfrac{D+\\mathrm{RV}}{\\mathrm{PIC}}\\]"
+  },
+  {
+    "id": "AI-0028",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "hard",
+    "stem": "A later Piper Street Capital fund has paid-in capital of USD 125.00 million, distributions of USD 180.00 million, and residual value of USD 50.00 million. DPI is distributions divided by paid-in capital, RVPI is residual value divided by paid-in capital, and TVPI equals DPI plus RVPI. TVPI is closest to:",
+    "choices": [
+      "0.40",
+      "1.44",
+      "1.84"
+    ],
+    "correctIndex": 2,
+    "explanation": "Distributions over paid-in capital give DPI of 1.44. Residual value over paid-in capital gives RVPI of 0.40. Adding those ratios gives TVPI of 1.84. TVPI is 1.84. \\[\\mathrm{TVPI}=\\mathrm{DPI}+\\mathrm{RVPI}=\\dfrac{D+\\mathrm{RV}}{\\mathrm{PIC}}\\]"
+  },
+  {
+    "id": "AI-0029",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "An appraisal-based index of private assets shows low volatility and a low correlation with public equities. Transaction prices of similar assets move around more. Which interpretation is most accurate?",
+    "choices": [
+      "Appraisal smoothing can understate both the volatility of private assets and their correlation with public markets.",
+      "Appraisal smoothing leaves volatility unchanged and only affects the level of fees.",
+      "Appraisal smoothing raises measured volatility because values are updated only when a buyer appears."
+    ],
+    "correctIndex": 0,
+    "explanation": "Infrequent or anchored appraisals pull reported returns toward a smooth path. The economic risk and the co-movement with public markets can both be larger than the index suggests, so a Sharpe ratio built on those marks can look flattering. Appraisal smoothing can understate both the volatility of private assets and their correlation with public markets."
+  },
+  {
+    "id": "AI-0030",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "Two Piper Street Capital funds each have a TVPI of 1.60. One returned cash in year three and the other in year nine. Which performance statement is most accurate?",
+    "choices": [
+      "Equal TVPI figures imply equal since-inception IRRs whenever paid-in capital matches.",
+      "TVPI ignores the timing of cash flows, so the fund that pays earlier can have the higher IRR even when TVPI matches.",
+      "TVPI subtracts the time value of money, so the later fund must have the higher multiple."
+    ],
+    "correctIndex": 1,
+    "explanation": "DPI and RVPI are ratios to paid-in capital. Adding them produces TVPI, still without a clock. IRR is money-weighted and falls when the same cash arrives later. TVPI ignores the timing of cash flows, so the fund that pays earlier can have the higher IRR even when TVPI matches."
+  },
+  {
+    "id": "AI-0031",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "hard",
+    "stem": "A fund’s profit after the management fee is above the hurdle amount. The limited partnership agreement uses either a soft hurdle or a hard hurdle at the same rate. Which comparison is most accurate?",
+    "choices": [
+      "The soft hurdle produces the higher incentive fee, because it applies the rate to all profit after the management fee once the hurdle is cleared.",
+      "The two hurdles produce the same incentive fee whenever the hurdle rate is positive.",
+      "The hard hurdle produces the higher incentive fee, because it adds the hurdle amount to the incentive base."
+    ],
+    "correctIndex": 0,
+    "explanation": "Take a fund that starts at 100 and ends at 130 before fees, with a 2% management fee on beginning value, a 20% incentive rate, and an 8% hurdle. Profit after the fee clears the hurdle. The soft incentive is 5.60 and the hard incentive is 4.00. The hard rule keeps only the excess over the hurdle inside the incentive base. The soft hurdle produces the higher incentive fee, because it applies the rate to all profit after the management fee once the hurdle is cleared."
+  },
+  {
+    "id": "AI-0032",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "medium",
+    "stem": "Westmill Fund is up for the year but the ending value after the management fee is still below its high-water mark. Which fee conclusion is most accurate?",
+    "choices": [
+      "The high-water mark cancels the management fee whenever the incentive fee is zero.",
+      "An incentive fee is due on the year’s gain even while the fund remains below the old peak.",
+      "No incentive fee is due, because the incentive base cannot be negative and prior losses have not been recovered."
+    ],
+    "correctIndex": 2,
+    "explanation": "The high-water mark stops the manager from collecting incentive on a recovery of earlier losses. The management fee is a separate charge and does not automatically turn off. No incentive fee is due, because the incentive base cannot be negative and prior losses have not been recovered."
+  },
+  {
+    "id": "AI-0033",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "easy",
+    "stem": "Piper Street Capital reports a since-inception internal rate of return for a buyout fund whose capital calls and distributions the general partner controls. Which description of that IRR is most accurate?",
+    "choices": [
+      "It is a time-weighted return, so adding or removing client cash cannot change it.",
+      "It equals TVPI divided by the number of years the fund has been alive.",
+      "It is a money-weighted return, so the timing of calls and distributions changes the result."
+    ],
+    "correctIndex": 2,
+    "explanation": "Fund IRR discounts the actual cash flows the partnership experienced. A time-weighted return would link subperiod growth and neutralize external cash-flow timing. TVPI still would not supply the missing clock. It is a money-weighted return, so the timing of calls and distributions changes the result."
+  },
+  {
+    "id": "AI-0034",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-returns"
+    ],
+    "difficulty": "hard",
+    "stem": "Early deals in a Piper Street Capital fund paid deal-by-deal carried interest. Later losses mean the general partner has received more carry than the whole-fund agreement allows. Which protection addresses that gap?",
+    "choices": [
+      "A catch-up, which pays the general partner a larger share of the next profitable deal.",
+      "A clawback, which requires the general partner to return excess carried interest to the limited partners.",
+      "A gate, which limits how much hedge-fund investors may redeem on one date."
+    ],
+    "correctIndex": 1,
+    "explanation": "Clawback is the give-back that protects the agreed whole-fund split. A catch-up moves profit toward the general partner. A gate is a hedge-fund liquidity term, not a private-equity fee refund. A clawback, which requires the general partner to return excess carried interest to the limited partners."
+  },
+  {
+    "id": "AI-0035",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "easy",
+    "stem": "Piper Street Capital is buying a mature company with stable cash flow and will finance a large part of the price with debt. Which private-equity style is this?",
+    "choices": [
+      "A buyout, which seeks control of an established business and uses leverage against its cash flow.",
+      "Farmland lease investing, which collects crop rent and does not take control of an operating company.",
+      "Seed venture capital, which funds a company that does not yet have a product."
+    ],
+    "correctIndex": 0,
+    "explanation": "Buyouts are control investments in companies that can service debt. Early venture investing is a different risk: unproven products and a high chance of failure. A buyout, which seeks control of an established business and uses leverage against its cash flow."
+  },
+  {
+    "id": "AI-0036",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "easy",
+    "stem": "A Piper Street Capital venture fund buys minority stakes in young companies, knowing most of them may fail. Where does the fund expect the return to come from?",
+    "choices": [
+      "A few large winners, because the payoff is skewed and the failures can be worth little.",
+      "A contracted availability payment from a government offtaker.",
+      "Contractual coupons on senior secured loans to the same young companies."
+    ],
+    "correctIndex": 0,
+    "explanation": "Venture equity is not a coupon strategy. The partnership accepts many write-offs in exchange for occasional outcomes that are large relative to the cheque. A few large winners, because the payoff is skewed and the failures can be worth little."
+  },
+  {
+    "id": "AI-0037",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "medium",
+    "stem": "In its first three years a Piper Street Capital buyout fund shows a negative IRR, mostly from fees and investments that have not been sold. The sponsor still describes a J-curve. What does that label mean?",
+    "choices": [
+      "The J-curve means the fund’s TVPI stays constant while the IRR rises in a straight line.",
+      "Every private-equity fund is contractually required to become profitable after year four.",
+      "Early reported results are often weak, and later exits can lift the IRR if the investments succeed. It is a path, not a promise."
+    ],
+    "correctIndex": 2,
+    "explanation": "Fees and the delay before realizations pull early money-weighted returns down. Later distributions can bend the curve up. Nothing in the shape forces a profit. Early reported results are often weak, and later exits can lift the IRR if the investments succeed. It is a path, not a promise."
+  },
+  {
+    "id": "AI-0038",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "medium",
+    "stem": "Piper Street Capital provides subordinated debt that ranks behind senior loans and includes warrants on the borrower’s equity. Which private-debt description fits?",
+    "choices": [
+      "A core real-estate mortgage, which is a senior claim on a stabilized building.",
+      "Distressed debt bought only after the issuer has already emerged from bankruptcy with an all-equity balance sheet.",
+      "Mezzanine debt, which takes more risk than senior debt and often adds an equity kicker."
+    ],
+    "correctIndex": 2,
+    "explanation": "Mezzanine sits in the middle of the capital structure. The coupon compensates for subordination, and warrants add upside if the equity value grows. Mezzanine debt, which takes more risk than senior debt and often adds an equity kicker."
+  },
+  {
+    "id": "AI-0039",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "medium",
+    "stem": "A private-debt sleeve at Piper Street Capital makes floating-rate senior loans directly to middle-market borrowers and expects to hold them. Which feature is most accurate?",
+    "choices": [
+      "Direct lending pays the lender only if the borrower’s equity is sold in an IPO.",
+      "Direct lending is primarily a credit exposure, often with covenants and a coupon, rather than an exit-multiple equity bet.",
+      "Direct lending is risk-free because the loans are senior and privately negotiated."
+    ],
+    "correctIndex": 1,
+    "explanation": "Seniority and covenants can improve recovery and control. They do not erase credit risk, illiquidity, or the chance that the coupon fails to cover losses. Direct lending is primarily a credit exposure, often with covenants and a coupon, rather than an exit-multiple equity bet."
+  },
+  {
+    "id": "AI-0040",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "hard",
+    "stem": "Piper Street Capital buys the bonds of a company that has missed payments, hoping to convert that claim into a controlling equity stake in a restructuring. Which strategy is this?",
+    "choices": [
+      "Distressed debt with a loan-to-own objective.",
+      "Core infrastructure, which buys a contracted asset with an operating history and no restructuring thesis.",
+      "Merger arbitrage, which is long the target and hedged against the announced deal spread."
+    ],
+    "correctIndex": 0,
+    "explanation": "Distressed investing can be a credit trade or a path to ownership. Loan-to-own uses the debt claim as the route into control if the equity is wiped out or diluted. Distressed debt with a loan-to-own objective."
+  },
+  {
+    "id": "AI-0041",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "easy",
+    "stem": "Piper Street Capital has raised a fund, called only part of the commitments, and still has the right to draw the rest for new deals. What is the undrawn amount commonly called?",
+    "choices": [
+      "Dry powder, meaning committed capital that has not yet been called.",
+      "DPI, meaning distributions already paid divided by paid-in capital.",
+      "Residual value, meaning the current mark of companies already owned."
+    ],
+    "correctIndex": 0,
+    "explanation": "Dry powder is future purchasing capacity under existing commitments. Residual value and DPI describe investments that have already been funded. Dry powder, meaning committed capital that has not yet been called."
+  },
+  {
+    "id": "AI-0042",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "medium",
+    "stem": "A buyout uses a large debt balance. The company’s asset return exceeds the interest rate on that debt in the sponsor’s base case. Which statement about the equity is most accurate?",
+    "choices": [
+      "Leverage raises the equity return in every outcome because interest is a fixed number.",
+      "Leverage does not affect equity returns when the debt is borrowed by the company rather than by the fund.",
+      "Leverage can raise the equity return in that base case, and it also magnifies the equity loss if the asset return falls short of the debt cost."
+    ],
+    "correctIndex": 2,
+    "explanation": "Debt is a fixed claim ahead of the equity. When the business earns more than that claim costs, the residual return rises. When it earns less, the residual absorbs the shortfall. Leverage can raise the equity return in that base case, and it also magnifies the equity loss if the asset return falls short of the debt cost."
+  },
+  {
+    "id": "AI-0043",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "hard",
+    "stem": "Limited partners in Piper Street Capital argue about when carried interest may be paid. Which waterfall contrast is most accurate?",
+    "choices": [
+      "A whole-fund waterfall pays carry on each exit as soon as that one company is sold above cost.",
+      "A deal-by-deal waterfall never uses a clawback because each deal is legally a separate fund.",
+      "A whole-fund waterfall pays carry only after the fund-level capital and preferred return tests are met. A deal-by-deal waterfall can pay carry on winners earlier."
+    ],
+    "correctIndex": 2,
+    "explanation": "The whole-fund, or European-style, sequence waits for the partnership results. The deal-by-deal, or American-style, sequence can distribute carry sooner, which is why clawback language matters. A whole-fund waterfall pays carry only after the fund-level capital and preferred return tests are met. A deal-by-deal waterfall can pay carry on winners earlier."
+  },
+  {
+    "id": "AI-0044",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "medium",
+    "stem": "A lender advances money to a venture-backed company that is still burning cash, and receives warrants along with a coupon. How should that loan be classified?",
+    "choices": [
+      "Venture debt, a private-debt claim on a young company, often with an equity kicker and less operating history than a buyout loan.",
+      "An availability-payment infrastructure asset, because the coupon is contractual.",
+      "A core buyout, because any loan to a company with outside shareholders is a control equity investment."
+    ],
+    "correctIndex": 0,
+    "explanation": "Venture debt is still debt: it ranks ahead of common equity and can default. The warrants are the extra compensation for lending before the company has stable cash flow. Venture debt, a private-debt claim on a young company, often with an equity kicker and less operating history than a buyout loan."
+  },
+  {
+    "id": "AI-0045",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "easy",
+    "stem": "Piper Street Capital finishes its work on a portfolio company and looks for a way to return capital. Which list contains only recognized exit routes?",
+    "choices": [
+      "A trade sale, an initial public offering, a secondary buyout, or a dividend recapitalization.",
+      "A management fee holiday, a high-water mark, and a soft hurdle.",
+      "An appraisal smoothing adjustment and a change in the cap-rate definition."
+    ],
+    "correctIndex": 0,
+    "explanation": "Exits convert company value into cash or a marketable security for the fund. Fee terms and valuation conventions are not exit routes. A trade sale, an initial public offering, a secondary buyout, or a dividend recapitalization."
+  },
+  {
+    "id": "AI-0046",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "hard",
+    "stem": "A limited partner in Piper Street Capital ignores a capital call because a public-equity sale has not settled. Which consequence is most accurate?",
+    "choices": [
+      "Capital calls are optional once the subscription agreement is signed, so there is no penalty.",
+      "The general partner must lend the limited partner the called amount at the risk-free rate.",
+      "The partner faces funding risk: missing a call can trigger default remedies, including forfeiture or a forced sale of the interest."
+    ],
+    "correctIndex": 2,
+    "explanation": "Commitments are contractual. The partnership agreement typically sets penalties so the fund can close deals without one investor’s cash arriving late. The partner faces funding risk: missing a call can trigger default remedies, including forfeiture or a forced sale of the interest."
+  },
+  {
+    "id": "AI-0047",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "medium",
+    "stem": "Piper Street Capital takes a minority stake in a growing, profitable company and does not layer on buyout-style debt. Which label fits best?",
+    "choices": [
+      "Growth equity, which finances expansion and usually uses less leverage than a control buyout.",
+      "Managed futures, which holds exchange-traded derivative contracts.",
+      "Distressed loan-to-own, which starts from a defaulted senior claim."
+    ],
+    "correctIndex": 0,
+    "explanation": "Growth equity sits between early venture and a leveraged buyout. The company is operating, the stake may not be control, and the return still depends on growth and the eventual exit rather than on a coupon. Growth equity, which finances expansion and usually uses less leverage than a control buyout."
+  },
+  {
+    "id": "AI-0048",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-private"
+    ],
+    "difficulty": "hard",
+    "stem": "Quarterly marks on a Piper Street Capital buyout fund move less than the public-equity market. A trustee concludes the fund is therefore a low-risk asset. What is the best response?",
+    "choices": [
+      "Private-equity risk equals the standard deviation of the reported marks, with no further adjustment.",
+      "Buyout equity has no cyclical risk because the companies are privately owned.",
+      "Infrequent or smoothed marks can hide economic volatility, so the reported path is a weak measure of the equity risk."
+    ],
+    "correctIndex": 2,
+    "explanation": "The absence of a daily price is not the absence of a daily change in value. Leverage, operating cyclicality, and exit-multiple risk remain even when the quarterly letter looks calm. Infrequent or smoothed marks can hide economic volatility, so the reported path is a weak measure of the equity risk."
+  },
+  {
+    "id": "AI-0049",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "An office property produces net operating income of USD 5.00 million before financing. Interest expense is USD 1.00 million. The property value is USD 100.00 million and the mortgage balance is USD 40.00 million. The cap rate equals NOI divided by property value, and NOI is measured before financing. The cap rate is closest to:",
+    "choices": [
+      "8.33%",
+      "4.00%",
+      "5.00%"
+    ],
+    "correctIndex": 2,
+    "explanation": "NOI before interest is the numerator, and the whole property value is the denominator. Subtracting interest, or dividing by equity value, answers a different question. The cap rate is 5.00%. \\(\\text{cap rate}=\\dfrac{\\mathrm{NOI}}{\\text{value}}=\\dfrac{5}{100}\\)"
+  },
+  {
+    "id": "AI-0050",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "easy",
+    "stem": "A warehouse has expected NOI of USD 2.40 million before financing. Investors require a 6.00% cap rate, defined as NOI divided by value. The property value implied by that cap rate is closest to:",
+    "choices": [
+      "USD 40.00 million",
+      "USD 48.00 million",
+      "USD 30.00 million"
+    ],
+    "correctIndex": 0,
+    "explanation": "Value is NOI divided by the cap rate. Using a 5% or an 8% cap rate changes the price because a higher cap rate is a lower price for the same NOI. The value is USD 40.00 million. \\(V=\\dfrac{2.40}{0.06}\\)"
+  },
+  {
+    "id": "AI-0051",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "easy",
+    "stem": "A property is worth USD 50.00 million. The cap rate is 8.00% and is defined as NOI divided by value, with NOI measured before financing. NOI is closest to:",
+    "choices": [
+      "USD 4.00 million",
+      "USD 625.00 million",
+      "USD 3.00 million"
+    ],
+    "correctIndex": 0,
+    "explanation": "NOI equals the cap rate times value. A 6% rate uses the wrong yield, and dividing value by the cap rate inverts the definition. NOI is USD 4.00 million. \\(\\mathrm{NOI}=0.08\\times 50\\)"
+  },
+  {
+    "id": "AI-0052",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "easy",
+    "stem": "An analyst subtracts mortgage interest from NOI before dividing by property value and calls the result a cap rate. What is the mistake?",
+    "choices": [
+      "The cap rate is defined only after interest, taxes, and the incentive fee.",
+      "The cap rate equals the coupon on the mortgage, so NOI is irrelevant.",
+      "The cap rate uses NOI before financing, so interest belongs in the levered equity return, not in the cap-rate numerator."
+    ],
+    "correctIndex": 2,
+    "explanation": "NOI is an unlevered property figure: rent minus operating costs, before debt service. Mixing in the loan makes the ratio depend on financing that the next buyer might not use. The cap rate uses NOI before financing, so interest belongs in the levered equity return, not in the cap-rate numerator."
+  },
+  {
+    "id": "AI-0053",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "Two buildings have the same expected NOI before financing. Building A is priced at a higher cap rate than Building B. Which comparison follows directly from the definition?",
+    "choices": [
+      "Building A has the lower required yield, because a high cap rate means a high price.",
+      "Building A has the lower value, because value equals NOI divided by the cap rate.",
+      "Building A must have more debt, because cap rates are computed from interest expense."
+    ],
+    "correctIndex": 1,
+    "explanation": "Holding NOI fixed, price and cap rate move in opposite directions. The cap rate itself does not tell you the loan balance. Building A has the lower value, because value equals NOI divided by the cap rate."
+  },
+  {
+    "id": "AI-0054",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "A real-estate program labels one sleeve core and another opportunistic. Which contrast is most accurate?",
+    "choices": [
+      "Core property is typically stabilized and modestly levered. Opportunistic property takes development, vacancy, or turnaround risk and often uses more leverage.",
+      "The two labels describe fee schedules only and say nothing about asset risk.",
+      "Core property is ground-up development with no tenants, and opportunistic property is a fully leased government bond."
+    ],
+    "correctIndex": 0,
+    "explanation": "The style names are a risk ladder: core, then core-plus, value-add, and opportunistic. They are about the buildings and the leverage, not just about what the manager calls the fee. Core property is typically stabilized and modestly levered. Opportunistic property takes development, vacancy, or turnaround risk and often uses more leverage."
+  },
+  {
+    "id": "AI-0055",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "A pension compares a private property portfolio with an equity REIT that owns similar buildings. Which liquidity and market statement is most accurate?",
+    "choices": [
+      "The private portfolio can be sold at its appraisal every day, so it is as liquid as the REIT.",
+      "The REIT cannot fall when the stock market falls, because it owns buildings rather than companies.",
+      "The REIT trades on an exchange, so it is easier to resize, but its price can move with public equities and may not track the private appraisal."
+    ],
+    "correctIndex": 2,
+    "explanation": "Exchange listing solves the trading problem and imports equity-market sentiment. Private marks can look calmer precisely because they are not traded every day. The REIT trades on an exchange, so it is easier to resize, but its price can move with public equities and may not track the private appraisal."
+  },
+  {
+    "id": "AI-0056",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "easy",
+    "stem": "An equity REIT and a mortgage REIT both appear in a real-estate allocation. Which distinction is most accurate?",
+    "choices": [
+      "Both REITs are legally required to hold only physical land and no financial claims.",
+      "The equity REIT owns properties. The mortgage REIT owns loans or mortgage securities and is primarily a credit and interest-rate exposure.",
+      "The mortgage REIT’s return equals the cap rate on the buildings that secure the loans, with no credit risk."
+    ],
+    "correctIndex": 1,
+    "explanation": "The word REIT does not fix the underlying risk. Equity REITs are a property business. Mortgage REITs are a financing business. The equity REIT owns properties. The mortgage REIT owns loans or mortgage securities and is primarily a credit and interest-rate exposure."
+  },
+  {
+    "id": "AI-0057",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "easy",
+    "stem": "Halcyon Water buys a water-treatment plant that has been operating for twelve years, with a known volume history and an existing workforce. How should the asset be classified?",
+    "choices": [
+      "Greenfield infrastructure, because every utility project is treated as new construction.",
+      "Brownfield infrastructure, because it already has an operating history.",
+      "Venture capital, because the asset is not listed on an exchange."
+    ],
+    "correctIndex": 1,
+    "explanation": "Brownfield means the project is already operating, so the buyer can study traffic, throughput, or collections. Greenfield still has to be built. Brownfield infrastructure, because it already has an operating history."
+  },
+  {
+    "id": "AI-0058",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "A sponsor is financing a toll road that has not been built. Construction takes four years and traffic after opening is only a forecast. Which risk description is most accurate?",
+    "choices": [
+      "This is brownfield infrastructure, because a government permit counts as an operating history.",
+      "Construction risk disappears once the debt is non-recourse to the sponsor’s other assets.",
+      "This is greenfield infrastructure, so construction risk is present and there is no operating history yet."
+    ],
+    "correctIndex": 2,
+    "explanation": "Greenfield investors bear delay, cost overrun, and ramp-up risk before a cash-flow history exists. Non-recourse financing shifts who posts collateral; it does not finish the road. This is greenfield infrastructure, so construction risk is present and there is no operating history yet."
+  },
+  {
+    "id": "AI-0059",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "Halcyon Water is paid by a municipality whenever the treatment plant meets availability and quality tests. Payment does not rise or fall with how many households choose to use extra water. Which risk has been reduced?",
+    "choices": [
+      "All political and regulatory risk is eliminated by the availability test.",
+      "Demand, or volume, risk is limited because the payment depends on availability rather than on usage.",
+      "The asset is risk-free because the payment is contractual."
+    ],
+    "correctIndex": 1,
+    "explanation": "Availability payments transfer the “will anyone show up?” risk away from the investor, within the terms of the contract. They do not remove the risk that the contract is changed, unpaid, or failed by an operational miss. Demand, or volume, risk is limited because the payment depends on availability rather than on usage."
+  },
+  {
+    "id": "AI-0060",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "A different road project pays Halcyon Water only from tolls collected on vehicles that choose that route. Which infrastructure risk is most prominent?",
+    "choices": [
+      "Demand, or volume, risk, because revenue moves with traffic rather than with a fixed availability payment.",
+      "The project has venture-capital failure risk only, and traffic forecasts are irrelevant.",
+      "No volume risk exists, because a road is a physical asset with an operating history."
+    ],
+    "correctIndex": 0,
+    "explanation": "Merchant or usage-based infrastructure keeps the revenue exposure of the underlying service. A brownfield toll road can still have an operating history and retain volume risk. Demand, or volume, risk, because revenue moves with traffic rather than with a fixed availability payment."
+  },
+  {
+    "id": "AI-0061",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "hard",
+    "stem": "An infrastructure concession resets part of Halcyon Water’s tariff with a published inflation index. A trustee treats the holding as protected against every loss of purchasing power. What is the best correction?",
+    "choices": [
+      "The inflation link can help the real cash flow, but regulatory, political, and operating risks remain.",
+      "Inflation linkage raises demand risk and removes regulatory risk by law.",
+      "An inflation index converts the concession into a risk-free real bond."
+    ],
+    "correctIndex": 0,
+    "explanation": "Indexation addresses one exposure, the nominal price in the formula. It does not guarantee volume, collection, or that the regulator will leave the formula in place. The inflation link can help the real cash flow, but regulatory, political, and operating risks remain."
+  },
+  {
+    "id": "AI-0062",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "Over a five-year hold, a building’s NOI grows and the exit cap rate is lower than the entry cap rate. Which statement about the cap rate and the holding-period return is most accurate?",
+    "choices": [
+      "The entry cap rate is not the holding-period return, because NOI growth and a cap-rate change also affect the sale price.",
+      "The holding-period return equals the entry cap rate for any hold longer than one year.",
+      "A lower exit cap rate reduces the sale price when NOI is unchanged."
+    ],
+    "correctIndex": 0,
+    "explanation": "The cap rate is a one-period income yield on current value. Total return also includes the change in price. A lower exit cap rate, holding NOI fixed, raises the sale price. The entry cap rate is not the holding-period return, because NOI growth and a cap-rate change also affect the sale price."
+  },
+  {
+    "id": "AI-0063",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "hard",
+    "stem": "A private real-estate index is built from appraisals and seems to lag a sharp decline in listed property shares. Which measurement point is most accurate?",
+    "choices": [
+      "Appraisal indexes lead public markets because appraisers see private bids first.",
+      "Lag in an appraisal index proves that private property rose while public shares fell.",
+      "Appraisal-based indexes can lag transaction prices and can understate short-run volatility and correlation."
+    ],
+    "correctIndex": 2,
+    "explanation": "Stale appraisals delay bad news and good news. The lag is a measurement issue. It is not evidence that the economic values moved in opposite directions. Appraisal-based indexes can lag transaction prices and can understate short-run volatility and correlation."
+  },
+  {
+    "id": "AI-0064",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-real"
+    ],
+    "difficulty": "medium",
+    "stem": "An investor buys the same building once with no debt and once with a large mortgage. NOI before financing is unchanged. What happens to the equity position?",
+    "choices": [
+      "Leverage does not change equity volatility when the cap rate is computed before interest.",
+      "Leverage reduces equity volatility because the lender shares each dollar of NOI equally.",
+      "Leverage increases the volatility of the equity return relative to the unlevered property."
+    ],
+    "correctIndex": 2,
+    "explanation": "The lender is paid first. The equity is the residual, so both gains and shortfalls in property value are concentrated on a smaller equity cheque. Leverage increases the volatility of the equity return relative to the unlevered property."
+  },
+  {
+    "id": "AI-0065",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "medium",
+    "stem": "A commodity investor decomposes the year into a price return of 5.00%, a roll return of −3.00% because the futures curve is in contango, and a collateral return of 1.00%. The total return is the sum of those three parts. The total return is closest to:",
+    "choices": [
+      "3.00%",
+      "9.00%",
+      "5.00%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Price return plus a negative roll return plus collateral return is the total. Dropping the roll and the collateral, or flipping the contango roll to a gain, misstates the position. The total return is 3.00%. \\(0.05+(-0.03)+0.01=0.03\\)"
+  },
+  {
+    "id": "AI-0066",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "medium",
+    "stem": "A later year has a price return of −2.00%, a roll return of 4.00% because the futures curve is in backwardation, and a collateral return of 1.00%. The total return is the sum of the three parts. The total return is closest to:",
+    "choices": [
+      "3.00%",
+      "-2.00%",
+      "-5.00%"
+    ],
+    "correctIndex": 0,
+    "explanation": "Backwardation makes the long roll return positive in the usual futures-curve case. Using only the spot move, or treating the roll as a cost, misses that sign. The total return is 3.00%. \\(-0.02+0.04+0.01=0.03\\)"
+  },
+  {
+    "id": "AI-0067",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "easy",
+    "stem": "A commodity index return is explained with three pieces. Which list names those pieces?",
+    "choices": [
+      "Management fee, incentive fee, and high-water mark.",
+      "Price return, roll return, and collateral return.",
+      "DPI, RVPI, and TVPI."
+    ],
+    "correctIndex": 1,
+    "explanation": "The futures investor earns or loses the change in the commodity price, the gain or cost of rolling the futures, and the interest on posted collateral. Private-equity multiples and hedge-fund fees are different decompositions. Price return, roll return, and collateral return."
+  },
+  {
+    "id": "AI-0068",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "easy",
+    "stem": "The nearby futures price sits below the further-dated futures price, so the curve slopes upward. A long-only index rolls out of the nearby contract. Which roll description is most accurate?",
+    "choices": [
+      "The curve is in backwardation, and the long roll return is typically negative.",
+      "The curve is in contango, and the long roll return is typically positive.",
+      "The curve is in contango, and the long roll return is typically negative."
+    ],
+    "correctIndex": 2,
+    "explanation": "Contango means the investor is selling the cheaper nearby contract and buying a more expensive later one, which is a cost if that shape persists. Backwardation is the opposite slope. The curve is in contango, and the long roll return is typically negative."
+  },
+  {
+    "id": "AI-0069",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "easy",
+    "stem": "Nearby commodity futures trade above longer-dated futures. Which statement about a long index that rolls forward is most accurate?",
+    "choices": [
+      "The curve is in contango, and the long roll return is typically positive.",
+      "Backwardation removes collateral return, so the total return equals the price return only.",
+      "The curve is in backwardation, and the long roll return is typically positive."
+    ],
+    "correctIndex": 2,
+    "explanation": "In backwardation the long roll sells the expensive nearby and buys a cheaper deferred contract. Collateral return is a separate piece and does not vanish because of the curve shape. The curve is in backwardation, and the long roll return is typically positive."
+  },
+  {
+    "id": "AI-0070",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "medium",
+    "stem": "A client adds the Treasury return earned on cash posted against commodity futures to the roll return and calls the sum “roll yield.” What should the analyst separate?",
+    "choices": [
+      "Collateral return is just another name for roll return, so adding them double-counts nothing.",
+      "Collateral return is the change in the spot price of the commodity.",
+      "Collateral return is the interest on the posted cash. Roll return comes from moving along the futures curve. They are different pieces."
+    ],
+    "correctIndex": 2,
+    "explanation": "The cash earns a financing rate whether the curve is in contango or backwardation. The roll depends on the curve. The spot move is the third piece. Collateral return is the interest on the posted cash. Roll return comes from moving along the futures curve. They are different pieces."
+  },
+  {
+    "id": "AI-0071",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "medium",
+    "stem": "Redcedar Timber owns forests that keep adding wood volume even in a year when log prices are flat. Harvest can be delayed if prices are weak. Which return feature is most accurate?",
+    "choices": [
+      "Timber return equals the collateral return on a futures index and cannot grow while prices are flat.",
+      "Biological growth can add value when timber prices do not, and the owner has some choice about when to cut.",
+      "Delaying harvest eliminates price risk because the trees are no longer exposed to the log market."
+    ],
+    "correctIndex": 1,
+    "explanation": "Standing timber is both inventory and a growing asset. Waiting can be valuable, but the land and the wood remain exposed to prices, weather, and demand when the harvest eventually happens. Biological growth can add value when timber prices do not, and the owner has some choice about when to cut."
+  },
+  {
+    "id": "AI-0072",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "medium",
+    "stem": "Veldt Agriculture leases cropland to operators and also expects the land price to change. Which description of the return is most accurate?",
+    "choices": [
+      "The holding can earn lease income and can gain or lose on the land price. Crop prices and weather still matter to the tenants and to rents.",
+      "Farmland return is only the roll return on a grain futures contract.",
+      "A cash lease removes all agricultural risk because the owner does not drive the tractor."
+    ],
+    "correctIndex": 0,
+    "explanation": "Lease income is the property yield. Land appreciation is a second source. The tenant’s ability to pay, and the next rent negotiation, still depend on farming conditions. The holding can earn lease income and can gain or lose on the land price. Crop prices and weather still matter to the tenants and to rents."
+  },
+  {
+    "id": "AI-0073",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "easy",
+    "stem": "An investor wants commodity exposure without storing barrels or bushels. The vehicle is a futures index that replaces expiring contracts. Which statement is most accurate?",
+    "choices": [
+      "The index obtains exposure through futures and must roll them. It does not require the investor to warehouse the physical commodity.",
+      "Rolling futures removes both price return and roll return from the index.",
+      "A futures index holds the physical inventory, so storage costs appear as a management fee only."
+    ],
+    "correctIndex": 0,
+    "explanation": "The futures position tracks the commodity and the collateral earns interest. The roll is the mechanical replacement of expiring contracts, which is why curve shape enters the return. The index obtains exposure through futures and must roll them. It does not require the investor to warehouse the physical commodity."
+  },
+  {
+    "id": "AI-0074",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "hard",
+    "stem": "Industrial users place a high value on having a commodity in inventory today. Futures for later delivery are cheaper than the spot price. Which link is most accurate?",
+    "choices": [
+      "A high convenience yield forces contango, so the long roll return is typically negative.",
+      "Convenience yield is the interest earned on futures collateral and does not affect the curve.",
+      "A high convenience yield can pull the curve into backwardation, which is the case where the long roll return is typically positive."
+    ],
+    "correctIndex": 2,
+    "explanation": "Convenience yield is the benefit of holding the physical good. When that benefit is large relative to storage and financing, the futures curve can slope downward. Collateral interest remains a separate return piece. A high convenience yield can pull the curve into backwardation, which is the case where the long roll return is typically positive."
+  },
+  {
+    "id": "AI-0075",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "hard",
+    "stem": "Redcedar Timber is marked by annual appraisals. A broad commodity futures index is marked in the market every day. Which comparison of measured risk is most accurate?",
+    "choices": [
+      "The timber appraisal can look smoother than the futures index even when land and log values are risky, because infrequent marks understate volatility.",
+      "The futures index is smoother, because rolling contracts removes price changes.",
+      "Appraisal and futures volatility are directly comparable without considering how often each is priced."
+    ],
+    "correctIndex": 0,
+    "explanation": "A daily futures mark records the path. An annual appraisal can skip it. That measurement gap, not a claim that trees have no risk, explains part of the difference in reported volatility. The timber appraisal can look smoother than the futures index even when land and log values are risky, because infrequent marks understate volatility."
+  },
+  {
+    "id": "AI-0076",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-natural"
+    ],
+    "difficulty": "medium",
+    "stem": "The spot price of a commodity is unchanged over the year and the futures curve stays in contango. A long-only index posts Treasury bills as collateral. Which result is most accurate?",
+    "choices": [
+      "The long roll return is typically negative in contango, so the index can lose money on the roll even though the spot price did not move.",
+      "Contango makes the long roll return positive, so the index gains the roll when the spot price is flat.",
+      "An unchanged spot price means the total return is zero, whatever the shape of the curve."
+    ],
+    "correctIndex": 0,
+    "explanation": "With a flat spot price the price return is zero, but the roll is not. Collateral return can offset only part of a negative roll. Contango is the costly shape for the long index. The long roll return is typically negative in contango, so the index can lose money on the roll even though the spot price did not move."
+  },
+  {
+    "id": "AI-0077",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "easy",
+    "stem": "Westmill Fund holds long and short equity positions. Net exposure is positive but well below the value of the longs. Which strategy family is this?",
+    "choices": [
+      "Asset-backed availability infrastructure, which is paid if a plant is operating.",
+      "Equity long/short, which combines directional net exposure with security selection on both sides.",
+      "Merger arbitrage, which isolates a deal spread after an announced transaction."
+    ],
+    "correctIndex": 1,
+    "explanation": "Long/short equity is still an equity book. The shorts reduce, but do not have to eliminate, market exposure. The manager can also be net short. Equity long/short, which combines directional net exposure with security selection on both sides."
+  },
+  {
+    "id": "AI-0078",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "medium",
+    "stem": "A Westmill Fund sleeve keeps dollar amounts of long and short equities nearly matched and targets a beta close to zero. Which description is most accurate?",
+    "choices": [
+      "Equity market-neutral, where the return is meant to come from the long-short spread rather than from the market’s direction.",
+      "Global macro, which takes top-down directional views on rates, currencies, and commodities.",
+      "A buyout fund, which uses private control equity and does not short public shares."
+    ],
+    "correctIndex": 0,
+    "explanation": "Market-neutral is the special case of equity hedge that tries to remove the market factor. Imperfect hedges mean the beta is rarely exactly zero in practice. Equity market-neutral, where the return is meant to come from the long-short spread rather than from the market’s direction."
+  },
+  {
+    "id": "AI-0079",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "medium",
+    "stem": "After a cash takeover is announced, Westmill Fund buys the target and shorts a related hedge. The position loses if regulators block the deal. Which family fits?",
+    "choices": [
+      "Event-driven merger arbitrage, which earns a spread if the announced deal closes and loses if it breaks.",
+      "Managed futures, which follows price trends in listed futures without needing a corporate event.",
+      "Relative-value fixed-income arbitrage, which hedges a yield-curve or credit-spread relationship."
+    ],
+    "correctIndex": 0,
+    "explanation": "The catalyst is the deal. Deal-break, financing, and timing risk are the point of the trade, not a general view on the equity market. Event-driven merger arbitrage, which earns a spread if the announced deal closes and loses if it breaks."
+  },
+  {
+    "id": "AI-0080",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "medium",
+    "stem": "Westmill Fund also buys bonds of a company near default and sometimes presses for a restructuring. In which hedge-fund family do distressed securities and merger arbitrage both sit?",
+    "choices": [
+      "Core real estate, because both strategies own stabilized buildings.",
+      "Event-driven, because both strategies depend on a corporate event rather than on a matched relative-value hedge.",
+      "Commodity carry, because both strategies earn a roll return."
+    ],
+    "correctIndex": 1,
+    "explanation": "Event-driven books share a catalyst: a merger, a restructuring, a spin-off, or a similar corporate action. The securities and the hedges differ by event. Event-driven, because both strategies depend on a corporate event rather than on a matched relative-value hedge."
+  },
+  {
+    "id": "AI-0081",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "hard",
+    "stem": "Westmill Fund buys a convertible bond and shorts the issuer’s equity, trying to isolate a cheap embedded option. Which classification is most accurate?",
+    "choices": [
+      "Activist event-driven, which buys equity to force a sale of the whole company.",
+      "Relative value, specifically convertible arbitrage.",
+      "Direct lending, which holds a private loan to maturity and does not hedge with listed equity."
+    ],
+    "correctIndex": 1,
+    "explanation": "The trade is about the pricing gap between the convertible and the equity hedge. It is not a campaign to change the company’s strategy and it is not a private-credit hold. Relative value, specifically convertible arbitrage."
+  },
+  {
+    "id": "AI-0082",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "easy",
+    "stem": "A Westmill Fund portfolio manager takes discretionary views on interest rates, currencies, and equity indexes across countries. Which strategy is this?",
+    "choices": [
+      "Mezzanine lending, which holds subordinated private loans.",
+      "Equity market-neutral, which keeps stock-specific longs and shorts with little net market exposure.",
+      "Global macro, a top-down strategy that can be long or short entire markets."
+    ],
+    "correctIndex": 2,
+    "explanation": "Macro bets are about policy, growth, and market direction. Security-level neutrality is a different equity-hedge design. Global macro, a top-down strategy that can be long or short entire markets."
+  },
+  {
+    "id": "AI-0083",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "medium",
+    "stem": "Another Westmill Fund program follows price trends in liquid futures across commodities, rates, and currencies, and it does not forecast a single company’s earnings. Which label fits?",
+    "choices": [
+      "Appraisal-based core property, which is marked by periodic valuations rather than by futures trends.",
+      "Managed futures, often called a CTA, commonly using systematic trend-following.",
+      "Private-equity venture capital, which takes concentrated stakes in young companies."
+    ],
+    "correctIndex": 1,
+    "explanation": "CTAs trade listed derivatives and can move long or short as trends change. Their liquidity is generally better than a private-equity drawdown fund, and the risk is the trend model plus leverage. Managed futures, often called a CTA, commonly using systematic trend-following."
+  },
+  {
+    "id": "AI-0084",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "medium",
+    "stem": "An investor reaches Westmill Fund only through a fund of funds that charges its own fee on top of the underlying managers’ fees. Which tradeoff is most accurate?",
+    "choices": [
+      "A fund of funds is legally a separately managed account, so the investor owns each hedge fund’s securities directly.",
+      "The extra layer can add manager diversification and access, and it adds a second fee that lowers the investor’s net return.",
+      "The fund-of-funds fee replaces all underlying management and incentive fees."
+    ],
+    "correctIndex": 1,
+    "explanation": "The wrapper solves some operational and minimum-size problems. It does not repeal the fees of the funds it holds, and the investor owns the fund-of-funds shares rather than every underlying position. The extra layer can add manager diversification and access, and it adds a second fee that lowers the investor’s net return."
+  },
+  {
+    "id": "AI-0085",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "hard",
+    "stem": "A hedge-fund index adds Westmill Fund only after three strong years, and those three years are written into the index history. Which bias is that?",
+    "choices": [
+      "A high-water mark, which reduces future incentive fees after a loss.",
+      "Backfill, or instant-history, bias, which tends to overstate past index returns.",
+      "Appraisal smoothing, which comes from infrequent private-asset valuations."
+    ],
+    "correctIndex": 1,
+    "explanation": "Managers are more willing to start reporting after good results. Putting that earlier success into the index history makes the published track record look better than a strategy that was followed in real time. Backfill, or instant-history, bias, which tends to overstate past index returns."
+  },
+  {
+    "id": "AI-0086",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "hard",
+    "stem": "Several funds that shut down after losses are dropped from a hedge-fund index. The index then shows only the funds that survived. Which bias results?",
+    "choices": [
+      "Contango, which affects the roll return of a commodity index.",
+      "A soft hurdle, which changes the incentive fee on a single fund.",
+      "Survivorship bias, which tends to overstate the returns of the strategy as investors actually experienced it."
+    ],
+    "correctIndex": 2,
+    "explanation": "If the failures disappear from the average, the remaining average is too high. An investor who picked funds at the start would have owned some of the funds that later vanished from the index. Survivorship bias, which tends to overstate the returns of the strategy as investors actually experienced it."
+  },
+  {
+    "id": "AI-0087",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "medium",
+    "stem": "Westmill Fund allows redemptions once a year after a one-year lock-up, and it may cap the share of the fund that leaves on any date. Which terms are those?",
+    "choices": [
+      "A gate requires the fund to return all capital within five business days of any request.",
+      "A lock-up is a high-water mark, and a gate is the incentive fee.",
+      "A lock-up restricts the first redemption, and a gate can limit how much is paid out on a dealing date."
+    ],
+    "correctIndex": 2,
+    "explanation": "Liquidity terms exist because the positions may not be saleable on the investor’s schedule. A gate spreads redemptions. It is not a promise of immediate cash. A lock-up restricts the first redemption, and a gate can limit how much is paid out on a dealing date."
+  },
+  {
+    "id": "AI-0088",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "hard",
+    "stem": "Westmill Fund moves a hard-to-sell position into a separate sleeve. Redeeming investors receive cash on the liquid book and keep a claim on the illiquid sleeve. What is that sleeve?",
+    "choices": [
+      "A side pocket, used so exiting investors do not take a full cash share of assets the fund cannot sell fairly.",
+      "A catch-up, used to accelerate carried interest to the general partner.",
+      "Dry powder, meaning committed capital that has not been called."
+    ],
+    "correctIndex": 0,
+    "explanation": "The side pocket matches the illiquid asset with the investors who were present when it was bought. It is a liquidity tool, not a fee waterfall and not unused commitments. A side pocket, used so exiting investors do not take a full cash share of assets the fund cannot sell fairly."
+  },
+  {
+    "id": "AI-0089",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "easy",
+    "stem": "A trustee hears the name Westmill Fund and assumes the portfolio is hedged against equity-market declines. The fund’s net exposure is in fact large and positive. Which correction is most accurate?",
+    "choices": [
+      "A positive net exposure means the fund is classified as private equity.",
+      "Every hedge fund is required to keep beta below 0.2, so the exposure figure must be wrong.",
+      "“Hedge fund” describes a fee and legal wrapper, not a promise that market exposure is hedged away."
+    ],
+    "correctIndex": 2,
+    "explanation": "Many hedge funds are directional. The shorts and the derivatives are tools the manager may use. The label alone does not tell you the beta. “Hedge fund” describes a fee and legal wrapper, not a promise that market exposure is hedged away."
+  },
+  {
+    "id": "AI-0090",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-hedge"
+    ],
+    "difficulty": "hard",
+    "stem": "Westmill Fund uses leverage and short sales. During a squeeze, losses grow and redemption requests are gated. Which risk statement is most accurate?",
+    "choices": [
+      "Leverage and shorting can produce losses beyond a simple long-only decline, and the liquidity terms can prevent investors from leaving at the same moment.",
+      "Leverage reduces losses in a squeeze because borrowed securities rise in value for the long holder only.",
+      "Short sales cap the fund’s loss at the management fee, so gating is unnecessary."
+    ],
+    "correctIndex": 0,
+    "explanation": "A short has open-ended loss potential, and borrowed funding can be withdrawn. Gates then turn an investment loss into a funding and liquidity problem for the investor who wants out. Leverage and shorting can produce losses beyond a simple long-only decline, and the liquidity terms can prevent investors from leaving at the same moment."
+  },
+  {
+    "id": "AI-0091",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "easy",
+    "stem": "A consultant describes a shared record of transactions that many nodes update, and a blockchain as one way to organize that record. Which statement is most accurate?",
+    "choices": [
+      "A distributed ledger and a hedge-fund side pocket are the same legal structure.",
+      "A blockchain exists only if a commercial bank stores the only copy of the ledger.",
+      "A distributed ledger is the broader idea, and a blockchain is one structure used to keep that kind of record."
+    ],
+    "correctIndex": 2,
+    "explanation": "The ledger is distributed so that no single private database is the only record. How the chain of blocks is written is an implementation choice inside that idea. A distributed ledger is the broader idea, and a blockchain is one structure used to keep that kind of record."
+  },
+  {
+    "id": "AI-0092",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "medium",
+    "stem": "An investor loses the private keys to a digital-asset wallet, and a separate client keeps coins at a trading firm that later fails. Which risk do both stories illustrate?",
+    "choices": [
+      "Roll-return risk, which arises only when a commodity futures curve is in contango.",
+      "Custody risk: control of the keys, or of the intermediary that holds them, is the control of the asset.",
+      "Appraisal smoothing, which understates the volatility of infrequently valued private assets."
+    ],
+    "correctIndex": 1,
+    "explanation": "On these networks the holder of the key can move the asset. Self-custody and exchange custody fail in different ways, and both are custody problems rather than a feature of timber or commodity rolls. Custody risk: control of the keys, or of the intermediary that holds them, is the control of the asset."
+  },
+  {
+    "id": "AI-0093",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "medium",
+    "stem": "A smart-contract application used by a digital-asset fund is drained because of a software bug after a network upgrade. Which risk is the central one?",
+    "choices": [
+      "Cap-rate expansion, because the bug changes NOI on a building.",
+      "Technology risk, including bugs, exploits, and failed or contentious upgrades.",
+      "A soft hurdle, because the loss is a fee calculation."
+    ],
+    "correctIndex": 1,
+    "explanation": "The protocol and the applications built on it can fail even when the investment thesis about adoption was coherent. That is a technology failure, not a property-valuation identity. Technology risk, including bugs, exploits, and failed or contentious upgrades."
+  },
+  {
+    "id": "AI-0094",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "medium",
+    "stem": "A regulator reclassifies a token, restricts which firms may list it, and changes the tax treatment of a sale. The code that runs the network is unchanged. Which risk showed up?",
+    "choices": [
+      "Collateral return, which is the interest posted against commodity futures.",
+      "Regulatory risk, which can limit holding, trading, custody, or the after-tax result without a change in the software.",
+      "Biological growth risk, which applies to a timber stand such as Redcedar Timber."
+    ],
+    "correctIndex": 1,
+    "explanation": "Legal status is not fixed by the ledger. A token that traded freely can become expensive or impossible to hold inside a regulated account after a rule change. Regulatory risk, which can limit holding, trading, custody, or the after-tax result without a change in the software."
+  },
+  {
+    "id": "AI-0095",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "hard",
+    "stem": "A portfolio constructed in calm markets shows a low correlation between digital assets and equities. In a later stress period the two fall together. Which conclusion is most accurate?",
+    "choices": [
+      "Correlations can rise in stress, so digital assets should not be described as always diversifying.",
+      "Digital assets have a contractual zero beta, so a joint decline is a data error.",
+      "A low correlation estimated in a calm sample proves the stress correlation will stay low."
+    ],
+    "correctIndex": 0,
+    "explanation": "Diversification is a correlation outcome, not a label. When investors cut risk at the same time, assets that looked independent can move together. Nothing in the technology sets beta to zero. Correlations can rise in stress, so digital assets should not be described as always diversifying."
+  },
+  {
+    "id": "AI-0096",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "medium",
+    "stem": "A token is described as a stablecoin that targets one unit of a fiat currency. The reserve mix is opaque. Which statement is most accurate?",
+    "choices": [
+      "The peg can break if reserves, the redemption mechanism, or confidence fails. The word “stable” is an objective, not a guarantee.",
+      "A stablecoin is legally a Treasury bill, so the peg cannot break.",
+      "A stablecoin’s price risk equals the cap rate on Halcyon Water’s treatment plant."
+    ],
+    "correctIndex": 0,
+    "explanation": "Pegs are maintained by collateral, by redemption, or by an algorithm. Each of those can fail. The token is not a government bill merely because it quotes a government unit of account. The peg can break if reserves, the redemption mechanism, or confidence fails. The word “stable” is an objective, not a guarantee."
+  },
+  {
+    "id": "AI-0097",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "easy",
+    "stem": "One network pays miners who spend computation to add blocks. Another selects validators who post stake. Which comparison is most accurate?",
+    "choices": [
+      "Proof-of-stake means a custodian has insured the coins, so technology risk is gone.",
+      "Proof-of-work and proof-of-stake are different consensus methods. Staking is not the same thing as custody of a client’s keys by a broker.",
+      "Proof-of-work is a private-equity waterfall that pays carried interest to miners."
+    ],
+    "correctIndex": 1,
+    "explanation": "Consensus decides who may write the next valid block. Custody decides who can sign for a particular balance. Mixing those ideas hides both the energy or capital used to secure the chain and the key-management problem. Proof-of-work and proof-of-stake are different consensus methods. Staking is not the same thing as custody of a client’s keys by a broker."
+  },
+  {
+    "id": "AI-0098",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "hard",
+    "stem": "A digital token pays no contractual coupon and has no claim on a company’s assets. An analyst discounts a promised dividend anyway. What is the best caution?",
+    "choices": [
+      "Every token is a claim on Halcyon Water’s availability payments, so the dividend model is required.",
+      "Without a contractual cash flow, a dividend-discount value is not an adequate description of what the holder owns.",
+      "The absence of a coupon means the token’s risk is zero and the discount rate is the risk-free rate."
+    ],
+    "correctIndex": 1,
+    "explanation": "Valuation still requires a story about future use, scarcity, or a claim that really exists. Inventing a dividend the code does not pay makes the model look more precise than the right is. Without a contractual cash flow, a dividend-discount value is not an adequate description of what the holder owns."
+  },
+  {
+    "id": "AI-0099",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "medium",
+    "stem": "One token is marketed as a utility token that grants access to a service. Another is marketed as a security token that is a claim on an asset. Which legal point is most accurate?",
+    "choices": [
+      "A security token cannot fall in price because it is a claim, so correlation risk is gone.",
+      "The marketing label does not settle the legal category. Either token can still face regulatory, custody, and technology risk.",
+      "Calling a token a utility token exempts it from every securities rule in every jurisdiction."
+    ],
+    "correctIndex": 1,
+    "explanation": "Regulators look at economic substance. A label chosen by the issuer is not a shield, and a real claim can still be illiquid, mis-sold, or technologically unreachable. The marketing label does not settle the legal category. Either token can still face regulatory, custody, and technology risk."
+  },
+  {
+    "id": "AI-0100",
+    "topicId": "alternatives",
+    "losIds": [
+      "ai-digital"
+    ],
+    "difficulty": "hard",
+    "stem": "A fund holds its digital assets at one large trading venue to make rebalancing easier. The ledger itself is operated by many nodes. Which risk remains concentrated?",
+    "choices": [
+      "Exchange custody removes regulatory risk because the venue is the legal owner of the protocol.",
+      "A distributed ledger means no intermediary failure can affect the fund’s ability to reach its coins.",
+      "Custody and operational risk at the venue remain concentrated, even though the underlying ledger is distributed."
+    ],
+    "correctIndex": 2,
+    "explanation": "Distribution of the ledger and distribution of the fund’s keys are different designs. Leaving the keys with one firm recreates a single point of failure, and the firm’s licenses can change. Custody and operational risk at the venue remain concentrated, even though the underlying ledger is distributed."
+  }
+]
