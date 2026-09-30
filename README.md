@@ -22,7 +22,7 @@ Not affiliated with CFA Institute. For educational practice only. CFA®, Charter
 | Portfolio Management | 115 | 8–12% | 9.4% |
 | **Total** | **1,220** |  | **100%** |
 
-Topic weights are the 2026 ranges published on the [CFA Institute Level I exam page](https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam). Module titles follow the [2026 Level I topic outlines](https://www.cfainstitute.org/sites/default/files/docs/programs/cfa-program/2026-l1-topics-combined.pdf). Every item is tagged to one of those modules. `npm run validate` requires at least four items on each module.
+Topic weights are the 2026 ranges published on the [CFA Institute Level I exam page](https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam). Module titles follow the [2026 Level I topic outlines](https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam). Every item is tagged to one of those modules. `npm run validate` requires at least four items on each module.
 
 ## Mock exam
 
