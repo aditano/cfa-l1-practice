@@ -2,7 +2,7 @@ import type { Topic, TopicId } from './types'
 
 export const CURRICULUM_SOURCES = {
   weights: 'https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam',
-  modules: 'https://www.cfainstitute.org/sites/default/files/docs/programs/cfa-program/2026-l1-topics-combined.pdf',
+  modules: 'https://www.cfainstitute.org/programs/cfa-program/candidate-resources/level-i-exam',
 } as const
 
 export const TOPICS: Topic[] = [

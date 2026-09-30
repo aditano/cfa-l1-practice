@@ -77,7 +77,7 @@ export function Home({ go }: { go: (route: RouteName) => void }) {
         <p className="fine">
           Weights:{' '}
           <a href={CURRICULUM_SOURCES.weights}>CFA Institute Level I exam page</a>. Module list:{' '}
-          <a href={CURRICULUM_SOURCES.modules}>2026 Level I topic outlines (PDF)</a>.
+          <a href={CURRICULUM_SOURCES.modules}>2026 Level I topic outlines (CFA Institute)</a>.
         </p>
       </section>
       <section className="steps">
