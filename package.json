@@ -2,6 +2,7 @@
   "name": "cfa-l1-practice",
   "private": true,
   "version": "1.0.0",
+  "license": "GPL-3.0-or-later",
   "type": "module",
   "engines": {
     "node": ">=22"

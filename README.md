@@ -87,3 +87,11 @@ Authored drafts live in `scripts/content/`, one file per topic. `scripts/author.
 ## GitHub Pages
 
 `.github/workflows/pages.yml` builds and deploys on every push to `main` with `actions/deploy-pages`. In the repository settings, GitHub Pages must use **GitHub Actions** as the source. The published site is a project site, so asset URLs use the `/cfa-l1-practice/` base path.
+
+## License
+
+Copyright 2026 Anthony DiTano.
+
+Original work in this repository is licensed under the GNU General Public License version 3 or any later version (GPL-3.0-or-later). The full license text is in [LICENSE](LICENSE).
+
+CFA Institute content and trademarks, and other third-party material, keep their own terms. This license does not relicense CFA Institute materials, CFA Institute trademarks, lesson videos, or third-party packages.
