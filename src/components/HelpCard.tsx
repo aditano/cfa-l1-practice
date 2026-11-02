@@ -1,8 +1,9 @@
+import { helpCardStartsOpen } from '../lib/helpCard'
 import type { HardTopicHelp } from '../types'
 
 export function HelpCard({ help }: { help: HardTopicHelp }) {
   return (
-    <details className="help-card" open>
+    <details className="help-card" open={helpCardStartsOpen() ? true : undefined}>
       <summary>Extra help for this module</summary>
       <p>{help.blurb}</p>
       <p>
