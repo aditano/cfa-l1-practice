@@ -14,6 +14,7 @@ import {
   type StoredSession,
 } from '../lib/storage'
 import type { Difficulty, Question, TopicId } from '../types'
+import { practiceEnterAction } from '../lib/practiceKeys'
 import { HelpCard } from './HelpCard'
 import { RichText } from './RichText'
 
@@ -188,13 +189,29 @@ export function Practice() {
     if (phase !== 'session') return
     const onKey = (event: KeyboardEvent) => {
       const target = event.target as HTMLElement | null
-      if (target && ['INPUT', 'TEXTAREA', 'SELECT'].includes(target.tagName)) return
       if (event.key === '1' || event.key === '2' || event.key === '3') {
+        if (target && ['INPUT', 'TEXTAREA', 'SELECT'].includes(target.tagName)) return
         if (!revealed) setPicked(Number(event.key) - 1)
+        return
       }
       if (event.key === 'Enter') {
-        if (!revealed) submit()
-        else goNext()
+        const action = practiceEnterAction(revealed, target?.tagName)
+        switch (action) {
+          case 'ignore':
+            return
+          case 'submit':
+            event.preventDefault()
+            submit()
+            return
+          case 'next':
+            event.preventDefault()
+            goNext()
+            return
+          default: {
+            const _exhaustive: never = action
+            return _exhaustive
+          }
+        }
       }
     }
     window.addEventListener('keydown', onKey)
